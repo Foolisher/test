@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/test.dubbo.server/src/main/resources/logback.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test.jdk/src/main/java/dozermapper/GroupSignUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test.jdk/src/main/java/dozermapper/SignUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test.jdk/src/main/java/dozermapper/User.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test.maven" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test.mybator/src/main/resources/templates/Dao.flt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test.mybator/src/main/resources/templates/Dao.flt.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test.mybator/src/main/resources/templates/DaoTest.flt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test.mybator/src/main/resources/templates/DaoTest.flt.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test.mybator/src/main/resources/templates/Model.flt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test.mybator/src/main/resources/templates/Model.flt.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test.mybator/src/main/resources/templates/Service.flt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test.mybator/src/main/resources/templates/Service.flt.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test.mybator/src/main/resources/templates/ServiceImpl.flt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test.mybator/src/main/resources/templates/ServiceImpl.flt.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test.mybator/src/main/resources/templates/ServiceImplTest.flt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test.mybator/src/main/resources/templates/ServiceImplTest.flt.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test.mybator/src/main/resources/templates/mapper.flt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test.mybator/src/main/resources/templates/mapper.flt.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test.mybator/src/test/resources/logback.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test.net/src/main/java/test/http/SignUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test.pay/src/main/java/alipay/dto/AlipayRefundData.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test.pay/src/main/java/alipay/dto/AlipaySettlementResponse.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test.pay/src/main/java/alipay/dto/settlement/AlipaySettlementDto.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test.pay/src/main/java/alipay/dto/settlement/AlipaySettlementPaging.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test.pay/src/main/java/alipay/dto/settlement/AlipaySettlementParam.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test.pay/src/main/java/alipay/dto/settlement/AlipaySettlementResult.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test.pay/src/main/java/test/http/SignUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test.poi/src/main/java/org/gver/poi/CellBuilder.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test.spring-aop/src/main/resources/logback.xml" charset="UTF-8" />
+  </component>
+</project>

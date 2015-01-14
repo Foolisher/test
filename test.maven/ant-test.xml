@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<project name="test" basedir="." default="test">
+
+    <target name="test">
+        <mkdir dir="./antworkspace"></mkdir>
+    </target>
+
+    <target name="cp">
+        <copydir src="./target"  dest="./antworkspace"/>
+    </target>
+
+</project>

@@ -1,0 +1,25 @@
+/*
+ * Copyright (c) 2014 杭州端点网络科技有限公司
+ */
+
+package alipay.dto.settlement;
+
+import com.thoughtworks.xstream.annotations.XStreamAlias;
+import lombok.Getter;
+import lombok.Setter;
+import lombok.ToString;
+
+/**
+ * Mail: remindxiao@gmail.com <br>
+ * Date: 2014-02-20 10:42 AM  <br>
+ * Author: xiao
+ */
+@ToString
+public class AlipaySettlementResult {
+
+    @Getter
+    @Setter
+    @XStreamAlias("account_page_query_result")
+    private AlipaySettlementPaging paging;
+
+}

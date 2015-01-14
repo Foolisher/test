@@ -1,0 +1,159 @@
+/*
+ * Copyright (c) 2014 杭州端点网络科技有限公司
+ */
+package ${package}.service;
+
+import com.google.common.collect.Maps;
+import io.terminus.common.model.PageInfo;
+import io.terminus.common.model.Paging;
+import io.terminus.pampas.common.Response;
+import ${package}.dao.${model}Dao;
+import ${package}.model.${model};
+import lombok.extern.slf4j.Slf4j;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import java.util.List;
+import java.util.Map;
+
+import static com.google.common.base.Preconditions.*;
+
+/**
+ * ${desc} 服务类<BR>
+ *
+ * @author wanggen ${now?string("yyyy-MM-dd HH:mm:ss")}
+ */
+@Service
+@Slf4j
+public class ${model}ServiceImpl implements ${model}Service {
+
+    <#assign ali="${model?uncap_first}"/>
+    @Autowired
+    private ${model}Dao ${ali}Dao;
+
+	 /**
+	  * 创建 ${desc}
+     * @param ${ali} ${desc}
+	  * @return 新增实例ID
+	  */
+    @Override
+    public Response<Boolean> create(${model} ${ali}) {
+        try{
+            return ok(${ali}Dao.create(${ali}));
+        }catch (Exception e){
+            log.error("Failed to insert into `${tableName}` with param:{}", ${ali} , e);
+            return fail("${tableName}.insert.failed");
+        }
+    }
+
+	 /**
+	  * 根据ID查找一条${desc}
+	  * @param id 实例ID
+	  * @return 返回${desc}结果
+	  */
+    @Override
+    public Response<${model}> findById(Long id) {
+        try{
+            ${model} ${ali} = ${ali}Dao.load(id);
+            if(${ali} == null){
+                log.warn("No records found from `${tableName}` with id:{}", id);
+                return Response.fail("${tableName}.select.failed");
+            }
+            return ok(${ali});
+        }catch (Exception e){
+            log.error("Failed to findById from `${tableName}` with id:{}", id , e);
+            return Response.fail("${tableName}.select.failed");
+        }
+    }
+
+	 /**
+	  * 根据ID列表查询${desc}
+	  * @param ids id列表
+	  * @return ${desc} 结果集
+	  */
+    @Override
+    public Response<List<${model}>> findByIds(List<Long> ids) {
+        try{
+            List<${model}> ${ali}s = ${ali}Dao.loads(ids);
+            if(${ali}s.size()<1){
+                log.warn("No records found from `${tableName}` with ids:{}", ids);
+                return Response.fail("${tableName}.select.failed");
+            }
+            return ok(${ali}s);
+        }catch (Exception e){
+            log.error("Failed to findByIds from `${tableName}` with ids:{}", ids, e);
+            return Response.fail("${tableName}.select.failed");
+        }
+    }
+
+	 /**
+	  * 分页查询${desc}
+	  * @param ${ali} 查询条件集合
+	  * @param pageNo 起始页码,默认1
+	  * @param pageSize 每页数量,默认20
+	  * @return 分页查询结果
+	  */
+    @Override
+    public Response<Paging<${model}>> findByPaging(${model} ${ali}, Integer pageNo, Integer pageSize) {
+        try{
+            PageInfo pageInfo = new PageInfo(pageNo, pageSize);
+            Paging<${model}> ${ali}s = ${ali}Dao.paging(pageInfo.getOffset(), pageInfo.getLimit(), ${ali});
+            return Response.ok(${ali}s);
+        }catch (Exception e){
+            log.error("Failed to findByPaging from `${tableName}` with param:{}", ${ali}, e);
+            return Response.fail("${tableName}.select.failed");
+        }
+    }
+
+
+    <#if addQueryConds??>
+    <#list addQueryConds as fds>
+    <#assign mn_c><#list fds as fd>"${fd.javaName}"<#if fd_has_next>, </#if></#list></#assign>
+    <#assign mn>findBy<#list fds as fd>${fd.javaName?cap_first}<#if fd_has_next>And</#if></#list></#assign>
+    <#assign pp><#list fds as fd>${fd.javaName}:{}<#if fd_has_next>, </#if></#list></#assign>
+    @Override
+    public Response<List<${model}>> ${mn}(<#list fds as fd>${fd.javaType} ${fd.javaName}<#if fd_has_next>, </#if></#list>){
+        try{
+            List<${model}> ${ali}s = ${ali}Dao.${mn}(<#list fds as fd>${fd.javaName}<#if fd_has_next>, </#if></#list>);
+            return ok(${ali}s);
+        }catch (Exception e){
+            log.error("Failed to ${mn} from `${tableName}` with ${pp}", <#list fds as fd>${fd.javaName}<#if fd_has_next>, </#if></#list>, e);
+            return fail("${tableName}.select.failed");
+        }
+    }
+
+
+    </#list>
+
+
+    </#if>
+	 /**
+	  * 根据实例ID更新记录
+     * @param ${ali} ${desc}
+	  * @return 更新影响行数
+     */
+    @Override
+    public Response<Boolean> update(${model} ${ali}) {
+        try{
+            return ok(${ali}Dao.update(${ali}));
+        }catch (Exception e){
+            log.error("Failed to update table `${tableName}` with param:{}", ${ali} , e);
+            return fail("${tableName}.update.failed");
+        }
+    }
+
+	 /**
+	  * 更具ID列表删除${desc}
+	  * @param ids ${desc}ID列表
+	  * @return 删除影响行数
+	  */
+    @Override
+    public Response<Integer> deleteByIds(List<Long> ids) {
+        try{
+            return Response.ok(${ali}Dao.deletes(ids));
+        }catch (Exception e){
+            log.error("Failed to deleteByIds from `${tableName}` with param:{}", ids , e);
+            return Response.fail("${tableName}.delete.failed");
+        }
+    }
+}

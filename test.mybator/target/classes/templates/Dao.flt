@@ -1,0 +1,47 @@
+/*
+ * Copyright (c) 2014 杭州端点网络科技有限公司
+ */
+package ${package}.dao;
+
+import com.google.common.collect.ImmutableMap;
+import io.terminus.common.model.Paging;
+import io.terminus.common.mysql.dao.MyBatisDao;
+import com.google.common.collect.Maps;
+import ${package}.model.${model};
+import org.mybatis.spring.support.SqlSessionDaoSupport;
+import org.springframework.stereotype.Repository;
+
+import java.util.Collections;
+import java.util.List;
+import java.util.Map;
+
+/**
+ * 提供对表 `${tableName}`  的增删改查操作<BR>
+ *
+ * Created by wanggen ${now?string("yyyy-MM-dd HH:mm:ss")}
+ */
+@Repository
+public class ${model}Dao extends MyBatisDao<${model}> {
+
+
+
+    <#if addQueryConds??>
+    <#list addQueryConds as fds>
+    <#assign param><#if fds?size gt 1>ImmutableMap.of(<#list fds as fd>"${fd.javaName}", ${fd.javaName}<#if fd_has_next>,</#if></#list>)<#else>${fds[0].javaName}</#if></#assign>
+    <#assign joinedFields><#list fds as fd>${fd.javaName?cap_first}<#if fd_has_next>And</#if></#list></#assign>
+    /**
+     * 根据 <#list fds as fd>${fd.javaName}<#if fd_has_next>,</#if></#list> 查询 ${model} 列表
+     *
+     *<#list fds as fd> @param ${fd.javaName}   ${fd.comment}
+     *</#list> @return 结果列
+     */
+    public List<${model}> findBy${joinedFields}(<#list fds as fd>${fd.javaType} ${fd.javaName}<#if fd_has_next>, </#if></#list>){
+        return getSqlSession().selectList(sqlId("findBy${joinedFields}"),${param});
+    }
+
+
+    </#list>
+    </#if>
+
+
+}

@@ -1,0 +1,112 @@
+2014-11-24 15:10:56,249 INFO [main] d.s.DemoServiceImpl [DemoServiceImpl.java:23] 实例化:dubbo.serviceimpl.DemoServiceImpl@554f686d
+2014-11-24 15:10:56,258 INFO [main] d.s.DemoServiceImpl [DemoServiceImpl.java:25] ==> null
+2014-11-24 15:11:19,960 INFO [DubboServerHandler-10.0.0.18:20880-thread-2] d.s.DemoServiceImpl [DemoServiceImpl.java:35] hello :hello wanggen~      15:11:19,960
+2014-11-24 15:11:19,960 INFO [DubboServerHandler-10.0.0.18:20880-thread-3] d.s.DemoServiceImpl [DemoServiceImpl.java:35] hello :hello wanggen~      15:11:19,960
+2014-11-24 15:11:19,960 INFO [DubboServerHandler-10.0.0.18:20880-thread-2] d.s.DemoServiceImpl [DemoServiceImpl.java:36] key is:null
+2014-11-24 15:11:19,960 INFO [DubboServerHandler-10.0.0.18:20880-thread-3] d.s.DemoServiceImpl [DemoServiceImpl.java:36] key is:null
+2014-11-24 15:11:20,989 INFO [DubboServerHandler-10.0.0.18:20880-thread-4] d.s.DemoServiceImpl [DemoServiceImpl.java:35] hello :hello wanggen~      15:11:20,989
+2014-11-24 15:11:20,990 INFO [DubboServerHandler-10.0.0.18:20880-thread-4] d.s.DemoServiceImpl [DemoServiceImpl.java:36] key is:null
+2014-11-24 15:11:21,995 INFO [DubboServerHandler-10.0.0.18:20880-thread-5] d.s.DemoServiceImpl [DemoServiceImpl.java:35] hello :hello wanggen~      15:11:21,995
+2014-11-24 15:11:21,996 INFO [DubboServerHandler-10.0.0.18:20880-thread-5] d.s.DemoServiceImpl [DemoServiceImpl.java:36] key is:null
+2014-11-24 15:11:23,002 INFO [DubboServerHandler-10.0.0.18:20880-thread-6] d.s.DemoServiceImpl [DemoServiceImpl.java:35] hello :hello wanggen~      15:11:23,002
+2014-11-24 15:11:23,003 INFO [DubboServerHandler-10.0.0.18:20880-thread-6] d.s.DemoServiceImpl [DemoServiceImpl.java:36] key is:null
+2014-11-24 15:11:24,009 INFO [DubboServerHandler-10.0.0.18:20880-thread-7] d.s.DemoServiceImpl [DemoServiceImpl.java:35] hello :hello wanggen~      15:11:24,009
+2014-11-24 15:11:24,010 INFO [DubboServerHandler-10.0.0.18:20880-thread-7] d.s.DemoServiceImpl [DemoServiceImpl.java:36] key is:null
+2014-11-24 15:11:25,016 INFO [DubboServerHandler-10.0.0.18:20880-thread-8] d.s.DemoServiceImpl [DemoServiceImpl.java:35] hello :hello wanggen~      15:11:25,016
+2014-11-24 15:11:25,016 INFO [DubboServerHandler-10.0.0.18:20880-thread-8] d.s.DemoServiceImpl [DemoServiceImpl.java:36] key is:null
+2014-11-24 15:11:26,022 INFO [DubboServerHandler-10.0.0.18:20880-thread-9] d.s.DemoServiceImpl [DemoServiceImpl.java:35] hello :hello wanggen~      15:11:26,022
+2014-11-24 15:11:26,022 INFO [DubboServerHandler-10.0.0.18:20880-thread-9] d.s.DemoServiceImpl [DemoServiceImpl.java:36] key is:null
+2014-11-24 15:11:27,030 INFO [DubboServerHandler-10.0.0.18:20880-thread-10] d.s.DemoServiceImpl [DemoServiceImpl.java:35] hello :hello wanggen~      15:11:27,030
+2014-11-24 15:11:27,030 INFO [DubboServerHandler-10.0.0.18:20880-thread-10] d.s.DemoServiceImpl [DemoServiceImpl.java:36] key is:null
+2014-11-24 15:11:28,039 INFO [DubboServerHandler-10.0.0.18:20880-thread-11] d.s.DemoServiceImpl [DemoServiceImpl.java:35] hello :hello wanggen~      15:11:28,039
+2014-11-24 15:11:28,039 INFO [DubboServerHandler-10.0.0.18:20880-thread-11] d.s.DemoServiceImpl [DemoServiceImpl.java:36] key is:null
+2014-11-24 15:11:29,046 INFO [DubboServerHandler-10.0.0.18:20880-thread-12] d.s.DemoServiceImpl [DemoServiceImpl.java:35] hello :hello wanggen~      15:11:29,046
+2014-11-24 15:11:29,047 INFO [DubboServerHandler-10.0.0.18:20880-thread-12] d.s.DemoServiceImpl [DemoServiceImpl.java:36] key is:null
+2014-11-24 15:11:30,050 INFO [DubboServerHandler-10.0.0.18:20880-thread-13] d.s.DemoServiceImpl [DemoServiceImpl.java:35] hello :hello wanggen~      15:11:30,050
+2014-11-24 15:11:30,051 INFO [DubboServerHandler-10.0.0.18:20880-thread-13] d.s.DemoServiceImpl [DemoServiceImpl.java:36] key is:null
+2014-11-24 15:11:31,057 INFO [DubboServerHandler-10.0.0.18:20880-thread-14] d.s.DemoServiceImpl [DemoServiceImpl.java:35] hello :hello wanggen~      15:11:31,057
+2014-11-24 15:11:31,057 INFO [DubboServerHandler-10.0.0.18:20880-thread-14] d.s.DemoServiceImpl [DemoServiceImpl.java:36] key is:null
+2014-11-24 15:11:32,064 INFO [DubboServerHandler-10.0.0.18:20880-thread-15] d.s.DemoServiceImpl [DemoServiceImpl.java:35] hello :hello wanggen~      15:11:32,064
+2014-11-24 15:11:32,065 INFO [DubboServerHandler-10.0.0.18:20880-thread-15] d.s.DemoServiceImpl [DemoServiceImpl.java:36] key is:null
+2014-11-24 15:11:33,071 INFO [DubboServerHandler-10.0.0.18:20880-thread-16] d.s.DemoServiceImpl [DemoServiceImpl.java:35] hello :hello wanggen~      15:11:33,071
+2014-11-24 15:11:33,071 INFO [DubboServerHandler-10.0.0.18:20880-thread-16] d.s.DemoServiceImpl [DemoServiceImpl.java:36] key is:null
+2014-11-24 15:11:34,079 INFO [DubboServerHandler-10.0.0.18:20880-thread-17] d.s.DemoServiceImpl [DemoServiceImpl.java:35] hello :hello wanggen~      15:11:34,079
+2014-11-24 15:11:34,080 INFO [DubboServerHandler-10.0.0.18:20880-thread-17] d.s.DemoServiceImpl [DemoServiceImpl.java:36] key is:null
+2014-11-24 15:11:35,087 INFO [DubboServerHandler-10.0.0.18:20880-thread-18] d.s.DemoServiceImpl [DemoServiceImpl.java:35] hello :hello wanggen~      15:11:35,087
+2014-11-24 15:11:35,088 INFO [DubboServerHandler-10.0.0.18:20880-thread-18] d.s.DemoServiceImpl [DemoServiceImpl.java:36] key is:null
+2014-11-24 15:11:36,096 INFO [DubboServerHandler-10.0.0.18:20880-thread-19] d.s.DemoServiceImpl [DemoServiceImpl.java:35] hello :hello wanggen~      15:11:36,096
+2014-11-24 15:11:36,096 INFO [DubboServerHandler-10.0.0.18:20880-thread-19] d.s.DemoServiceImpl [DemoServiceImpl.java:36] key is:null
+2014-11-24 15:11:37,104 INFO [DubboServerHandler-10.0.0.18:20880-thread-20] d.s.DemoServiceImpl [DemoServiceImpl.java:35] hello :hello wanggen~      15:11:37,104
+2014-11-24 15:11:37,105 INFO [DubboServerHandler-10.0.0.18:20880-thread-20] d.s.DemoServiceImpl [DemoServiceImpl.java:36] key is:null
+2014-11-24 15:11:38,111 INFO [DubboServerHandler-10.0.0.18:20880-thread-21] d.s.DemoServiceImpl [DemoServiceImpl.java:35] hello :hello wanggen~      15:11:38,110
+2014-11-24 15:11:38,111 INFO [DubboServerHandler-10.0.0.18:20880-thread-21] d.s.DemoServiceImpl [DemoServiceImpl.java:36] key is:null
+2014-11-24 15:12:28,435 INFO [main] d.s.DemoServiceImpl [DemoServiceImpl.java:24] 实例化:dubbo.serviceimpl.DemoServiceImpl@5e860ba9
+2014-11-24 15:12:28,437 INFO [main] d.s.DemoServiceImpl [DemoServiceImpl.java:26] ==> null
+2014-11-24 15:12:37,693 INFO [DubboServerHandler-10.0.0.18:20880-thread-2] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:12:37,693
+2014-11-24 15:12:37,698 INFO [DubboServerHandler-10.0.0.18:20880-thread-3] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:12:37,698
+2014-11-24 15:12:37,804 INFO [DubboServerHandler-10.0.0.18:20880-thread-4] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:12:37,804
+2014-11-24 15:12:37,909 INFO [DubboServerHandler-10.0.0.18:20880-thread-5] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:12:37,909
+2014-11-24 15:12:38,015 INFO [DubboServerHandler-10.0.0.18:20880-thread-6] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:12:38,015
+2014-11-24 15:12:38,121 INFO [DubboServerHandler-10.0.0.18:20880-thread-7] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:12:38,121
+2014-11-24 15:13:39,586 INFO [DubboServerHandler-10.0.0.18:20880-thread-15] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:39,586
+2014-11-24 15:13:39,641 INFO [DubboServerHandler-10.0.0.18:20880-thread-16] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:39,641
+2014-11-24 15:13:39,744 INFO [DubboServerHandler-10.0.0.18:20880-thread-17] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:39,743
+2014-11-24 15:13:39,846 INFO [DubboServerHandler-10.0.0.18:20880-thread-18] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:39,846
+2014-11-24 15:13:39,951 INFO [DubboServerHandler-10.0.0.18:20880-thread-19] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:39,950
+2014-11-24 15:13:40,054 INFO [DubboServerHandler-10.0.0.18:20880-thread-20] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:40,054
+2014-11-24 15:13:41,163 INFO [DubboServerHandler-10.0.0.18:20880-thread-21] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:41,163
+2014-11-24 15:13:41,267 INFO [DubboServerHandler-10.0.0.18:20880-thread-22] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:41,267
+2014-11-24 15:13:41,371 INFO [DubboServerHandler-10.0.0.18:20880-thread-23] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:41,371
+2014-11-24 15:13:41,476 INFO [DubboServerHandler-10.0.0.18:20880-thread-24] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:41,476
+2014-11-24 15:13:41,582 INFO [DubboServerHandler-10.0.0.18:20880-thread-25] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:41,582
+2014-11-24 15:13:41,688 INFO [DubboServerHandler-10.0.0.18:20880-thread-26] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:41,688
+2014-11-24 15:13:42,801 INFO [DubboServerHandler-10.0.0.18:20880-thread-27] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:42,801
+2014-11-24 15:13:42,904 INFO [DubboServerHandler-10.0.0.18:20880-thread-28] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:42,904
+2014-11-24 15:13:43,007 INFO [DubboServerHandler-10.0.0.18:20880-thread-29] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:43,007
+2014-11-24 15:13:43,110 INFO [DubboServerHandler-10.0.0.18:20880-thread-30] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:43,110
+2014-11-24 15:13:43,214 INFO [DubboServerHandler-10.0.0.18:20880-thread-31] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:43,214
+2014-11-24 15:13:43,317 INFO [DubboServerHandler-10.0.0.18:20880-thread-32] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:43,317
+2014-11-24 15:13:44,424 INFO [DubboServerHandler-10.0.0.18:20880-thread-33] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:44,424
+2014-11-24 15:13:44,530 INFO [DubboServerHandler-10.0.0.18:20880-thread-34] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:44,530
+2014-11-24 15:13:44,636 INFO [DubboServerHandler-10.0.0.18:20880-thread-35] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:44,636
+2014-11-24 15:13:44,741 INFO [DubboServerHandler-10.0.0.18:20880-thread-36] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:44,741
+2014-11-24 15:13:44,847 INFO [DubboServerHandler-10.0.0.18:20880-thread-37] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:44,847
+2014-11-24 15:13:44,953 INFO [DubboServerHandler-10.0.0.18:20880-thread-38] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:44,953
+2014-11-24 15:13:46,063 INFO [DubboServerHandler-10.0.0.18:20880-thread-39] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:46,063
+2014-11-24 15:13:46,168 INFO [DubboServerHandler-10.0.0.18:20880-thread-40] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:46,168
+2014-11-24 15:13:46,274 INFO [DubboServerHandler-10.0.0.18:20880-thread-41] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:46,274
+2014-11-24 15:13:46,377 INFO [DubboServerHandler-10.0.0.18:20880-thread-42] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:46,377
+2014-11-24 15:13:46,483 INFO [DubboServerHandler-10.0.0.18:20880-thread-43] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:46,483
+2014-11-24 15:13:46,588 INFO [DubboServerHandler-10.0.0.18:20880-thread-44] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:46,588
+2014-11-24 15:13:47,698 INFO [DubboServerHandler-10.0.0.18:20880-thread-45] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:47,698
+2014-11-24 15:13:47,804 INFO [DubboServerHandler-10.0.0.18:20880-thread-46] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:47,804
+2014-11-24 15:13:47,908 INFO [DubboServerHandler-10.0.0.18:20880-thread-47] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:47,908
+2014-11-24 15:13:48,014 INFO [DubboServerHandler-10.0.0.18:20880-thread-48] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:48,014
+2014-11-24 15:13:48,120 INFO [DubboServerHandler-10.0.0.18:20880-thread-49] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:48,120
+2014-11-24 15:13:48,224 INFO [DubboServerHandler-10.0.0.18:20880-thread-50] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:48,224
+2014-11-24 15:13:49,334 INFO [DubboServerHandler-10.0.0.18:20880-thread-51] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:49,334
+2014-11-24 15:13:49,439 INFO [DubboServerHandler-10.0.0.18:20880-thread-52] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:49,439
+2014-11-24 15:13:49,545 INFO [DubboServerHandler-10.0.0.18:20880-thread-53] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:49,545
+2014-11-24 15:13:49,649 INFO [DubboServerHandler-10.0.0.18:20880-thread-54] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:49,649
+2014-11-24 15:13:49,755 INFO [DubboServerHandler-10.0.0.18:20880-thread-55] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:49,755
+2014-11-24 15:13:49,860 INFO [DubboServerHandler-10.0.0.18:20880-thread-56] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:49,860
+2014-11-24 15:13:50,973 INFO [DubboServerHandler-10.0.0.18:20880-thread-57] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:50,972
+2014-11-24 15:13:51,075 INFO [DubboServerHandler-10.0.0.18:20880-thread-58] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:51,075
+2014-11-24 15:13:51,181 INFO [DubboServerHandler-10.0.0.18:20880-thread-59] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:51,180
+2014-11-24 15:13:51,286 INFO [DubboServerHandler-10.0.0.18:20880-thread-60] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:51,286
+2014-11-24 15:13:51,389 INFO [DubboServerHandler-10.0.0.18:20880-thread-61] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:51,389
+2014-11-24 15:13:51,493 INFO [DubboServerHandler-10.0.0.18:20880-thread-62] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:51,493
+2014-11-24 15:13:52,602 INFO [DubboServerHandler-10.0.0.18:20880-thread-63] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:52,602
+2014-11-24 15:13:52,706 INFO [DubboServerHandler-10.0.0.18:20880-thread-64] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:52,706
+2014-11-24 15:13:52,811 INFO [DubboServerHandler-10.0.0.18:20880-thread-65] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:52,811
+2014-11-24 15:13:52,918 INFO [DubboServerHandler-10.0.0.18:20880-thread-66] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:52,918
+2014-11-24 15:13:53,019 INFO [DubboServerHandler-10.0.0.18:20880-thread-67] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:53,019
+2014-11-24 15:13:53,123 INFO [DubboServerHandler-10.0.0.18:20880-thread-68] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:53,123
+2014-11-24 15:13:54,233 INFO [DubboServerHandler-10.0.0.18:20880-thread-69] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:54,233
+2014-11-24 15:13:54,337 INFO [DubboServerHandler-10.0.0.18:20880-thread-70] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:13:54,337
+2014-11-24 15:15:05,922 INFO [DubboServerHandler-10.0.0.18:20880-thread-92] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:15:05,922
+2014-11-24 15:15:05,971 INFO [DubboServerHandler-10.0.0.18:20880-thread-93] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:15:05,970
+2014-11-24 15:15:06,073 INFO [DubboServerHandler-10.0.0.18:20880-thread-94] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:15:06,073
+2014-11-24 15:15:06,178 INFO [DubboServerHandler-10.0.0.18:20880-thread-95] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:15:06,178
+2014-11-24 15:15:06,282 INFO [DubboServerHandler-10.0.0.18:20880-thread-96] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:15:06,282
+2014-11-24 15:15:06,388 INFO [DubboServerHandler-10.0.0.18:20880-thread-97] d.s.DemoServiceImpl [DemoServiceImpl.java:36] hello :hello wanggen~      15:15:06,388

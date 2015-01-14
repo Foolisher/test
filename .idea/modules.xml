@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/test.iml" filepath="$PROJECT_DIR$/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test.Jython/test.Jython.iml" filepath="$PROJECT_DIR$/test.Jython/test.Jython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test.designmodel/test.designmodel.iml" filepath="$PROJECT_DIR$/test.designmodel/test.designmodel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test.dubbo/test.dubbo.iml" filepath="$PROJECT_DIR$/test.dubbo/test.dubbo.iml" group="test.dubbo and modules" />
+      <module fileurl="file://$PROJECT_DIR$/test.dubbo.client/test.dubbo.client.iml" filepath="$PROJECT_DIR$/test.dubbo.client/test.dubbo.client.iml" group="test.dubbo and modules" />
+      <module fileurl="file://$PROJECT_DIR$/test.dubbo.server/test.dubbo.server.iml" filepath="$PROJECT_DIR$/test.dubbo.server/test.dubbo.server.iml" group="test.dubbo and modules/test.dubbo.server and modules" />
+      <module fileurl="file://$PROJECT_DIR$/test.groovy/test.groovy.iml" filepath="$PROJECT_DIR$/test.groovy/test.groovy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test.guava/test.guava.iml" filepath="$PROJECT_DIR$/test.guava/test.guava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test.io/test.io.iml" filepath="$PROJECT_DIR$/test.io/test.io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test.jdk/test.jdk.iml" filepath="$PROJECT_DIR$/test.jdk/test.jdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test.lucene/test.lucene.iml" filepath="$PROJECT_DIR$/test.lucene/test.lucene.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test.lucene.webapp/test.lucene.webapp.iml" filepath="$PROJECT_DIR$/test.lucene.webapp/test.lucene.webapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test.maven/test.maven.iml" filepath="$PROJECT_DIR$/test.maven/test.maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test.mockito/test.mockito.iml" filepath="$PROJECT_DIR$/test.mockito/test.mockito.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test.mybator/test.mybator.iml" filepath="$PROJECT_DIR$/test.mybator/test.mybator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test.net/test.net.iml" filepath="$PROJECT_DIR$/test.net/test.net.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test.netty/test.netty.iml" filepath="$PROJECT_DIR$/test.netty/test.netty.iml" group="test.dubbo and modules/test.dubbo.server and modules" />
+      <module fileurl="file://$PROJECT_DIR$/test.nutch/test.nutch.iml" filepath="$PROJECT_DIR$/test.nutch/test.nutch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test.pay/test.pay.iml" filepath="$PROJECT_DIR$/test.pay/test.pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test.poi/test.poi.iml" filepath="$PROJECT_DIR$/test.poi/test.poi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test.redis/test.redis.iml" filepath="$PROJECT_DIR$/test.redis/test.redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test.ruby/test.ruby.iml" filepath="$PROJECT_DIR$/test.ruby/test.ruby.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test.sonar/test.sonar.iml" filepath="$PROJECT_DIR$/test.sonar/test.sonar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test.spring/test.spring.iml" filepath="$PROJECT_DIR$/test.spring/test.spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test.spring-aop/test.spring-aop.iml" filepath="$PROJECT_DIR$/test.spring-aop/test.spring-aop.iml" group="test.spring and modules" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,109 @@
+/*
+ * Copyright (c) 2014 杭州端点网络科技有限公司
+ */
+package ${package}.dao;
+
+import io.terminus.common.model.Paging;
+import ${package}.model.${model};
+import org.joda.time.DateTime;
+import com.google.common.collect.ImmutableList;
+import org.junit.Assert;
+import org.junit.Before;
+import org.junit.Test;
+import org.springframework.beans.factory.annotation.Autowired;
+
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
+/**
+ * 对 `${tableName}` CRUD 测试<BR>
+ * created by wanggen ${now?string("yyyy-MM-dd HH:mm:ss")}
+ */
+public class ${model}DaoTest extends BaseDaoTest {
+    <#assign ali="${model?uncap_first}"/>
+
+    @Autowired
+    private ${model}Dao ${ali}Dao;
+
+    private Long createdId = null;
+
+    private ${model} ${ali} = null;
+
+    @Before
+    public void setUp() throws Exception {
+        ${ali} = new ${model}();
+        <#list properties as p>
+        <#assign t><#if "${p.javaType}"=="String">"${p.comment}"</#if><#if "${p.javaType}"=="Long">1l</#if><#if "${p.javaType}"=="Integer">1</#if><#if "${p.javaType}"=="Date">DateTime.now().toDate()</#if></#assign>
+        ${ali}.set${p.javaName?cap_first}(${t}); //${p.comment}
+        </#list>
+        ${ali}Dao.create(${ali});
+        createdId = ${ali}.getId();
+    }
+
+    @Test
+    public void testCreate() throws Exception {
+    }
+
+    @Test
+    public void testLoad() throws Exception {
+        ${model} byId = ${ali}Dao.load(createdId);
+        Assert.assertTrue("The requery result's id must equals:"+createdId, byId!=null && byId.getId().equals(createdId));
+    }
+
+
+    @Test
+    public void testLoads() throws Exception {
+        List<${model}> byIds = ${ali}Dao.loads(ImmutableList.of(createdId));
+        Assert.assertTrue("One record must be selectd"+createdId, byIds!=null && byIds.size()==1);
+    }
+
+
+
+    @Test
+    public void testPaging() throws Exception {
+        Paging<${model}> byPaging = ${ali}Dao.paging(1, 1000, ${ali});
+        Assert.assertTrue("At least one record must be found",
+                byPaging.getData()!=null && byPaging.getData().size()>=1);
+    }
+
+
+    <#if addQueryConds??>
+    <#list addQueryConds as fds>
+    <#assign mn><#list fds as fd>${fd.javaName?cap_first}<#if fd_has_next>And</#if></#list></#assign>
+    @Test
+    public void testFindBy${mn}(){
+
+        <#list fds as fd>
+        <#assign t><#if "${fd.javaType}"=="String">"${fd.comment}"</#if><#if "${fd.javaType}"=="Long">1l</#if><#if "${fd.javaType}"=="Integer">1</#if><#if "${fd.javaType}"=="Date">DateTime.now().toDate()</#if></#assign>
+        ${fd.javaType} ${fd.javaName} = ${t}; ${"//"+fd.comment}
+        </#list>
+
+        List<${model}> ${ali}s = ${ali}Dao.findBy${mn}(<#list fds as fd>${fd.javaName}<#if fd_has_next>, </#if></#list>);
+
+        Assert.assertTrue("At least one record must be found", ${ali}s.size()>=1);
+
+    }
+
+
+    </#list>
+    </#if>
+    @Test
+    public void testUpdate() throws Exception {
+        ${model} ${ali} = new ${model}();
+        ${ali}.setId(createdId);
+        <#list properties as p>
+        <#assign t><#if "${p.javaName}"!="id"><#if "${p.javaType}"=="String">"${p.comment}-new"</#if><#if "${p.javaType}"=="Long">1001l</#if><#if "${p.javaType}"=="Integer">1001</#if><#if "${p.javaType}"=="Date">DateTime.now().toDate()</#if></#if></#assign>
+        <#if "${p.javaName}"!="id">${ali}.set${p.javaName?cap_first}(${t}); //${p.comment}</#if>
+        </#list>
+        Assert.assertTrue("One record must be updated", ${ali}Dao.update(${ali}));
+    }
+
+
+    @Test
+    public void testDeleteByIds() throws Exception {
+        int deleted = ${ali}Dao.deletes(ImmutableList.of(createdId));
+        Assert.assertTrue("One record must be deleted", deleted==1);
+    }
+
+}
