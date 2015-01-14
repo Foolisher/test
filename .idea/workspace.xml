@@ -6,491 +6,145 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ff36cf7-d168-499b-abd8-a79a89c37c93" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/git.ingore" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.Jython/target/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.Jython/target/classes/org/gver/python/JythonHello.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.designmodel/target/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.designmodel/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.designmodel/target/test.designmodel-0.0.1-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.client/target/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.client/target/classes/applicationContext.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.client/target/classes/dubbo/action/Consumer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.client/target/classes/dubbo/service/DemoService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.client/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.client/target/test.dubbo.client-0.0.1-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/classes/app.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/classes/dubbo/Bootstrap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/classes/dubbo/service/DemoService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/classes/dubbo/serviceimpl/DemoServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/classes/logback.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/classes/spring/applicationContext.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/lib/aopalliance-1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/lib/com.springsource.com.fasterxml.jackson.core.jackson-core-2.0.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/lib/commons-beanutils-1.8.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/lib/commons-lang3-3.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/lib/commons-logging-1.1.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/lib/dubbo-2.5.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/lib/guava-17.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/lib/hamcrest-core-1.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/lib/http-request-5.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/lib/javassist-3.15.0-GA.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/lib/jcl-over-slf4j-1.6.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/lib/jcl-over-slf4j-1.7.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/lib/jline-0.9.94.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/lib/junit-4.11.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/lib/log4j-1.2.14.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/lib/logback-classic-1.0.13.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/lib/logback-core-1.0.13.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/lib/lombok-1.12.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/lib/lombok-1.12.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/lib/netty-3.2.5.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/lib/netty-3.7.0.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/lib/pampas-parent-1.0-SNAPSHOT.pom" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/lib/slf4j-api-1.6.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/lib/slf4j-api-1.7.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/lib/slf4j-log4j12-1.6.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/lib/spring-2.5.6.SEC03.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/lib/spring-aop-3.1.4.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/lib/spring-aop-3.2.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/lib/spring-asm-3.1.4.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/lib/spring-beans-3.1.4.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/lib/spring-beans-3.2.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/lib/spring-context-3.1.4.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/lib/spring-context-3.2.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/lib/spring-context-support-3.1.4.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/lib/spring-core-3.1.4.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/lib/spring-core-3.2.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/lib/spring-data-redis-1.1.1.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/lib/spring-expression-3.1.4.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/lib/spring-expression-3.2.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/lib/spring-test-3.2.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/lib/spring-tx-3.1.4.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/lib/zkclient-0.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/lib/zkclient-20120522.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/lib/zookeeper-3.4.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo.server/target/test.dubbo.server-0.0.1-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.dubbo/target/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.groovy/target/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.groovy/target/classes/Student.groovy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.groovy/target/classes/org/gver/groovy/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.groovy/target/classes/org/gver/groovy/Student1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.guava/target/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.guava/target/classes/com/guava/common/reflect/ReflectionTest$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.guava/target/classes/com/guava/common/reflect/ReflectionTest$Api.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.guava/target/classes/com/guava/common/reflect/ReflectionTest$ApiImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.guava/target/classes/com/guava/common/reflect/ReflectionTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.guava/target/classes/test/guava/base/OptionalTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.guava/target/classes/test/guava/base/SuppliersTest$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.guava/target/classes/test/guava/base/SuppliersTest$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.guava/target/classes/test/guava/base/SuppliersTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.guava/target/classes/test/guava/cache/CacheBuilderTest$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.guava/target/classes/test/guava/cache/CacheBuilderTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.guava/target/classes/test/guava/cache/CacheTest$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.guava/target/classes/test/guava/cache/CacheTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.guava/target/classes/test/guava/cache/UserService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.guava/target/classes/test/guava/collections/ListsTest$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.guava/target/classes/test/guava/collections/ListsTest$1Item.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.guava/target/classes/test/guava/collections/ListsTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.guava/target/classes/test/guava/collections/MultiListMapTest$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.guava/target/classes/test/guava/collections/MultiListMapTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.guava/target/classes/test/guava/collections/MultiMapTest$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.guava/target/classes/test/guava/collections/MultiMapTest$Student.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.guava/target/classes/test/guava/collections/MultiMapTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.guava/target/classes/test/guava/collections/MultiSetTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.guava/target/classes/test/guava/collections/OrderingTest$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.guava/target/classes/test/guava/collections/OrderingTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.guava/target/classes/test/guava/collections/Person.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.guava/target/classes/test/guava/collections/RangeMapTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.guava/target/classes/test/guava/collections/RangeTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.guava/target/classes/test/guava/collections/Student.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.guava/target/classes/test/guava/event/Bootstrap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.guava/target/classes/test/guava/event/Message.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.guava/target/classes/test/guava/event/NewsCenter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.guava/target/classes/test/guava/event/StudentListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.guava/target/classes/test/guava/event/StudentMsg.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.guava/target/classes/test/guava/event/WorkerListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.guava/target/classes/test/guava/event/WorkerMsg.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.guava/target/classes/test/guava/exception/ThrowablesTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.guava/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.guava/target/test.guava-0.0.1-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.io/target/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.io/target/classes/test/io/FileReaderTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.io/target/classes/test/io/StringTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.io/target/classes/test/io/TestSer$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.io/target/classes/test/io/TestSer$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.io/target/classes/test/io/TestSer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.io/target/classes/time/TimeUnitTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.io/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.io/target/test.io-0.0.1-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/classes/collection/ListTest$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/classes/collection/ListTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/classes/data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/classes/dest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/classes/dozermapper/GroupSignUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/classes/dozermapper/SignUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/classes/dozermapper/Test2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/classes/dozermapper/User$Language.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/classes/dozermapper/User$Sex.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/classes/dozermapper/User.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/classes/encoding/_64Encoding.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/classes/expexp/String.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/classes/genericity/MyWriter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/classes/handlebars/HbsTest$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/classes/handlebars/HbsTest$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/classes/handlebars/HbsTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/classes/handlebars/Item.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/classes/json/FasterJson.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/classes/jvm/ClassCreateSpeed.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/classes/jvm/MaxHeapTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/classes/lang/MapTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/classes/math/Domino$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/classes/math/Domino$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/classes/math/Domino.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/classes/math/Maths.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/classes/oop/Person$Home.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/classes/oop/Person.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/classes/oop/StaticInnerClassTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/classes/oop/Sub.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/classes/oop/Supper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/classes/other/HibernateValidator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/classes/other/Person.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/classes/reflection/Father.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/classes/reflection/FieldTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/classes/reflection/InvocationTest$Person.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/classes/reflection/InvocationTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/classes/reflection/MethodUtilsTeset.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/classes/reflection/Person.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/classes/reflection/Supplier.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/classes/string/StringCompare.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/classes/string/StringTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/classes/string/StringTokenizer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/classes/string/URLEncodeTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/classes/xml/JsoupParser.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/classes/xml/Person.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/classes/xml/XMLStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.jdk/target/test.jdk-0.0.1-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/classes/app.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/classes/applicationContext.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/classes/org/gver/web/Searcher.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/classes/org/gver/web/UserController1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/classes/org/gver/web/UserController2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/classes/org/gver/web/handlebars/HandlebarsEngine$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/classes/org/gver/web/handlebars/HandlebarsEngine.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web.war" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/c.tld" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/classes/app.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/classes/applicationContext.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/classes/org/gver/web/Searcher.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/classes/org/gver/web/UserController1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/classes/org/gver/web/UserController2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/classes/org/gver/web/handlebars/HandlebarsEngine$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/classes/org/gver/web/handlebars/HandlebarsEngine.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/IKAnalyser-2014.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/antlr4-runtime-4.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/aopalliance-1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/com.springsource.com.fasterxml.jackson.core.jackson-core-2.0.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/commons-beanutils-1.8.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/commons-lang3-3.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/commons-logging-1.1.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/dubbo-2.5.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/guava-17.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/hamcrest-core-1.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/handlebars-1.2.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/http-request-5.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/jakarta-regexp-1.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/javassist-3.15.0-GA.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/jcl-over-slf4j-1.7.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/jline-0.9.94.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/jsoup-1.6.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/junit-4.11.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/log4j-1.2.16.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/logback-classic-1.0.13.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/logback-core-1.0.13.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/lombok-1.12.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/lucene-analyzers-common-4.6.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/lucene-core-4.6.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/lucene-highlighter-4.6.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/lucene-memory-4.6.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/lucene-queries-4.6.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/lucene-queryparser-4.6.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/lucene-sandbox-4.6.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/netty-3.2.5.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/netty-3.7.0.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/rhino-1.7R4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/servlet-api-2.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/slf4j-api-1.6.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/slf4j-log4j12-1.6.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/spring-aop-3.2.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/spring-beans-3.2.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/spring-context-3.2.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/spring-context-support-3.1.4.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/spring-core-3.2.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/spring-data-redis-1.1.1.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/spring-expression-3.2.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/spring-test-3.2.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/spring-tx-3.1.4.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/spring-web-3.2.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/spring-webmvc-3.2.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/test.lucene-0.0.1-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/xmlpull-1.1.3.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/xpp3_min-1.1.4c.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/xstream-1.4.7.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/lib/zookeeper-3.4.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/spring-servlet.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/index.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/search.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/tld/c-1_0-rt.tld" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/tld/c-1_0.tld" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/tld/c.tld" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/tld/fmt-1_0-rt.tld" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/tld/fmt-1_0.tld" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/tld/fmt.tld" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/tld/fn.tld" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/tld/permittedTaglibs.tld" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/tld/scriptfree.tld" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/tld/sql-1_0-rt.tld" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/tld/sql-1_0.tld" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/tld/sql.tld" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/tld/x-1_0-rt.tld" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/tld/x-1_0.tld" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/lucene-web/tld/x.tld" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/target/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/target/classes/indexes/news/_0.cfe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/target/classes/indexes/news/_0.cfs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/target/classes/indexes/news/_0.si" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/target/classes/indexes/news/segments.gen" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/target/classes/indexes/news/segments_1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/target/classes/indexes/news/write.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/target/classes/indexes/zhidao/_0.cfe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/target/classes/indexes/zhidao/_0.cfs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/target/classes/indexes/zhidao/_0.si" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/target/classes/indexes/zhidao/_1.cfe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/target/classes/indexes/zhidao/_1.cfs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/target/classes/indexes/zhidao/_1.si" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/target/classes/indexes/zhidao/segments.gen" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/target/classes/indexes/zhidao/segments_2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/target/classes/indexes/zhidao/write.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/target/surefire-reports/TEST-org.gver.LuceneTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/target/surefire-reports/org.gver.LuceneTest.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/target/test-classes/org/gver/LuceneTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/target/test.lucene-0.0.1-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.maven/target/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.maven/target/classes/assemble.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.maven/target/classes/maven/test/Hello.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.maven/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.maven/target/test.maven-0.0.1-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mockito/target/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mockito/target/classes/mockito/MockTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mockito/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mockito/target/test.mockito-0.0.1-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/src/test/resources/spring/myBatisConfig.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/bin/mybator3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/bin/mybator3.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/aopalliance/aopalliance/1.0/aopalliance-1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/asm/asm/1.5.3/asm-1.5.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/cglib/cglib/2.1_3/cglib-2.1_3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/ch/qos/logback/logback-classic/1.0.13/logback-classic-1.0.13.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/ch/qos/logback/logback-core/1.0.13/logback-core-1.0.13.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/com/fasterxml/jackson/core/com.springsource.com.fasterxml.jackson.core.jackson-core/2.0.2/com.springsource.com.fasterxml.jackson.core.jackson-core-2.0.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/com/fasterxml/jackson/core/jackson-annotations/2.4.0/jackson-annotations-2.4.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/com/fasterxml/jackson/core/jackson-core/2.4.2/jackson-core-2.4.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/com/fasterxml/jackson/core/jackson-databind/2.4.2/jackson-databind-2.4.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/com/fasterxml/jackson/datatype/jackson-datatype-guava/2.4.2/jackson-datatype-guava-2.4.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/com/github/kevinsawicki/http-request/5.6/http-request-5.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/com/google/guava/guava/18.0/guava-18.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/commons-beanutils/commons-beanutils/1.8.3/commons-beanutils-1.8.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/commons-dbcp/commons-dbcp/1.4/commons-dbcp-1.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/commons-pool/commons-pool/1.5.4/commons-pool-1.5.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/io/netty/netty/3.7.0.Final/netty-3.7.0.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/io/terminus/terminus-common/1.2-SNAPSHOT/terminus-common-1.2-20150105.134339-11.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/jline/jline/0.9.94/jline-0.9.94.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/joda-time/joda-time/2.3/joda-time-2.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/junit/junit/4.11/junit-4.11.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/log4j/log4j/1.2.16/log4j-1.2.16.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/mysql/mysql-connector-java/5.1.29/mysql-connector-java-5.1.29.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/net/sf/dozer/dozer/5.4.0/dozer-5.4.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/org/apache/commons/commons-pool2/2.0/commons-pool2-2.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/org/aspectj/aspectjrt/1.7.0/aspectjrt-1.7.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/org/aspectj/aspectjweaver/1.7.0/aspectjweaver-1.7.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/org/freemarker/freemarker/2.3.9/freemarker-2.3.9.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/org/mockito/mockito-all/1.9.5/mockito-all-1.9.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/org/mybatis/mybatis-spring/1.1.1/mybatis-spring-1.1.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/org/mybatis/mybatis/3.2.3/mybatis-3.2.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/org/projectlombok/lombok/1.12.4/lombok-1.12.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/org/slf4j/jcl-over-slf4j/1.6.6/jcl-over-slf4j-1.6.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/org/slf4j/slf4j-log4j12/1.6.6/slf4j-log4j12-1.6.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/org/springframework/data/spring-data-redis/1.1.1.RELEASE/spring-data-redis-1.1.1.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/org/springframework/spring-aop/3.1.1.RELEASE/spring-aop-3.1.1.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/org/springframework/spring-asm/3.1.1.RELEASE/spring-asm-3.1.1.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/org/springframework/spring-beans/3.1.1.RELEASE/spring-beans-3.1.1.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/org/springframework/spring-context/3.1.1.RELEASE/spring-context-3.1.1.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/org/springframework/spring-core/3.1.1.RELEASE/spring-core-3.1.1.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/org/springframework/spring-expression/3.1.1.RELEASE/spring-expression-3.1.1.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/org/springframework/spring-jdbc/3.1.1.RELEASE/spring-jdbc-3.1.1.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/org/springframework/spring-test/3.2.6.RELEASE/spring-test-3.2.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/org/springframework/spring-tx/3.1.1.RELEASE/spring-tx-3.1.1.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/redis/clients/jedis/2.5.2/jedis-2.5.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/appassembler/repo/terminus/test.mybator/0.0.1-SNAPSHOT/test.mybator-0.0.1-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/classes/conf.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/classes/templates/Dao.flt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/classes/templates/Dao.flt.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/classes/templates/DaoTest.flt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/classes/templates/DaoTest.flt.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/classes/templates/Model.flt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/classes/templates/Model.flt.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/classes/templates/Service.flt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/classes/templates/Service.flt.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/classes/templates/ServiceImpl.flt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/classes/templates/ServiceImpl.flt.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/classes/templates/ServiceImplTest.flt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/classes/templates/ServiceImplTest.flt.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/classes/templates/mapper.flt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/classes/templates/mapper.flt.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/classes/test/mybator/FreeMarkerUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/classes/test/mybator/Strings2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/classes/test/mybator/TableMetaDataHelper$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/classes/test/mybator/TableMetaDataHelper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/classes/test/mybator/generator/_10_NewProductStep_FreeMarkerUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/classes/test/mybator/generator/_11_ProductOwner_FreeMarkerUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/classes/test/mybator/generator/_12_MWOldModuleInfo_FreeMarkerUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/classes/test/mybator/generator/_13_SupplierContact_FreeMarkerUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/classes/test/mybator/generator/_14_TQRDCManagerContact_FreeMarkerUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/classes/test/mybator/generator/_15_ComplaintChat_FreeMarkerUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/classes/test/mybator/generator/_15_SupplierModuleDetail_FreeMarkerUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/classes/test/mybator/generator/_16_Purifier_FreeMarkerUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/classes/test/mybator/generator/_17_CompanyVatInvoice_FreeMarkerUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/classes/test/mybator/generator/_18_groupon_logistics_infos_FreeMarkerUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/classes/test/mybator/generator/_19_ecp_wechatpay_trans.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/mybator2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/surefire-reports/TEST-io.terminus.snz.user.dao.BaseDaoTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/surefire-reports/io.terminus.snz.user.dao.BaseDaoTest.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/test-classes/io/terminus/snz/user/dao/BaseDaoTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/test-classes/logback.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/test-classes/mapper/ProductOwnerMapper.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/test-classes/spring/applicationContext.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/target/test-classes/spring/myBatisConfig.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.net/target/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.net/target/classes/Jedis.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.net/target/classes/org/gver/http/Decode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.net/target/classes/org/gver/socket/HTTPServer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.net/target/classes/response.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.net/target/classes/test/http/FTPClientTest$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.net/target/classes/test/http/FTPClientTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.net/target/classes/test/http/FtpDownloader$Resolver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.net/target/classes/test/http/FtpDownloader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.net/target/classes/test/http/HttpRequest0$OrderChange.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.net/target/classes/test/http/HttpRequest0.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.net/target/classes/test/http/KmConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.net/target/classes/test/http/NewProductImportTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.net/target/classes/test/http/PostTQRDC.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.net/target/classes/test/http/SignUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.net/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.net/target/test-classes/test/http/SignUtilTest$Param.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.net/target/test-classes/test/http/SignUtilTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.net/target/test.net-0.0.1-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.nutch/target/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.nutch/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.nutch/target/test.nutch-0.0.1-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.pay/target/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.pay/target/classes/TransFromO2O.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.pay/target/classes/alipay/AlipayTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.pay/target/classes/alipay/dto/AlipayRefundData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.pay/target/classes/alipay/dto/AlipaySettlementResponse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.pay/target/classes/alipay/dto/ParamDeserializer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.pay/target/classes/alipay/dto/settlement/AlipaySettlementDto.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.pay/target/classes/alipay/dto/settlement/AlipaySettlementPaging.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.pay/target/classes/alipay/dto/settlement/AlipaySettlementParam.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.pay/target/classes/alipay/dto/settlement/AlipaySettlementResult.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.pay/target/classes/com/alipay/config/AlipayConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.pay/target/classes/com/alipay/sign/MD5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.pay/target/classes/com/alipay/util/UtilDate.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.pay/target/classes/com/alipay/util/httpClient/HttpResultType.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.pay/target/classes/test/http/HttpRequest0$OrderChange.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.pay/target/classes/test/http/HttpRequest0.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.pay/target/classes/test/http/SignUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.poi/target/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.poi/target/classes/beans.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.poi/target/classes/db.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.poi/target/classes/org/gver/_.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.poi/target/classes/org/gver/poi/CellBuilder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.poi/target/classes/org/gver/poi/ColumnMeta.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.poi/target/classes/org/gver/poi/FileLoader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.poi/target/classes/org/gver/poi/TypeHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.poi/target/classes/org/gver/poi/XLSWriter$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.poi/target/classes/org/gver/poi/XLSWriter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.poi/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.poi/target/test.poi-0.0.1-SNAPSHOT-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.poi/target/test.poi-0.0.1-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.redis/target/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.redis/target/classes/jedis/Client$1Person.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.redis/target/classes/jedis/Client.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.ruby/target/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.ruby/target/classes/ruby/MainClass.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.sonar/target/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.sonar/target/classes/sonar/Test_NP_NULL_PARAM_DEREF$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.sonar/target/classes/sonar/Test_NP_NULL_PARAM_DEREF.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.sonar/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.sonar/target/sonar/checkstyle.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.sonar/target/sonar/pmd.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.sonar/target/sonar/sonar-pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.sonar/target/test.sonar-0.0.1-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.spring-aop/target/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.spring-aop/target/classes/app.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.spring-aop/target/classes/logback.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.spring-aop/target/classes/org/gver/AccountManager.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.spring-aop/target/classes/org/gver/LoggerAspect.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.spring-aop/target/classes/org/gver/OrderService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.spring-aop/target/classes/org/gver/OrderServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.spring-aop/target/classes/spring/applicationContext.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.spring-aop/target/test-classes/org/gver/AccountManagerTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.spring-aop/target/test-classes/org/gver/BaseServiceTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.spring-aop/target/test-classes/org/gver/OrderServiceImplTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.spring/target/MANIFEST.MF" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.Jython/pom.xml" afterPath="$PROJECT_DIR$/test.Jython/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.designmodel/pom.xml" afterPath="$PROJECT_DIR$/test.designmodel/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.dubbo/pom.xml" afterPath="$PROJECT_DIR$/test.dubbo/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.dubbo.client/pom.xml" afterPath="$PROJECT_DIR$/test.dubbo.client/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.dubbo.server/pom.xml" afterPath="$PROJECT_DIR$/test.dubbo.server/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.groovy/pom.xml" afterPath="$PROJECT_DIR$/test.groovy/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.guava/pom.xml" afterPath="$PROJECT_DIR$/test.guava/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.io/pom.xml" afterPath="$PROJECT_DIR$/test.io/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.jdk/pom.xml" afterPath="$PROJECT_DIR$/test.jdk/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.lucene/pom.xml" afterPath="$PROJECT_DIR$/test.lucene/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.lucene.webapp/pom.xml" afterPath="$PROJECT_DIR$/test.lucene.webapp/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.maven/pom.xml" afterPath="$PROJECT_DIR$/test.maven/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.mockito/pom.xml" afterPath="$PROJECT_DIR$/test.mockito/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.mybator/pom.xml" afterPath="$PROJECT_DIR$/test.mybator/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.net/pom.xml" afterPath="$PROJECT_DIR$/test.net/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.netty/pom.xml" afterPath="$PROJECT_DIR$/test.netty/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.nutch/pom.xml" afterPath="$PROJECT_DIR$/test.nutch/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.pay/pom.xml" afterPath="$PROJECT_DIR$/test.pay/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.poi/pom.xml" afterPath="$PROJECT_DIR$/test.poi/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.redis/pom.xml" afterPath="$PROJECT_DIR$/test.redis/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.ruby/pom.xml" afterPath="$PROJECT_DIR$/test.ruby/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.sonar/pom.xml" afterPath="$PROJECT_DIR$/test.sonar/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.spring/pom.xml" afterPath="$PROJECT_DIR$/test.spring/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.spring-aop/pom.xml" afterPath="$PROJECT_DIR$/test.spring-aop/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/ant.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/test_lucene_webapp_war.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/test_lucene_webapp_war_exploded.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources.ids" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/junitgenerator-prj-settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_1_5_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_2_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_0_13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_0_13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_101tec_zkclient_0_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_dubbo_2_5_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_kryo_3_0_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_kryo_parent_3_0_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_minlog_1_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_reflectasm_1_10_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_0_8_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_com_springsource_com_fasterxml_jackson_core_jackson_core_2_0_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_4_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_4_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_4_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_guava_2_4_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jknack_handlebars_1_2_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_kevinsawicki_http_request_5_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_2_2_atlassian_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_net_commons_net_3_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_pool_commons_pool_1_5_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_7_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_terminus_ecp_ecp_pay_api_1_0_SNAPSHOT.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_terminus_pampas_pampas_common_1_3_SNAPSHOT.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_terminus_terminus_common_1_2_SNAPSHOT.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_regexp_jakarta_regexp_1_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_0_9_94.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_14.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_29.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_dozer_dozer_5_4_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr4_runtime_4_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_1_8_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_launcher_1_8_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_analyzers_common_4_6_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_core_4_6_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_highlighter_4_6_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_memory_4_6_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_queries_4_6_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_queryparser_4_6_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_sandbox_4_6_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_10_FINAL.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_excelant_3_10_FINAL.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_10_FINAL.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_10_FINAL.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_7_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_7_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_all_1_7_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_9.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_gver_IKAnalyser_2014.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_0_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_15_0_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_1_1_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_netty_netty_3_2_5_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jodd_jodd_core_3_5_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_6_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_all_1_9_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mozilla_rhino_1_7R4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_2_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_4_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_12_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_6_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_1_1_1_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_2_5_6_SEC03.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_3_1_1_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_3_2_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_asm_3_1_1_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_asm_3_1_4_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_3_1_1_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_3_2_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_3_1_1_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_3_2_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_3_2_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_3_1_1_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_3_1_4_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_3_2_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_3_1_1_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_3_2_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_3_1_1_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_3_2_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_3_2_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_3_1_1_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_3_2_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_3_2_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_3_2_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_5_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__zkclient_zkclient_20120522.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/rebel_project.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
     </list>
     <ignored path="test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -623,16 +277,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="git.ingore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/git.ingore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
-              <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -646,7 +290,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.designmodel/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
+            <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="300">
               <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
               <folding />
             </state>
@@ -656,7 +300,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.dubbo.client/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
+            <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="435">
               <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
               <folding />
             </state>
@@ -666,7 +310,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.dubbo.server/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1590">
+            <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="1590">
               <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
               <folding />
             </state>
@@ -676,7 +320,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.Jython/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
+            <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="375">
               <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
               <folding />
             </state>
@@ -686,18 +330,28 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.dubbo/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1140">
+            <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="1140">
               <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.groovy/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2760736" vertical-offset="0" max-vertical-offset="435">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
               <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="1.0901163" vertical-offset="0" max-vertical-offset="525">
+              <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -708,16 +362,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="211" max-vertical-offset="780">
               <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.sonar/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
-              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -772,6 +416,7 @@
         <option value="$PROJECT_DIR$/test.dubbo.server/pom.xml" />
         <option value="$PROJECT_DIR$/test.dubbo/pom.xml" />
         <option value="$PROJECT_DIR$/test.groovy/pom.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -935,116 +580,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="test.sonar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test.mybator" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test.mybator" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test.mybator" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test.mybator" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test.mybator" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1449,6 +984,14 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -1468,14 +1011,6 @@
       </option>
       <envs />
       <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <pass-parent-envs>true</pass-parent-envs>
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="BashConfigurationType" factoryName="Bash">
@@ -1513,22 +1048,6 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list />
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method />
-    </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1552,6 +1071,37 @@
       <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="$APPLICATION_PLUGINS_DIR$/DCEVM_JRE" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="JettyConfiguration" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
       <deployment />
       <server-settings>
@@ -1568,21 +1118,6 @@
       </server-settings>
       <predefined_log_file id="Jetty" enabled="true" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="ALTERNATIVE_JRE_PATH" value="$APPLICATION_PLUGINS_DIR$/DCEVM_JRE" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Attests">
@@ -2063,11 +1598,19 @@
       <workItem from="1420734245188" duration="28876000" />
       <workItem from="1420969365982" duration="29770000" />
       <workItem from="1421247924887" duration="1471000" />
+      <workItem from="1421249678464" duration="218000" />
     </task>
+    <task id="LOCAL-00001" summary="提交记录">
+      <created>1421249750940</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1421249750940</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="780772000" />
+    <option name="totallyTimeSpent" value="780990000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -2094,42 +1637,42 @@
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4378981" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36942676" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36942676" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3566879" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18174475" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32649842" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32626426" sideWeight="0.5" order="16" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29228243" sideWeight="0.49859154" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34700316" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34087238" sideWeight="0.49918434" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998326" sideWeight="0.5" order="18" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26898223" sideWeight="0.49859154" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3911672" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.273021" sideWeight="0.49859154" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" x="120" y="122" width="1060" height="505" />
       <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5291181" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32922825" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cloverage" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3911672" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Test Runs" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32996634" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven-2 Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven-2 Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3566879" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle View" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32649842" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="UML Diagrams" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34700316" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="SonarQube" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998326" sideWeight="0.5" order="19" side_tool="false" content_ui="tabs" />
       <window_info id="Graphical Navigator" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3989899" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -2150,6 +1693,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="提交记录" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交记录" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2424,6 +1969,22 @@
     </buildFile>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test.mybator/src/test/resources/spring/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="211" max-vertical-offset="780">
+          <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.sonar/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="300">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test.mybator/src/main/resources/templates/Service.flt.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1830">
@@ -2463,7 +2024,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="3510">
           <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2568,9 +2128,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.72997034" vertical-offset="564" max-vertical-offset="1275">
           <caret line="56" column="22" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2599,7 +2156,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1980">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2614,9 +2170,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2085">
           <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2624,7 +2177,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.02811245" vertical-offset="773" max-vertical-offset="1380">
           <caret line="52" column="26" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2632,9 +2184,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.48728815" vertical-offset="5" max-vertical-offset="2550">
           <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2646,31 +2195,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/README.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.040106952" vertical-offset="0" max-vertical-offset="374">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.cproject">
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.1135733" vertical-offset="1319" max-vertical-offset="1680">
-          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test.mybator/src/test/java/io/terminus/snz/user/dao/BaseDaoTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.39759037" vertical-offset="81" max-vertical-offset="330">
           <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2688,7 +2216,6 @@
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="false" />
-            <marker date="1421199460000" expanded="true" signature="-1:-1" placeholder="SELECT COLUM..COLUMNS..." />
           </folding>
         </state>
       </provider>
@@ -2705,7 +2232,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5424528" vertical-offset="1310" max-vertical-offset="1710">
           <caret line="95" column="90" selection-start-line="95" selection-start-column="90" selection-end-line="95" selection-end-column="90" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2713,25 +2239,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1560">
           <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="34380">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1421249277000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/git.ingore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
-          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2809,8 +2316,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test.groovy/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2760736" vertical-offset="0" max-vertical-offset="435">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
           <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.cproject">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37323943" vertical-offset="1004" max-vertical-offset="1680">
+          <caret line="74" column="25" selection-start-line="74" selection-start-column="25" selection-end-line="74" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5898876" vertical-offset="0" max-vertical-offset="34725">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0901163" vertical-offset="0" max-vertical-offset="525">
+          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
           <folding />
         </state>
       </provider>
