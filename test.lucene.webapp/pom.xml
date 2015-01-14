@@ -3,7 +3,7 @@
 
     <parent>
         <artifactId>test</artifactId>
-        <groupId>terminus</groupId>
+        <groupId>simpler</groupId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
@@ -33,7 +33,7 @@
         </dependency>
 
         <dependency>
-            <groupId>terminus</groupId>
+            <groupId>simpler</groupId>
             <artifactId>test.lucene</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
