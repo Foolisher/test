@@ -5,11 +5,7 @@ import org.aspectj.lang.annotation.Aspect;
 import org.aspectj.lang.annotation.Before;
 import org.springframework.stereotype.Component;
 
-/**
- * 功能描述:
- *
- * @author wanggen on 14-9-2.
- */
+
 @Aspect
 @Component
 @Slf4j

@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2014 杭州端点网络科技有限公司
+ * Copyright (c) 2015 杭州端点网络科技有限公司
  */
 package ${package}.service;
 
@@ -39,7 +39,7 @@ public class ${model}ServiceImpl implements ${model}Service {
     @Override
     public Response<Boolean> create(${model} ${ali}) {
         try{
-            return ok(${ali}Dao.create(${ali}));
+            return Response.ok(${ali}Dao.create(${ali}));
         }catch (Exception e){
             log.error("Failed to insert into `${tableName}` with param:{}", ${ali} , e);
             return fail("${tableName}.insert.failed");
@@ -79,7 +79,7 @@ public class ${model}ServiceImpl implements ${model}Service {
                 log.warn("No records found from `${tableName}` with ids:{}", ids);
                 return Response.fail("${tableName}.select.failed");
             }
-            return ok(${ali}s);
+            return Response.ok(${ali}s);
         }catch (Exception e){
             log.error("Failed to findByIds from `${tableName}` with ids:{}", ids, e);
             return Response.fail("${tableName}.select.failed");
@@ -115,10 +115,10 @@ public class ${model}ServiceImpl implements ${model}Service {
     public Response<List<${model}>> ${mn}(<#list fds as fd>${fd.javaType} ${fd.javaName}<#if fd_has_next>, </#if></#list>){
         try{
             List<${model}> ${ali}s = ${ali}Dao.${mn}(<#list fds as fd>${fd.javaName}<#if fd_has_next>, </#if></#list>);
-            return ok(${ali}s);
+            return Response.ok(${ali}s);
         }catch (Exception e){
             log.error("Failed to ${mn} from `${tableName}` with ${pp}", <#list fds as fd>${fd.javaName}<#if fd_has_next>, </#if></#list>, e);
-            return fail("${tableName}.select.failed");
+            return Response.fail("${tableName}.select.failed");
         }
     }
 
@@ -135,10 +135,10 @@ public class ${model}ServiceImpl implements ${model}Service {
     @Override
     public Response<Boolean> update(${model} ${ali}) {
         try{
-            return ok(${ali}Dao.update(${ali}));
+            return Response.ok(${ali}Dao.update(${ali}));
         }catch (Exception e){
             log.error("Failed to update table `${tableName}` with param:{}", ${ali} , e);
-            return fail("${tableName}.update.failed");
+            return Response.fail("${tableName}.update.failed");
         }
     }
 

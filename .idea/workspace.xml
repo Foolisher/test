@@ -1,12 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/test.spring-aop/src/main/java/org/gver/LoggerAspect.java" description="public void logForOrderAction(){" line="18" />
+    <bookmark url="file://$PROJECT_DIR$/test.spring-aop/src/main/java/org/gver/LoggerAspect.java" description="public void logForOrderAction(){" line="14" />
     <bookmark url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/3.2.6.RELEASE/spring-beans-3.2.6.RELEASE-sources.jar!/org/springframework/beans/factory/xml/ParserContext.java" line="40" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ff36cf7-d168-499b-abd8-a79a89c37c93" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.jdk/src/main/java/compile/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/generator/_20_groupon_summary_agents.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_regexp_jakarta_regexp_1_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_analyzers_common_4_6_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_core_4_6_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_highlighter_4_6_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_memory_4_6_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_queries_4_6_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_queryparser_4_6_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_sandbox_4_6_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_gver_IKAnalyser_2014.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_3_2_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_3_2_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test.groovy/src/main/java/org/gver/groovy/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test.groovy/src/main/java/org/gver/groovy/Student1.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.pay/src/main/java/alipay/dto/AlipayRefundData.java" afterPath="$PROJECT_DIR$/test.pay/src/main/java/alipay/dto/AlipayRefundData.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.pay/src/main/java/alipay/dto/settlement/AlipaySettlementDto.java" afterPath="$PROJECT_DIR$/test.pay/src/main/java/alipay/dto/settlement/AlipaySettlementDto.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.pay/src/main/java/alipay/dto/settlement/AlipaySettlementPaging.java" afterPath="$PROJECT_DIR$/test.pay/src/main/java/alipay/dto/settlement/AlipaySettlementPaging.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.pay/src/main/java/alipay/dto/settlement/AlipaySettlementParam.java" afterPath="$PROJECT_DIR$/test.pay/src/main/java/alipay/dto/settlement/AlipaySettlementParam.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.pay/src/main/java/alipay/dto/AlipaySettlementResponse.java" afterPath="$PROJECT_DIR$/test.pay/src/main/java/alipay/dto/AlipaySettlementResponse.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.pay/src/main/java/alipay/dto/settlement/AlipaySettlementResult.java" afterPath="$PROJECT_DIR$/test.pay/src/main/java/alipay/dto/settlement/AlipaySettlementResult.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.pay/src/main/java/alipay/AlipayTest.java" afterPath="$PROJECT_DIR$/test.pay/src/main/java/alipay/AlipayTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.redis/src/main/java/jedis/Client.java" afterPath="$PROJECT_DIR$/test.redis/src/main/java/jedis/Client.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.mybator/src/main/resources/templates/Dao.flt.java" afterPath="$PROJECT_DIR$/test.mybator/src/main/resources/templates/Dao.flt.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.mybator/src/main/resources/templates/Dao.flt" afterPath="$PROJECT_DIR$/test.mybator/src/main/resources/templates/Dao.flt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.mybator/src/main/resources/templates/DaoTest.flt.java" afterPath="$PROJECT_DIR$/test.mybator/src/main/resources/templates/DaoTest.flt.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.mybator/src/main/resources/templates/DaoTest.flt" afterPath="$PROJECT_DIR$/test.mybator/src/main/resources/templates/DaoTest.flt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/FreeMarkerUtil.java" afterPath="$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/FreeMarkerUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.lucene/src/main/java/org/gver/lucene/Indexer.java" afterPath="$PROJECT_DIR$/test.lucene/src/main/java/org/gver/lucene/Indexer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.jdk/src/main/java/reflection/InvocationTest.java" afterPath="$PROJECT_DIR$/test.jdk/src/main/java/reflection/InvocationTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.spring-aop/src/main/java/org/gver/LoggerAspect.java" afterPath="$PROJECT_DIR$/test.spring-aop/src/main/java/org/gver/LoggerAspect.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.ruby/src/main/java/ruby/MainClass.java" afterPath="$PROJECT_DIR$/test.ruby/src/main/java/ruby/MainClass.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_terminus_terminus_common_1_2_SNAPSHOT.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_terminus_terminus_common_1_2_SNAPSHOT.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.mybator/src/main/resources/templates/Model.flt.java" afterPath="$PROJECT_DIR$/test.mybator/src/main/resources/templates/Model.flt.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.mybator/src/main/resources/templates/Model.flt" afterPath="$PROJECT_DIR$/test.mybator/src/main/resources/templates/Model.flt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.pay/src/main/java/alipay/dto/ParamDeserializer.java" afterPath="$PROJECT_DIR$/test.pay/src/main/java/alipay/dto/ParamDeserializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.mybator/src/test/resources/mapper/ProductOwnerMapper.xml" afterPath="$PROJECT_DIR$/test.mybator/src/test/resources/mapper/ProductOwnerMapper.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.guava/src/main/java/com/guava/common/reflect/ReflectionTest.java" afterPath="$PROJECT_DIR$/test.guava/src/main/java/com/guava/common/reflect/ReflectionTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.mybator/src/main/resources/templates/Service.flt.java" afterPath="$PROJECT_DIR$/test.mybator/src/main/resources/templates/Service.flt.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.mybator/src/main/resources/templates/Service.flt" afterPath="$PROJECT_DIR$/test.mybator/src/main/resources/templates/Service.flt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.mybator/src/main/resources/templates/ServiceImpl.flt.java" afterPath="$PROJECT_DIR$/test.mybator/src/main/resources/templates/ServiceImpl.flt.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.mybator/src/main/resources/templates/ServiceImpl.flt" afterPath="$PROJECT_DIR$/test.mybator/src/main/resources/templates/ServiceImpl.flt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.mybator/src/main/resources/templates/ServiceImplTest.flt.java" afterPath="$PROJECT_DIR$/test.mybator/src/main/resources/templates/ServiceImplTest.flt.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.mybator/src/main/resources/templates/ServiceImplTest.flt" afterPath="$PROJECT_DIR$/test.mybator/src/main/resources/templates/ServiceImplTest.flt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.jdk/src/main/java/dozermapper/SignUtil.java" afterPath="$PROJECT_DIR$/test.jdk/src/main/java/dozermapper/SignUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.net/src/main/java/test/http/SignUtil.java" afterPath="$PROJECT_DIR$/test.net/src/main/java/test/http/SignUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.pay/src/main/java/test/http/SignUtil.java" afterPath="$PROJECT_DIR$/test.pay/src/main/java/test/http/SignUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.guava/src/main/java/test/guava/event/StudentMsg.java" afterPath="$PROJECT_DIR$/test.guava/src/main/java/test/guava/event/StudentMsg.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/TableMetaDataHelper.java" afterPath="$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/TableMetaDataHelper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.jdk/src/main/java/dozermapper/Test2.java" afterPath="$PROJECT_DIR$/test.jdk/src/main/java/dozermapper/Test2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.sonar/src/main/java/sonar/Test_NP_NULL_PARAM_DEREF.java" afterPath="$PROJECT_DIR$/test.sonar/src/main/java/sonar/Test_NP_NULL_PARAM_DEREF.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.pay/src/main/java/TransFromO2O.java" afterPath="$PROJECT_DIR$/test.pay/src/main/java/TransFromO2O.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.guava/src/main/java/test/guava/event/WorkerMsg.java" afterPath="$PROJECT_DIR$/test.guava/src/main/java/test/guava/event/WorkerMsg.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.mybator/src/main/resources/conf.properties" afterPath="$PROJECT_DIR$/test.mybator/src/main/resources/conf.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.mybator/src/main/resources/templates/mapper.flt" afterPath="$PROJECT_DIR$/test.mybator/src/main/resources/templates/mapper.flt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.lucene/pom.xml" afterPath="$PROJECT_DIR$/test.lucene/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.lucene.webapp/pom.xml" afterPath="$PROJECT_DIR$/test.lucene.webapp/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.spring/pom.xml" afterPath="$PROJECT_DIR$/test.spring/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.spring-aop/pom.xml" afterPath="$PROJECT_DIR$/test.spring-aop/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.Jython/test.Jython.iml" afterPath="$PROJECT_DIR$/test.Jython/test.Jython.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.designmodel/test.designmodel.iml" afterPath="$PROJECT_DIR$/test.designmodel/test.designmodel.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.dubbo.client/test.dubbo.client.iml" afterPath="$PROJECT_DIR$/test.dubbo.client/test.dubbo.client.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.dubbo/test.dubbo.iml" afterPath="$PROJECT_DIR$/test.dubbo/test.dubbo.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.dubbo.server/test.dubbo.server.iml" afterPath="$PROJECT_DIR$/test.dubbo.server/test.dubbo.server.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.groovy/test.groovy.iml" afterPath="$PROJECT_DIR$/test.groovy/test.groovy.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.guava/test.guava.iml" afterPath="$PROJECT_DIR$/test.guava/test.guava.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.iml" afterPath="$PROJECT_DIR$/test.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.io/test.io.iml" afterPath="$PROJECT_DIR$/test.io/test.io.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.jdk/test.jdk.iml" afterPath="$PROJECT_DIR$/test.jdk/test.jdk.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.lucene/test.lucene.iml" afterPath="$PROJECT_DIR$/test.lucene/test.lucene.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.lucene.webapp/test.lucene.webapp.iml" afterPath="$PROJECT_DIR$/test.lucene.webapp/test.lucene.webapp.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.maven/test.maven.iml" afterPath="$PROJECT_DIR$/test.maven/test.maven.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.mockito/test.mockito.iml" afterPath="$PROJECT_DIR$/test.mockito/test.mockito.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.mybator/test.mybator.iml" afterPath="$PROJECT_DIR$/test.mybator/test.mybator.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.net/test.net.iml" afterPath="$PROJECT_DIR$/test.net/test.net.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.netty/test.netty.iml" afterPath="$PROJECT_DIR$/test.netty/test.netty.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.nutch/test.nutch.iml" afterPath="$PROJECT_DIR$/test.nutch/test.nutch.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.pay/test.pay.iml" afterPath="$PROJECT_DIR$/test.pay/test.pay.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.poi/test.poi.iml" afterPath="$PROJECT_DIR$/test.poi/test.poi.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.redis/test.redis.iml" afterPath="$PROJECT_DIR$/test.redis/test.redis.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.ruby/test.ruby.iml" afterPath="$PROJECT_DIR$/test.ruby/test.ruby.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.sonar/test.sonar.iml" afterPath="$PROJECT_DIR$/test.sonar/test.sonar.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.spring-aop/test.spring-aop.iml" afterPath="$PROJECT_DIR$/test.spring-aop/test.spring-aop.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/test_lucene_webapp_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/test_lucene_webapp_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -130,9 +223,6 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="DaemonCodeAnalyzer">
-    <disable_hints />
-  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="test" />
@@ -140,96 +230,77 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/test.spring/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="2940">
-              <caret line="45" column="15" selection-start-line="45" selection-start-column="15" selection-end-line="45" selection-end-column="15" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.designmodel/pom.xml">
+      <file leaf-file-name="LoggerAspect.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.spring-aop/src/main/java/org/gver/LoggerAspect.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="300">
-              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.dubbo.client/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="435">
-              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.dubbo.server/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="1590">
-              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.Jython/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="375">
-              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.dubbo/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="1140">
-              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.groovy/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
-              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8028169" vertical-offset="0" max-vertical-offset="525">
-              <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+            <state vertical-scroll-proportion="-7.2">
+              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="applicationContext.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.mybator/src/test/resources/spring/applicationContext.xml">
+      <file leaf-file-name="AlipaySettlementPaging.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test.pay/src/main/java/alipay/dto/settlement/AlipaySettlementPaging.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="211" max-vertical-offset="780">
-              <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+            <state vertical-scroll-proportion="0.0114613185">
+              <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#603#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.jdk/src/main/java/compile/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaiduZhidaoIndexer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.lucene/src/main/java/org/gver/lucene/BaiduZhidaoIndexer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -239,55 +310,76 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test.ruby/src/main/java/ruby/A.java" />
-        <option value="$PROJECT_DIR$/test.ruby/src/main/java/ruby/a.rb" />
-        <option value="$PROJECT_DIR$/test.ruby/src/main/java/ruby/MainClass.java" />
-        <option value="$PROJECT_DIR$/test.mybator/src/main/resources/templates/Service.flt" />
-        <option value="$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/generator/_18_groupon_logistics_infos_FreeMarkerUtil.java" />
-        <option value="$PROJECT_DIR$/test.mybator/src/main/resources/templates/ServiceImpl.flt" />
-        <option value="$PROJECT_DIR$/test.jdk/src/main/java/collection/ListTest.java" />
-        <option value="$PROJECT_DIR$/test.jdk/src/main/java/json/FasterJson.java" />
-        <option value="$PROJECT_DIR$/test.redis/pom.xml" />
-        <option value="$PROJECT_DIR$/test.redis/src/main/java/jedis/Client.java" />
-        <option value="$PROJECT_DIR$/test.jdk/src/main/java/reflection/InvocationTest.java" />
-        <option value="$PROJECT_DIR$/test.net/src/main/java/test/http/HttpRequest0.java" />
-        <option value="$PROJECT_DIR$/test.pay/src/main/java/alipay/AlipayTest.java" />
-        <option value="$PROJECT_DIR$/test.pay/src/main/java/alipay/dto/settlement/AlipaySettlementDto.java" />
-        <option value="$PROJECT_DIR$/test.pay/src/main/java/alipay/dto/settlement/AlipaySettlementParam.java" />
-        <option value="$PROJECT_DIR$/test.pay/src/main/java/alipay/dto/ParamDeserializer.java" />
-        <option value="$PROJECT_DIR$/test.pay/src/main/java/alipay/dto/AlipaySettlementResponse.java" />
-        <option value="$PROJECT_DIR$/test.pay/src/main/java/TransFromO2O.java" />
-        <option value="$PROJECT_DIR$/test.lucene/src/main/java/org/gver/lucene/NewsSearch.java" />
-        <option value="$PROJECT_DIR$/test.mybator/target/WechatpayTrans/WechatpayTransMapper.xml" />
-        <option value="$PROJECT_DIR$/test.mybator/src/main/resources/templates/DaoTest.flt" />
-        <option value="$PROJECT_DIR$/test.mybator/src/main/resources/templates/mapper.flt" />
-        <option value="$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/generator/_19_ecp_wechatpay_trans.java" />
         <option value="$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/Strings2.java" />
-        <option value="$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/TableMetaDataHelper.java" />
         <option value="$PROJECT_DIR$/test.mybator/pom.xml" />
         <option value="$PROJECT_DIR$/test.mybator/src/test/java/io/terminus/snz/user/dao/BaseDaoTest.java" />
         <option value="$PROJECT_DIR$/test.mybator/target/appassembler/bin/mybator3" />
         <option value="$PROJECT_DIR$/git.ingore" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/test.Jython/pom.xml" />
         <option value="$PROJECT_DIR$/test.designmodel/pom.xml" />
         <option value="$PROJECT_DIR$/test.dubbo.client/pom.xml" />
         <option value="$PROJECT_DIR$/test.dubbo.server/pom.xml" />
         <option value="$PROJECT_DIR$/test.dubbo/pom.xml" />
         <option value="$PROJECT_DIR$/test.groovy/pom.xml" />
+        <option value="$PROJECT_DIR$/test.mybator/src/main/resources/conf.properties" />
+        <option value="$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/generator/_19_groupon_summary_agents.java" />
+        <option value="$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/TableMetaDataHelper.java" />
+        <option value="$PROJECT_DIR$/test.mybator/target/AgentSummary/AgentSummaryServiceImpl.java" />
+        <option value="$PROJECT_DIR$/test.mybator/target/AgentSummary/AgentSummaryMapper.xml" />
+        <option value="$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/FreeMarkerUtil.java" />
+        <option value="$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/generator/_20_groupon_summary_agents.java" />
+        <option value="$PROJECT_DIR$/test.groovy/src/main/java/org/gver/groovy/Hello.groovy" />
+        <option value="$PROJECT_DIR$/test.groovy/src/main/hello.groovy" />
+        <option value="$PROJECT_DIR$/test.guava/src/main/java/test/guava/event/StudentMsg.java" />
+        <option value="$PROJECT_DIR$/test.guava/src/main/java/test/guava/event/WorkerMsg.java" />
+        <option value="$PROJECT_DIR$/test.jdk/src/main/java/dozermapper/SignUtil.java" />
+        <option value="$PROJECT_DIR$/test.jdk/src/main/java/dozermapper/Test2.java" />
+        <option value="$PROJECT_DIR$/test.jdk/src/main/java/reflection/InvocationTest.java" />
+        <option value="$PROJECT_DIR$/test.mybator/src/main/resources/templates/Dao.flt" />
+        <option value="$PROJECT_DIR$/test.mybator/src/main/resources/templates/Dao.flt.java" />
+        <option value="$PROJECT_DIR$/test.mybator/src/main/resources/templates/DaoTest.flt" />
+        <option value="$PROJECT_DIR$/test.mybator/src/main/resources/templates/DaoTest.flt.java" />
+        <option value="$PROJECT_DIR$/test.mybator/src/main/resources/templates/Model.flt" />
+        <option value="$PROJECT_DIR$/test.mybator/src/main/resources/templates/Model.flt.java" />
+        <option value="$PROJECT_DIR$/test.mybator/src/main/resources/templates/Service.flt" />
+        <option value="$PROJECT_DIR$/test.mybator/src/main/resources/templates/Service.flt.java" />
+        <option value="$PROJECT_DIR$/test.mybator/src/main/resources/templates/ServiceImpl.flt" />
+        <option value="$PROJECT_DIR$/test.mybator/src/main/resources/templates/ServiceImpl.flt.java" />
+        <option value="$PROJECT_DIR$/test.mybator/src/main/resources/templates/ServiceImplTest.flt" />
+        <option value="$PROJECT_DIR$/test.mybator/src/main/resources/templates/ServiceImplTest.flt.java" />
+        <option value="$PROJECT_DIR$/test.mybator/src/main/resources/templates/mapper.flt" />
+        <option value="$PROJECT_DIR$/test.mybator/src/test/resources/mapper/ProductOwnerMapper.xml" />
+        <option value="$PROJECT_DIR$/test.mybator/target/AgentSummary/AgentSummary.java" />
+        <option value="$PROJECT_DIR$/test.mybator/target/AgentSummary/AgentSummaryDao.java" />
+        <option value="$PROJECT_DIR$/test.guava/src/main/java/com/guava/common/reflect/ReflectionTest.java" />
+        <option value="$PROJECT_DIR$/test.lucene/src/main/java/org/gver/lucene/Indexer.java" />
+        <option value="$PROJECT_DIR$/test.lucene/pom.xml" />
+        <option value="$PROJECT_DIR$/test.lucene.webapp/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/test.spring/pom.xml" />
+        <option value="$PROJECT_DIR$/test.spring-aop/pom.xml" />
+        <option value="$PROJECT_DIR$/test.spring-aop/src/main/java/org/gver/LoggerAspect.java" />
+        <option value="$PROJECT_DIR$/test.jdk/src/main/java/compile/Main.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
         <option name="printErrorStackTraces" value="true" />
       </MavenGeneralSettings>
     </option>
@@ -315,7 +407,7 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
-          <option name="myItemId" value="test.dubbo" />
+          <option name="myItemId" value="test.redis" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
@@ -329,25 +421,7 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
-          <option name="myItemId" value="test.dubbo" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Dependencies" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="org.apache.zookeeper:zookeeper:3.4.6" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependencyNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="test.dubbo" />
+          <option name="myItemId" value="test.redis" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
       </PATH>
@@ -355,6 +429,9 @@
   </component>
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
+  </component>
+  <component name="NamedScopeManager">
+    <order />
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
@@ -369,18 +446,53 @@
             <id />
           </State>
           <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>Code maturity issuesJava</id>
+          </State>
+          <State>
             <id>General</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Javadoc issuesJava</id>
           </State>
           <State>
             <id>Maven</id>
           </State>
           <State>
+            <id>Performance issuesJava</id>
+          </State>
+          <State>
             <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring AOPSpring</id>
+          </State>
+          <State>
+            <id>TestNG</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
           </State>
           <State>
             <id>XPath</id>
           </State>
         </expanded-state>
+        <selected-state>
+          <State>
+            <id>Ant inspections</id>
+          </State>
+        </selected-state>
       </profile-state>
     </entry>
   </component>
@@ -413,6 +525,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -441,7 +554,105 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="test.sonar" />
+              <option name="myItemId" value="test.pay" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test.pay" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test.pay" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alipay" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test.lucene.webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test.lucene" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test.jdk" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -462,14 +673,14 @@
     <property name="options.splitter.details.proportions" value="0.3543578" />
     <property name="options.searchVisible" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.412082" />
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/home/workspace/docs/软件设计" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
     <property name="GenerateAntBuildDialog.generateSingleFile" value="false" />
     <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
@@ -478,7 +689,7 @@
     <property name="GenerateAntBuildDialog.inclineRuntiemClasspath" value="false" />
     <property name="GenerateAntBuildDialog.generateIdeaHomeProperty" value="false" />
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="test" />
-    <property name="SearchEverywhereHistoryKey" value="Resources&#9;PSI&#9;JAVA://org.apache.ibatis.io.Resources&#10;Requ0&#9;FILE&#9;file:///usr/dev/workspace-luna/test/test.net/src/main/java/test/http/HttpRequest0.java&#10;AliTe&#9;FILE&#9;file:///usr/dev/workspace-luna/test/test.pay/src/main/java/alipay/AlipayTest.java&#10;Http0&#9;PSI&#9;JAVA://test.http.HttpRequest0&#10;HandleBar&#9;PSI&#9;JAVA://org.gver.web.handlebars.HandlebarsEngine&#10;StringT&#9;FILE&#9;file:///usr/dev/workspace-luna/test/test.jdk/src/main/java/string/StringTest.java&#10;ComponentScanDefini&#9;FILE&#9;jar:///Users/wanggen/.m2/repository/org/springframework/spring-context/3.2.6.RELEASE/spring-context-3.2.6.RELEASE-sources.jar!/org/springframework/context/annotation/ComponentScanBeanDefinitionParser.java&#10;ImmuMap&#9;PSI&#9;JAVA://com.google.common.collect.ImmutableMap&#10;ImmuList&#9;PSI&#9;JAVA://com.google.common.collect.ImmutableList&#10;TransformingRan&#9;PSI&#9;JAVA://com.google.common.collect.Lists.TransformingRandomAccessList&#10;UnmodifiableRandomAcc&#9;PSI&#9;JAVA://java.util.Collections.UnmodifiableRandomAccessList&#10;XmlBeanDefinitionReader&#9;PSI&#9;JAVA://org.springframework.beans.factory.xml.XmlBeanDefinitionReader&#10;SQL&#9;PSI&#9;JAVA://org.apache.ibatis.jdbc.SQL&#10;SqlBuild&#9;PSI&#9;JAVA://ch.qos.logback.classic.db.SQLBuilder&#10;ImMap&#9;PSI&#9;JAVA://com.google.common.collect.ImmutableMap&#10;ReflectiveAspectJAdvisorFactory&#9;PSI&#9;JAVA://org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory&#10;AbstractAutowireCapableBeanFactory&#9;PSI&#9;JAVA://org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory&#10;AbstractBeanFactory&#9;PSI&#9;JAVA://org.springframework.beans.factory.support.AbstractBeanFactory&#10;AutowiredAnnotationBeanPostProcessor&#9;PSI&#9;JAVA://org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor&#10;Request&#9;FILE&#9;jar:///Users/wanggen/.m2/repository/org/mortbay/jetty/jetty/6.1.25/jetty-6.1.25-sources.jar!/org/mortbay/jetty/Request.java&#10;JdbcTempl&#9;PSI&#9;JAVA://org.springframework.jdbc.core.JdbcTemplate&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList&#10;CellStyle&#9;PSI&#9;JAVA://org.apache.poi.ss.usermodel.CellStyle&#10;Strings&#9;PSI&#9;JAVA://com.google.common.base.Strings&#10;nte&#9;FILE&#9;file:///usr/dev/workspace-luna/test/.idea/libraries/Maven__org_springframework_spring_context_3_2_6_RELEASE.xml&#10;Modelf&#9;FILE&#9;file:///usr/dev/workspace-luna/test/test.mybator/src/main/resources/templates/Model.flt.java&#10;Mapper&#9;FILE&#9;file:///usr/dev/workspace-luna/test/test.mybator/src/main/resources/templates/mapper.flt.xml" />
+    <property name="SearchEverywhereHistoryKey" value="SimpleJava&#9;PSI&#9;JAVA://javax.tools.SimpleJavaFileObject&#10;Resources&#9;PSI&#9;JAVA://org.apache.ibatis.io.Resources&#10;Requ0&#9;FILE&#9;file:///usr/dev/workspace-luna/test/test.net/src/main/java/test/http/HttpRequest0.java&#10;AliTe&#9;FILE&#9;file:///usr/dev/workspace-luna/test/test.pay/src/main/java/alipay/AlipayTest.java&#10;Http0&#9;PSI&#9;JAVA://test.http.HttpRequest0&#10;HandleBar&#9;PSI&#9;JAVA://org.gver.web.handlebars.HandlebarsEngine&#10;StringT&#9;FILE&#9;file:///usr/dev/workspace-luna/test/test.jdk/src/main/java/string/StringTest.java&#10;ComponentScanDefini&#9;FILE&#9;jar:///Users/wanggen/.m2/repository/org/springframework/spring-context/3.2.6.RELEASE/spring-context-3.2.6.RELEASE-sources.jar!/org/springframework/context/annotation/ComponentScanBeanDefinitionParser.java&#10;ImmuMap&#9;PSI&#9;JAVA://com.google.common.collect.ImmutableMap&#10;ImmuList&#9;PSI&#9;JAVA://com.google.common.collect.ImmutableList&#10;TransformingRan&#9;PSI&#9;JAVA://com.google.common.collect.Lists.TransformingRandomAccessList&#10;UnmodifiableRandomAcc&#9;PSI&#9;JAVA://java.util.Collections.UnmodifiableRandomAccessList&#10;XmlBeanDefinitionReader&#9;PSI&#9;JAVA://org.springframework.beans.factory.xml.XmlBeanDefinitionReader&#10;SQL&#9;PSI&#9;JAVA://org.apache.ibatis.jdbc.SQL&#10;SqlBuild&#9;PSI&#9;JAVA://ch.qos.logback.classic.db.SQLBuilder&#10;ImMap&#9;PSI&#9;JAVA://com.google.common.collect.ImmutableMap&#10;ReflectiveAspectJAdvisorFactory&#9;PSI&#9;JAVA://org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory&#10;AbstractAutowireCapableBeanFactory&#9;PSI&#9;JAVA://org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory&#10;AbstractBeanFactory&#9;PSI&#9;JAVA://org.springframework.beans.factory.support.AbstractBeanFactory&#10;AutowiredAnnotationBeanPostProcessor&#9;PSI&#9;JAVA://org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor&#10;Request&#9;FILE&#9;jar:///Users/wanggen/.m2/repository/org/mortbay/jetty/jetty/6.1.25/jetty-6.1.25-sources.jar!/org/mortbay/jetty/Request.java&#10;JdbcTempl&#9;PSI&#9;JAVA://org.springframework.jdbc.core.JdbcTemplate&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList&#10;CellStyle&#9;PSI&#9;JAVA://org.apache.poi.ss.usermodel.CellStyle&#10;Strings&#9;PSI&#9;JAVA://com.google.common.base.Strings&#10;nte&#9;FILE&#9;file:///usr/dev/workspace-luna/test/.idea/libraries/Maven__org_springframework_spring_context_3_2_6_RELEASE.xml&#10;Modelf&#9;FILE&#9;file:///usr/dev/workspace-luna/test/test.mybator/src/main/resources/templates/Model.flt.java&#10;Mapper&#9;FILE&#9;file:///usr/dev/workspace-luna/test/test.mybator/src/main/resources/templates/mapper.flt.xml" />
     <property name="LayoutCode.rearrangeEntriesJava" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="project.patched.for.dcevm" value="true" />
@@ -488,11 +699,8 @@
     <property name="LayoutCode.rearrangeEntriesGroovy" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-  </component>
-  <component name="PyConsoleOptionsProvider">
-    <option name="myPythonConsoleState">
-      <console-settings />
-    </option>
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -503,11 +711,11 @@
       <recent name="test.mybator" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test.mybator/src/main/resources/templates" />
       <recent name="$PROJECT_DIR$/test.pay/src/main/java/alipay" />
       <recent name="$PROJECT_DIR$/test.pay/src/main/java" />
       <recent name="$PROJECT_DIR$/test.dubbo.server/src/main/resources" />
       <recent name="$PROJECT_DIR$/test.spring-aop/src/test/java" />
-      <recent name="$PROJECT_DIR$/test.spring-aop/src/main/resources" />
     </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="org.gver" />
@@ -518,9 +726,6 @@
       <recent name="io.terminus.snz.user.service" />
       <recent name="io.terminus.snz.user.dao" />
     </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/test.dubbo.server/src/main/resources" />
       <recent name="$PROJECT_DIR$/test.dubbo.server/src/main/java" />
@@ -528,8 +733,11 @@
       <recent name="$PROJECT_DIR$/test.count-plugin/src/main/java" />
       <recent name="$PROJECT_DIR$/test.spring-aop/src/main/resources/spring" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
   </component>
-  <component name="RunManager" selected="Bash.mybator3">
+  <component name="RunManager" selected="Application.Main">
     <configuration default="false" name="_19_ecp_wechatpay_trans" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -552,89 +760,44 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="HttpRequest0.testPreventRefundReq" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="_20_groupon_summary_agents" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="test.http.*" />
+          <option name="PATTERN" value="test.mybator.generator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="test.net" />
+      <option name="MAIN_CLASS_NAME" value="test.mybator.generator._20_groupon_summary_agents" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="test.http" />
-      <option name="MAIN_CLASS_NAME" value="test.http.HttpRequest0" />
-      <option name="METHOD_NAME" value="testPreventRefundReq" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH" value="$APPLICATION_PLUGINS_DIR$/DCEVM_JRE" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
+      <module name="test.mybator" />
       <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="AlipayTest.create_direct_pay_by_user" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="alipay.*" />
+          <option name="PATTERN" value="compile.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="test.pay" />
+      <option name="MAIN_CLASS_NAME" value="compile.Main" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="alipay" />
-      <option name="MAIN_CLASS_NAME" value="alipay.AlipayTest" />
-      <option name="METHOD_NAME" value="create_direct_pay_by_user" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH" value="$APPLICATION_PLUGINS_DIR$/DCEVM_JRE" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
+      <module name="test.jdk" />
       <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="TransFromO2O.testAlipayTrans" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="test.pay" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TransFromO2O" />
-      <option name="METHOD_NAME" value="testAlipayTrans" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
     <configuration default="false" name="mybator3" type="BashConfigurationType" factoryName="Bash" temporary="true">
@@ -642,18 +805,98 @@
       <option name="INTERPRETER_PATH" value="/bin/bash" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test.mybator/target/appassembler/bin" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <module name="test.mybator" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.mybator/target/appassembler/bin/mybator3" />
       <option name="PARAMETERS" value="" />
+      <module name="test.mybator" />
+      <envs />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="hello" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="test.groovy" />
+      <setting name="path" value="file://$PROJECT_DIR$/test.groovy/src/main/hello.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/test.groovy/src/main" />
+      <setting name="debug" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="$APPLICATION_PLUGINS_DIR$/DCEVM_JRE" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="test.mybator" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="test" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
       <method />
     </configuration>
     <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
@@ -663,6 +906,54 @@
       <setting name="params" value="" />
       <setting name="workDir" value="file://$PROJECT_DIR$" />
       <setting name="debug" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="JAR_PATH" value="$PROJECT_DIR$/test.mybator/target/mybator2.jar" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JettyConfiguration" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="configFiles">
+            <list>
+              <JettyConfigFile>
+                <option name="active" value="true" />
+                <option name="path" value="modules/jmx.mod" />
+              </JettyConfigFile>
+            </list>
+          </option>
+        </data>
+      </server-settings>
+      <predefined_log_file id="Jetty" enabled="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method />
     </configuration>
     <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
@@ -687,7 +978,7 @@
       </MavenSettings>
       <method />
     </configuration>
-    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -700,58 +991,9 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="test" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="TARGET" value="" />
-      <option name="SETTINGS_FILE" value="" />
-      <option name="CUSTOM_SETTINGS" value="false" />
-      <option name="USE_OPTIONS" value="false" />
-      <option name="OPTIONS" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="py.test">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="test" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="testToRun" value="" />
-      <option name="keywords" value="" />
-      <option name="params" value="" />
-      <option name="USE_PARAM" value="false" />
-      <option name="USE_KEYWORD" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Nosetests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="test" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -762,27 +1004,42 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="RubyRunConfigurationType" factoryName="Ruby">
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
       <module name="" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
       <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -813,17 +1070,39 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="test" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
@@ -846,52 +1125,10 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <pass-parent-envs>true</pass-parent-envs>
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="INTERPRETER_PATH" value="/bin/bash" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <module name="test.mybator" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+    <configuration default="true" type="tests" factoryName="Nosetests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
+      <envs />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -900,14 +1137,14 @@
       <module name="test" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JarApplication" factoryName="JAR Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="JAR_PATH" value="$PROJECT_DIR$/test.mybator/target/mybator2.jar" />
-      <envs />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
@@ -933,56 +1170,7 @@
       <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list />
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method />
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="ALTERNATIVE_JRE_PATH" value="$APPLICATION_PLUGINS_DIR$/DCEVM_JRE" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JettyConfiguration" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
-      <deployment />
-      <server-settings>
-        <data>
-          <option name="configFiles">
-            <list>
-              <JettyConfigFile>
-                <option name="active" value="true" />
-                <option name="path" value="modules/jmx.mod" />
-              </JettyConfigFile>
-            </list>
-          </option>
-        </data>
-      </server-settings>
-      <predefined_log_file id="Jetty" enabled="true" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Attests">
+    <configuration default="true" type="tests" factoryName="py.test">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -1000,6 +1188,27 @@
       <option name="TEST_TYPE" value="TEST_SCRIPT" />
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
       <method />
     </configuration>
     <configuration default="false" name="Unnamed" type="Application" factoryName="Application">
@@ -1125,6 +1334,7 @@
             </list>
           </option>
           <option name="jndiPort" value="1091" />
+          <jndi-port>1091</jndi-port>
         </data>
       </server-settings>
       <predefined_log_file id="Jetty" enabled="true" />
@@ -1229,29 +1439,34 @@
     </configuration>
     <list size="10">
       <item index="0" class="java.lang.String" itemvalue="Application.Unnamed" />
-      <item index="1" class="java.lang.String" itemvalue="Groovy.Hello" />
-      <item index="2" class="java.lang.String" itemvalue="Jetty Server.search-jetty" />
-      <item index="3" class="java.lang.String" itemvalue="Maven.lucene-jetty:run" />
-      <item index="4" class="java.lang.String" itemvalue="Remote.Unnamed" />
-      <item index="5" class="java.lang.String" itemvalue="Application._19_ecp_wechatpay_trans" />
-      <item index="6" class="java.lang.String" itemvalue="JUnit.HttpRequest0.testPreventRefundReq" />
-      <item index="7" class="java.lang.String" itemvalue="JUnit.AlipayTest.create_direct_pay_by_user" />
-      <item index="8" class="java.lang.String" itemvalue="JUnit.TransFromO2O.testAlipayTrans" />
-      <item index="9" class="java.lang.String" itemvalue="Bash.mybator3" />
+      <item index="1" class="java.lang.String" itemvalue="Application._19_ecp_wechatpay_trans" />
+      <item index="2" class="java.lang.String" itemvalue="Application._20_groupon_summary_agents" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="4" class="java.lang.String" itemvalue="Bash.mybator3" />
+      <item index="5" class="java.lang.String" itemvalue="Groovy.Hello" />
+      <item index="6" class="java.lang.String" itemvalue="Groovy.hello" />
+      <item index="7" class="java.lang.String" itemvalue="Jetty Server.search-jetty" />
+      <item index="8" class="java.lang.String" itemvalue="Maven.lucene-jetty:run" />
+      <item index="9" class="java.lang.String" itemvalue="Remote.Unnamed" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Bash.mybator3" />
-        <item index="1" class="java.lang.String" itemvalue="Application._19_ecp_wechatpay_trans" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.TransFromO2O.testAlipayTrans" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.AlipayTest.create_direct_pay_by_user" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.HttpRequest0.testPreventRefundReq" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="1" class="java.lang.String" itemvalue="Groovy.hello" />
+        <item index="2" class="java.lang.String" itemvalue="Application._20_groupon_summary_agents" />
+        <item index="3" class="java.lang.String" itemvalue="Bash.mybator3" />
+        <item index="4" class="java.lang.String" itemvalue="Application._19_ecp_wechatpay_trans" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
       <Port>5050</Port>
     </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -1461,6 +1676,7 @@
       <workItem from="1420969365982" duration="29770000" />
       <workItem from="1421247924887" duration="1471000" />
       <workItem from="1421249678464" duration="410000" />
+      <workItem from="1433325536338" duration="13142000" />
     </task>
     <task id="LOCAL-00001" summary="提交记录">
       <created>1421249750940</created>
@@ -1484,7 +1700,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="781182000" />
+    <option name="totallyTimeSpent" value="794324000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1511,43 +1727,44 @@
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35191083" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36942676" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3566879" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18174475" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32649842" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32626426" sideWeight="0.5" order="16" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29228243" sideWeight="0.49859154" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34700316" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3964968" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34394905" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34087238" sideWeight="0.49918434" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34061489" sideWeight="0.49918434" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998326" sideWeight="0.5" order="18" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.273021" sideWeight="0.49859154" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33495146" sideWeight="0.49859154" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3901274" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" x="120" y="122" width="1060" height="505" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35191083" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5291181" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32922825" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cloverage" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3911672" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Test Runs" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32996634" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Maven-2 Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3566879" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle View" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32649842" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="UML Diagrams" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="SonarQube" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998326" sideWeight="0.5" order="19" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Graphical Navigator" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3989899" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1564,9 +1781,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="myTodoPanelSettings">
-      <TodoPanelSettings />
-    </option>
     <MESSAGE value="提交记录" />
     <MESSAGE value="ignore some files" />
     <option name="LAST_COMMIT_MESSAGE" value="ignore some files" />
@@ -1593,12 +1807,6 @@
           <option name="timeStamp" value="63" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test.spring-aop/src/main/java/org/gver/LoggerAspect.java</url>
-          <line>19</line>
-          <properties />
-          <option name="timeStamp" value="65" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/test.jdk/src/main/java/encoding/_64Encoding.java</url>
           <line>42</line>
           <properties />
@@ -1611,20 +1819,8 @@
           <option name="timeStamp" value="79" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test.groovy/src/main/java/org/gver/groovy/Main.java</url>
-          <line>40</line>
-          <properties />
-          <option name="timeStamp" value="82" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test.groovy/src/main/java/org/gver/groovy/Student1.java</url>
-          <line>15</line>
-          <properties />
-          <option name="timeStamp" value="83" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/TableMetaDataHelper.java</url>
-          <line>31</line>
+          <line>36</line>
           <properties />
           <option name="timeStamp" value="85" />
         </line-breakpoint>
@@ -1762,7 +1958,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/TableMetaDataHelper.java</url>
-          <line>54</line>
+          <line>59</line>
           <properties />
           <option name="timeStamp" value="116" />
         </line-breakpoint>
@@ -1844,383 +2040,433 @@
     </buildFile>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test.mybator/src/test/resources/spring/applicationContext.xml">
+    <entry file="file://$PROJECT_DIR$/test.mybator/target/AgentSummary/AgentSummaryService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="211" max-vertical-offset="780">
-          <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+        <state vertical-scroll-proportion="0.5524079">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.mybator/target/AgentSummary/AgentSummaryMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.609065">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.sonar/pom.xml">
+    <entry file="file://$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/Strings2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="300">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        <state vertical-scroll-proportion="2.2096317">
+          <caret line="52" column="26" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/FreeMarkerUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="40" column="30" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.groovy/src/main/hello.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08498584">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.Jython/src/main/java/org/gver/python/JythonHello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.59490085">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.guava/src/main/java/test/guava/event/StudentMsg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.guava/src/main/java/test/guava/event/WorkerMsg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.jdk/src/main/java/dozermapper/SignUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.jdk/src/main/java/dozermapper/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.mybator/src/main/resources/templates/Model.flt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.625">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.mybator/src/main/resources/templates/Model.flt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.mybator/src/main/resources/templates/Service.flt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.625">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test.mybator/src/main/resources/templates/Service.flt.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1830">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/generator/_18_groupon_logistics_infos_FreeMarkerUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46969697" vertical-offset="2256" max-vertical-offset="2850">
-          <caret line="169" column="205" selection-start-line="169" selection-start-column="205" selection-end-line="169" selection-end-column="205" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.mybator/src/main/resources/templates/Service.flt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35964912" vertical-offset="530" max-vertical-offset="1695">
-          <caret line="49" column="85" selection-start-line="49" selection-start-column="85" selection-end-line="49" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.pay/src/main/java/com/alipay/sign/MD5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="659" max-vertical-offset="1050">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.pay/src/main/java/com/alipay/config/AlipayConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42455244" vertical-offset="359" max-vertical-offset="750">
-          <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.pay/src/main/java/test/http/HttpRequest0.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="3510">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.jdk/src/main/java/reflection/InvocationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.51742625" vertical-offset="227" max-vertical-offset="600">
-          <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.pay/src/main/java/test/http/SignUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44235924" vertical-offset="0" max-vertical-offset="1605">
-          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.net/src/main/java/test/http/HttpRequest0.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="4.6318684" vertical-offset="1629" max-vertical-offset="3780">
-          <caret line="229" column="0" selection-start-line="229" selection-start-column="0" selection-end-line="229" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.pay/src/main/java/alipay/AlipayTest.java">
+    <entry file="file://$PROJECT_DIR$/test.mybator/src/main/resources/templates/ServiceImpl.flt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.3708791" vertical-offset="450" max-vertical-offset="3120">
-          <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+        <state vertical-scroll-proportion="-0.625">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.pay/src/main/java/alipay/dto/settlement/AlipaySettlementDto.java">
+    <entry file="file://$PROJECT_DIR$/test.mybator/src/main/resources/templates/ServiceImpl.flt.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.3766577" vertical-offset="1468" max-vertical-offset="1845">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/terminus/terminus-common/1.2-SNAPSHOT/terminus-common-1.2-20150105.134339-11.jar!/io/terminus/common/utils/JsonMapper.class">
+    <entry file="file://$PROJECT_DIR$/test.mybator/src/main/resources/templates/ServiceImplTest.flt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42613637" vertical-offset="60" max-vertical-offset="1635">
-          <caret line="29" column="77" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="77" />
+        <state vertical-scroll-proportion="-0.625">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.pay/src/main/java/alipay/dto/settlement/AlipaySettlementParam.java">
+    <entry file="file://$PROJECT_DIR$/test.mybator/src/main/resources/templates/ServiceImplTest.flt.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334" vertical-offset="58" max-vertical-offset="525">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.4.2/jackson-core-2.4.2-sources.jar!/com/fasterxml/jackson/core/JsonParser.java">
+    <entry file="file://$PROJECT_DIR$/test.mybator/target/AgentSummary/AgentSummary.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="20713" max-vertical-offset="21435">
-          <caret line="1396" column="0" selection-start-line="1396" selection-start-column="0" selection-end-line="1396" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.4.2/jackson-databind-2.4.2-sources.jar!/com/fasterxml/jackson/databind/deser/BeanDeserializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42546585" vertical-offset="3373" max-vertical-offset="11850">
-          <caret line="241" column="20" selection-start-line="241" selection-start-column="20" selection-end-line="241" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.pay/src/main/java/alipay/dto/ParamDeserializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="278" max-vertical-offset="600">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
           <folding>
-            <element signature="e#0#790#0" expanded="false" />
             <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.pay/src/main/java/alipay/dto/settlement/AlipaySettlementPaging.java">
+    <entry file="file://$PROJECT_DIR$/test.mybator/target/AgentSummary/AgentSummaryDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="80" max-vertical-offset="480">
-          <caret line="20" column="52" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.lucene/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.5068493" vertical-offset="915" max-vertical-offset="1470">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.lucene/src/main/java/org/gver/lucene/NewsSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.022727273" vertical-offset="443" max-vertical-offset="1110">
-          <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.pay/src/main/java/alipay/dto/AlipaySettlementResponse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.72997034" vertical-offset="564" max-vertical-offset="1275">
-          <caret line="56" column="22" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.pay/src/main/java/alipay/dto/settlement/AlipaySettlementResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.75667655" vertical-offset="0" max-vertical-offset="390">
-          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.mybator/src/main/resources/templates/mapper.flt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44354838" vertical-offset="180" max-vertical-offset="2025">
-          <caret line="23" column="64" selection-start-line="23" selection-start-column="64" selection-end-line="23" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.1.1/mybatis-3.1.1-sources.jar!/org/apache/ibatis/io/Resources.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3314917" vertical-offset="0" max-vertical-offset="3735">
-          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test.mybator/src/test/resources/mapper/ProductOwnerMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1980">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.mybator/src/main/resources/conf.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23809524" vertical-offset="0" max-vertical-offset="441">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/FreeMarkerUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2085">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/Strings2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.02811245" vertical-offset="773" max-vertical-offset="1380">
-          <caret line="52" column="26" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/generator/_19_ecp_wechatpay_trans.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48728815" vertical-offset="5" max-vertical-offset="2550">
-          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.netty/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29776675" vertical-offset="0" max-vertical-offset="403">
-          <caret line="8" column="65" selection-start-line="8" selection-start-column="65" selection-end-line="8" selection-end-column="65" />
+        <state vertical-scroll-proportion="0.27591974">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.mybator/src/test/java/io/terminus/snz/user/dao/BaseDaoTest.java">
+    <entry file="file://$PROJECT_DIR$/test.mybator/src/main/resources/templates/mapper.flt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39759037" vertical-offset="81" max-vertical-offset="330">
-          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        <state vertical-scroll-proportion="-1.25">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.mybator/pom.xml">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/lang/reflect/Method.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.87148595" vertical-offset="1688" max-vertical-offset="2190">
-          <caret line="127" column="33" selection-start-line="127" selection-start-column="33" selection-end-line="127" selection-end-column="33" />
+        <state vertical-scroll-proportion="7.173913">
+          <caret line="320" column="21" selection-start-line="320" selection-start-column="21" selection-end-line="320" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.jdk/src/main/java/reflection/InvocationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.72742474">
+          <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#778#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/javax/tools/SimpleJavaFileObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.013378">
+          <caret line="62" column="14" selection-start-line="62" selection-start-column="14" selection-end-line="62" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/generator/_20_groupon_summary_agents.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3294314">
+          <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.mybator/src/main/resources/templates/DaoTest.flt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3478261">
+          <caret line="115" column="10" selection-start-line="115" selection-start-column="10" selection-end-line="115" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#5080#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.mybator/src/main/resources/templates/DaoTest.flt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5261324">
+          <caret line="77" column="18" selection-start-line="77" selection-start-column="18" selection-end-line="77" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.mybator/src/main/resources/templates/Dao.flt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.3066202">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.mybator/src/main/resources/templates/Dao.flt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.guava/src/main/java/com/guava/common/reflect/ReflectionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5986622">
+          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#401#805#0" expanded="false" />
+            <element signature="e#804#805#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.jdk/src/main/java/reflection/FieldTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35117057">
+          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/TableMetaDataHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.12711865" vertical-offset="90" max-vertical-offset="1710">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.32608697">
+          <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <marker date="1433326110000" expanded="true" signature="-1:-1" placeholder="SELECT COLUM..COLUMNS..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.pay/src/main/java/TransFromO2O.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/nio/file/Path.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.64830506" vertical-offset="417" max-vertical-offset="930">
-          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.33277592">
+          <caret line="97" column="17" selection-start-line="97" selection-start-column="17" selection-end-line="97" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.mybator/src/main/resources/templates/DaoTest.flt">
+    <entry file="file://$PROJECT_DIR$/test.lucene/src/main/java/org/gver/lucene/BaiduZhidaoIndexer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5424528" vertical-offset="1310" max-vertical-offset="1710">
-          <caret line="95" column="90" selection-start-line="95" selection-start-column="90" selection-end-line="95" selection-end-column="90" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.redis/src/main/java/jedis/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1560">
-          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.sonar/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.mybator/src/test/resources/logback.xml">
+    <entry file="file://$PROJECT_DIR$/test.lucene.webapp/src/main/java/org/gver/web/Searcher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5769231" vertical-offset="0" max-vertical-offset="390">
-          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        <state vertical-scroll-proportion="0.36096257">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.jdk/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41099477">
+          <caret line="56" column="35" selection-start-line="56" selection-start-column="35" selection-end-line="56" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="2940">
-          <caret line="45" column="15" selection-start-line="45" selection-start-column="15" selection-end-line="45" selection-end-column="15" />
+        <state vertical-scroll-proportion="0.36260623">
+          <caret line="176" column="44" selection-start-line="176" selection-start-column="44" selection-end-line="176" selection-end-column="44" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.mybator/src/test/resources/spring/applicationContext.xml">
+    <entry file="file://$PROJECT_DIR$/test.spring-aop/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="400" max-vertical-offset="780">
-          <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+        <state vertical-scroll-proportion="0.6373938">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.Jython/pom.xml">
+    <entry file="file://$PROJECT_DIR$/test.spring-aop/src/main/resources/spring/applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.509915">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.designmodel/pom.xml">
+    <entry file="file://$PROJECT_DIR$/test.spring/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.dubbo.client/pom.xml">
+    <entry file="file://$PROJECT_DIR$/test.lucene.webapp/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.5750708">
+          <caret line="141" column="18" selection-start-line="141" selection-start-column="18" selection-end-line="141" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.dubbo.server/pom.xml">
+    <entry file="file://$PROJECT_DIR$/test.spring-aop/src/main/java/org/gver/AccountManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1590">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.44759208">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.dubbo/pom.xml">
+    <entry file="file://$PROJECT_DIR$/test.lucene/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1140">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.33994335">
+          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.groovy/pom.xml">
+    <entry file="file://$PROJECT_DIR$/test.lucene/src/main/java/org/gver/lucene/Indexer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.29745042">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.cproject">
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/util/stream/StreamSupport.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37323943" vertical-offset="1004" max-vertical-offset="1680">
-          <caret line="74" column="25" selection-start-line="74" selection-start-column="25" selection-end-line="74" selection-end-column="25" />
+        <state vertical-scroll-proportion="-2.1571906">
+          <caret line="44" column="7" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/util/Collection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5898876" vertical-offset="0" max-vertical-offset="34725">
-          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.3478261">
+          <caret line="584" column="32" selection-start-line="584" selection-start-column="32" selection-end-line="584" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.jdk/src/main/java/compile/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.spring-aop/src/main/java/org/gver/LoggerAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8028169" vertical-offset="0" max-vertical-offset="525">
-          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        <state vertical-scroll-proportion="-7.2">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.pay/src/main/java/alipay/dto/settlement/AlipaySettlementPaging.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0114613185">
+          <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#603#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2267,7 +2513,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.6</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -2279,7 +2525,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>test.mybator</last-edited>
+          <last-edited>test.maven</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -2303,7 +2549,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: org.apache.lucene:lucene-core:4.6.1</last-edited>
+          <last-edited>Maven: com.esotericsoftware:kryo-parent:3.0.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

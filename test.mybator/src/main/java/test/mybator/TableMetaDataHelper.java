@@ -2,10 +2,15 @@ package test.mybator;
 
 import com.google.common.collect.Maps;
 
-import java.io.IOException;
-import java.io.InputStream;
-import java.sql.*;
-import java.util.*;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 
 
 public class TableMetaDataHelper {
@@ -15,31 +20,31 @@ public class TableMetaDataHelper {
     static String table = "";
 
     static String driver = "com.mysql.jdbc.Driver";
-    static String url = "jdbc:mysql://localhost:3306/rrs";
-    static String user = "root";
-    static String pwd = "anywhere";
+    static String url = "jdbc:mysql://wg-linux:3306/groupon";
+    static String user = "wanggen";
+    static String pwd = "wanggen";
 
-    static {
-        Properties properties = new Properties();
-        InputStream inputStream = null;
-        try {
-            InputStream in = Thread.currentThread().getContextClassLoader().getResourceAsStream("conf.properties");
-            properties.load(in);
-            driver = properties.getProperty("jdbc.driver");
-            url = properties.getProperty("jdbc.url");
-            user = properties.getProperty("jdbc.username");
-            pwd = properties.getProperty("jdbc.password");
-            properties.get("jdbc.driver");
-        } catch (IOException e) {
-            e.printStackTrace();
-        } finally {
-            if (inputStream != null) {
-                try {
-                    inputStream.close();
-                } catch (IOException e) {}
-            }
-        }
-    }
+//    static {
+//        Properties properties = new Properties();
+//        InputStream inputStream = null;
+//        try {
+//            InputStream in = Thread.currentThread().getContextClassLoader().getResourceAsStream("conf.properties");
+//            properties.load(in);
+//            driver = properties.getProperty("jdbc.driver");
+//            url = properties.getProperty("jdbc.url");
+//            user = properties.getProperty("jdbc.username");
+//            pwd = properties.getProperty("jdbc.password");
+//            properties.get("jdbc.driver");
+//        } catch (IOException e) {
+//            e.printStackTrace();
+//        } finally {
+//            if (inputStream != null) {
+//                try {
+//                    inputStream.close();
+//                } catch (IOException e) {}
+//            }
+//        }
+//    }
 
     public static void buildColumnMeta(Map<String, Object> root) {
 

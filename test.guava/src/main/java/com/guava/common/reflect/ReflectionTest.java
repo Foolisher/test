@@ -12,6 +12,8 @@ import java.lang.reflect.Method;
  * </pre>
  *
  * @author wanggen on 14/11/26.
+ * @since 1.0
+ * @version 1.0
  */
 public class ReflectionTest {
 
@@ -19,9 +21,9 @@ public class ReflectionTest {
     @Test
     public void test() {
 
+
         Api api = Reflection.newProxy(Api.class, new InvocationHandler() {
 
-            @Override
             public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
 
                 long start = System.currentTimeMillis();
@@ -35,13 +37,12 @@ public class ReflectionTest {
 
     }
 
-    public static interface Api {
-        public void say(String greet);
+    public interface Api {
+        void say(String greet);
     }
 
     public static class ApiImpl implements Api{
 
-        @Override
         public void say(String greet) {
             System.err.println(greet+", hello.");
         }

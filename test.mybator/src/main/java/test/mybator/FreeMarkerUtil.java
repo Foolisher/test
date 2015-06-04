@@ -37,8 +37,8 @@ public class FreeMarkerUtil {
         String tableName    = "snz_supplier_tqrdc_infos_tmp";
         String model        = "SupplierTQRDCInfoTmp";
         String desc         = "TQRDC 中间表";
-        root.put("package", "io.terminus.snz.user");
-        root.put("schema",  "snz");
+        root.put("package",   "io.terminus.snz.user");
+        root.put("schema",    "snz");
 
         // TODO additional method
         List<List<String>> addQueryFields=Lists.newArrayList();

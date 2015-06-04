@@ -13,7 +13,6 @@ import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 import org.apache.lucene.util.Version;
 import org.junit.Test;
-import org.wltea.analyzer.lucene.IKAnalyzer;
 
 import java.io.File;
 import java.nio.charset.Charset;
@@ -80,7 +79,7 @@ public class Indexer {
 
 
         Directory dir = FSDirectory.open(new File(indexDir + "news/"));
-        Analyzer analyser = new IKAnalyzer(true); // StandardAnalyzer(Version.LUCENE_46);
+        Analyzer analyser = new StandardAnalyzer(Version.LUCENE_46);
         IndexWriterConfig conf = new IndexWriterConfig(Version.LUCENE_46, analyser);
         IndexWriter indexWriter = new IndexWriter(dir, conf);
         indexWriter.deleteAll();

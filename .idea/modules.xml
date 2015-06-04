@@ -12,8 +12,6 @@
       <module fileurl="file://$PROJECT_DIR$/test.guava/test.guava.iml" filepath="$PROJECT_DIR$/test.guava/test.guava.iml" />
       <module fileurl="file://$PROJECT_DIR$/test.io/test.io.iml" filepath="$PROJECT_DIR$/test.io/test.io.iml" />
       <module fileurl="file://$PROJECT_DIR$/test.jdk/test.jdk.iml" filepath="$PROJECT_DIR$/test.jdk/test.jdk.iml" />
-      <module fileurl="file://$PROJECT_DIR$/test.lucene/test.lucene.iml" filepath="$PROJECT_DIR$/test.lucene/test.lucene.iml" />
-      <module fileurl="file://$PROJECT_DIR$/test.lucene.webapp/test.lucene.webapp.iml" filepath="$PROJECT_DIR$/test.lucene.webapp/test.lucene.webapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/test.maven/test.maven.iml" filepath="$PROJECT_DIR$/test.maven/test.maven.iml" />
       <module fileurl="file://$PROJECT_DIR$/test.mockito/test.mockito.iml" filepath="$PROJECT_DIR$/test.mockito/test.mockito.iml" />
       <module fileurl="file://$PROJECT_DIR$/test.mybator/test.mybator.iml" filepath="$PROJECT_DIR$/test.mybator/test.mybator.iml" />
