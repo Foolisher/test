@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2015 杭州端点网络科技有限公司
+ * Copyright (c) 2015
  */
 
 package sonar;
