@@ -12,7 +12,6 @@ import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 import org.apache.lucene.util.Version;
-import org.junit.Test;
 
 import java.io.File;
 import java.nio.charset.Charset;
@@ -26,7 +25,6 @@ public class Indexer {
 
     private static final String dataDir = "/usr/dev/workspace-luna/test/test.lucene/src/main/files/";
 
-    @Test
     public void index() throws Exception {
 
         Resources.getResource("").getFile();
@@ -49,7 +47,6 @@ public class Indexer {
     }
 
 
-    @Test
     public void indexHTML() throws Exception {
 
         Resources.getResource("").getFile();
@@ -72,7 +69,6 @@ public class Indexer {
         indexWriter.commit();
     }
 
-    @Test
     public void indexHTML_CN() throws Exception {
 
         Resources.getResource("").getFile();

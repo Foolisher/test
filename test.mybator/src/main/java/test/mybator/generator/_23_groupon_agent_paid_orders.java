@@ -24,7 +24,7 @@ import java.util.Map;
 
 import static com.google.common.collect.ImmutableList.of;
 
-public class _20_groupon_summary_agents {
+public class _23_groupon_agent_paid_orders {
 
     private static Configuration cfg;
 
@@ -53,11 +53,11 @@ public class _20_groupon_summary_agents {
         Map<String, Object> root = new HashMap<String, Object>();
 
         // TODO 表名称、实体名称、描述信息、包路径、数据库schema
-        String tableName    = "groupon_summary_agents";
-        String model        = "AgentSummary";
-        String desc         = "代理商结算";
-        root.put("package",   "io.terminus.groupon.settlement");
-        root.put("schema",    "groupon");
+        String tableName    = "groupon_agent_paid_orders";
+        String model        = "AgentPaidOrder";
+        String desc         = "代理商引入用户首次交易";
+        root.put("package",   "io.terminus.groupon.trade");
+        root.put("schema",    "daqihui_new");
 
         root.put("propertyWidth", 20);
         root.put("typeWidth", 17);
@@ -65,7 +65,7 @@ public class _20_groupon_summary_agents {
 
         // TODO 查询字段
         List<List<String>> addQueryFields = Lists.newArrayList();
-        addQueryFields.add(of("agent_id"));
+        addQueryFields.add(of("agent_id", "company_id", "created_at"));
 
 
         root.put("tableName", tableName);

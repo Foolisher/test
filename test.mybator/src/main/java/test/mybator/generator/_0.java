@@ -22,9 +22,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import static com.google.common.collect.ImmutableList.of;
-
-public class _19_ecp_wechatpay_trans {
+public class _0 {
 
     private static Configuration cfg;
 
@@ -33,7 +31,6 @@ public class _19_ecp_wechatpay_trans {
     static {
         cfg = new Configuration();
         try {
-            System.out.println(classpath);
             cfg.setDirectoryForTemplateLoading(new File(classpath+"templates"));
         } catch (IOException e) {
             e.printStackTrace();
@@ -54,20 +51,19 @@ public class _19_ecp_wechatpay_trans {
         Map<String, Object> root = new HashMap<String, Object>();
 
         // TODO 表名称、实体名称、描述信息、包路径、数据库schema
-        String tableName = "ecp_wechatpay_trans";
-        String model = "WechatpayTrans";
-        String desc = "微信支付交易流水";
-        root.put("package", "io.terminus.ecp.settlement");
-        root.put("schema", "groupon");
+        String tableName    = "groupon_installment_channels";
+        String model        = "InstallmentChannel";
+        String desc         = "信用卡分期支付渠道";
+        root.put("package",   "io.terminus.groupon.marketing");
+        root.put("schema",    "daqihui_new");
 
-        root.put("propertyWidth", 25);
-        root.put("typeWidth", 20);
-        root.put("propertyDeclareWidth", 16 + 30);
+        root.put("propertyWidth", 30);
+        root.put("typeWidth", 17);
+        root.put("propertyDeclareWidth", 45);
 
         // TODO 查询字段
         List<List<String>> addQueryFields = Lists.newArrayList();
-        addQueryFields.add(of("out_trade_no"));
-        addQueryFields.add(of("transaction_id"));
+//        addQueryFields.add(of("shop_id"));
 
 
         root.put("tableName", tableName);

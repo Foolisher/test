@@ -26,6 +26,8 @@
         <module>test.pay</module>
         <module>test.ruby</module>
         <module>test.redis</module>
+        <module>test.lucene</module>
+        <module>test.lucene.webapp</module>
     </modules>
     <dependencies>
 
@@ -123,6 +125,11 @@
             <groupId>org.springframework</groupId>
             <artifactId>spring-test</artifactId>
             <version>4.1.6.RELEASE</version>
+        </dependency>
+
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
         </dependency>
 
 

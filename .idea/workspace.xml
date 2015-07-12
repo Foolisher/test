@@ -1,425 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/test.spring-aop/src/main/java/org/gver/LoggerAspect.java" description="public void logForOrderAction(){" line="14" />
+    <bookmark url="file://$PROJECT_DIR$/test.spring-aop/src/main/java/org/gver/LoggerAspect.java" description="public void logForOrderAction(){" line="15" />
     <bookmark url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/3.2.6.RELEASE/spring-beans-3.2.6.RELEASE-sources.jar!/org/springframework/beans/factory/xml/ParserContext.java" line="40" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ff36cf7-d168-499b-abd8-a79a89c37c93" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/&amp;#65533;甯缢凳&amp;#65533;--动态资讯_新闻中心_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/&amp;#65533;甯缢凳拢呵寤&amp;#65533;校草走红网络|&amp;#65533;甯缢凳&amp;#65533;|神最右|清华校草_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/&amp;#65533;甯缢凳拢喝毡久让玫奶厥夤竹&amp;#65533;|&amp;#65533;甯缢凳&amp;#65533;|神最右|怪癖_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/&amp;#65533;甯缢凳拢汉&amp;#65533;国补习班推火辣女教师|&amp;#65533;甯缢凳&amp;#65533;|神最右|暴躁猫_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/&amp;#65533;甯缢凳拢豪习帧敖&amp;uuml;&amp;#65533;”为爱女圆公主梦|&amp;#65533;甯缢凳&amp;#65533;|神最右|世界杯_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/&amp;#65533;甯缢凳拢骸扒慵业床&amp;#65533;”看世界杯|&amp;#65533;甯缢凳&amp;#65533;|神最右|世界杯_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/11号强台风袭日本致10人死亡 179万人紧急避难|日本|强台风_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/13岁少年被母亲用铁链拴住写作业(图)|写作业|调皮_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/21世纪气候官计划.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/24幅南京大屠杀照参展日本 位置醒目鲜有人问津|南京大屠杀_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/3名男子以帮忙改签车票为名骗走乘客银行卡|诈骗|银行卡_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/44万余块积木搭建“辽宁舰”_高清图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/4岁女童误食2颗磁铁 36天未排出吸住小肠|磁铁_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/5名退休干部帮开发商出售违规楼盘受贿830万元|行贿_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/5岁女童遭母亲烫伤遗弃 寄居地下室啃发霉馒头|遗弃_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/AV女优在大连成人展被砸臭鸡蛋 人群齐喊女鬼子|成人展|AV女优|臭鸡蛋_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/MH17客机65名遇难者身份已辨认 搜索人员撤离|MH17_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/MH17客机65名遇难者身份确认 现场搜索结束|MH17|遇难者_新浪航空.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/Simone Lueck：古巴的电视_高清图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/OPPO企业平台_企业知道_百度知道.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/【母婴专题】从受精卵到胎儿，新生命经过了哪些震撼历程？_知道日报_百度知道.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/三星数字服务平台_企业知道_百度知道.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/什么叫不孕不育？_知道日报_百度知道.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/企业知道_百度知道.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/作业帮_百度知道.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/公共泳池的潜藏危险有多少？_知道日报_百度知道.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/前些天突发心慌气短，心率不规则，喘不上气，到医院检查是说是房颤，经过治疗后现在已经恢复正常出院了。_百度知道.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/名医义诊_百度知道.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/周采纳Top排行榜_百度知道.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/唱歌跑调是种病？_知道日报_百度知道.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/夏季带宝宝出游应该带哪些必备药品？_知道日报_百度知道.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/天气预报员不会告诉你哪10件事？_知道日报_百度知道.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/如何才能健康地减重？_知道日报_百度知道.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/如何摧毁互联网？_知道日报_百度知道.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/孕妇为什么容易发脾气，如何调节？_知道日报_百度知道.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/宇航员如何在太空上厕所？_知道日报_百度知道.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/安徽电信企业平台_企业知道_百度知道.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/宝宝知道－App.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/小米企业平台_企业知道_百度知道.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/开放平台_百度知道.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/总积分Top排行榜_百度知道.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/招商银行企业平台_企业知道_百度知道.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/有钱人在网上都干些啥？_知道日报_百度知道.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/杨保林主任医师-个人中心_百度知道.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/洗桑拿会导致不育？_真相问答机_百度知道.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/熊辉副主任医师-个人中心_百度知道.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/牙膏里到底有什么？_知道日报_百度知道.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/百度无线知道——随时随地你就知道.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/百度无线知道――随时随地你就知道.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/百度知道 - 全球最大中文互动问答平台.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/百度知道——意见反馈.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/知道之星_百度知道.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/知道分类_待解决问题_百度知道.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/知道商城_百度知道.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/知道团队_百度知道.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/知道活动_百度知道.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/知道行家_百度知道.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/社交网络消除你的孤独感了吗？_知道日报_百度知道.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/精彩推荐_百度知道.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/翡翠专家帮忙鉴定这个值多少钱？_百度知道.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/联想企业平台_企业知道_百度知道.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/联通企业平台_企业知道_百度知道.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/芝麻乐无限，答题刮好礼.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/英特尔服务平台_企业知道_百度知道.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/虚拟现实：改变世界的技术？_知道日报_百度知道.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/赵克明副主任医师-个人中心_百度知道.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/路痴都是天生的吗？_知道日报_百度知道.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/金山网络企业平台_企业知道_百度知道.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/长期大量吸烟会得脚气？_真相问答机_百度知道.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/问作业_百度知道.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/zhidao/饭后百步走，能活九十九？_真相问答机_百度知道.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/“告别白炽灯泡 点亮智慧城市”项目正式启动_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/“微信十条”为不法分子筑起“防火墙”|微信十条_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/“雪花纯生”中国古建筑摄影大赛_高清图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/【侠客岛】中央纪念邓小平诞辰的方式有何看点|邓小平|诞辰纪念|历史转折_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/一架小型飞机在加拿大坠毁 3名美国公民身亡|小型飞机坠毁|美国公民丧生_新浪航空.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/丈夫被纪委调查 妻子疏通关系捞人被骗1460万|纪委|诈骗_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/上海知青博物馆挂牌 用科技营造知青下乡场景|知青_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/上海集中销毁350辆克隆出租车(组图)|克隆出租车_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/专家分析我国每年小金库资金或超1000亿|小金库_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/专家：南海紧张符合美军事利益 菲希望有美撑腰|南海|中国|资源_新浪军事.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/专题汇总_新闻中心_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/东电拟将福岛地下水排放入海 提出布置设备申请|福岛地下水|东电_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/两名19岁男子假借网售折扣手机诈骗近50万元|网购|诈骗|买手机_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/两名法国小伙历时七个月骑车重走丝绸之路|丝绸之路|骑行_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/两名男子以金钱为诱饵猥亵七名女童|猥亵女童_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/两国企上百施工人员对峙 警方派大量警力并鸣枪|工地|鸣枪_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/中印在尼泊尔展开能源竞争 德媒称中国占得先机|尼泊尔|能源合作_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/中国专家推演空袭伊拉克：ISIS难抵挡美伊联手|美国|空袭|伊拉克_新浪军事.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/中国国防部评日本防卫白皮书：敦促日方反省历史|日本|中国|国防部_新浪军事.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/中国民间首次向日本皇室追讨中国文物|我国向日本追讨文物_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/中国疾控中心官员:可通过严控抵御埃博拉|传染病|埃博拉病毒_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/中央决定对周永康立案审查_新闻中心_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/中央财政下达49.57亿元用于博物馆等免费|中央财政|博物馆|免费开放_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/中央重拳反腐_新闻中心_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/中日首脑可以“正式”会谈了！_三军论坛_军事论坛_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/中纪委要求举报公款送月饼 将周周点名通报|公款送月饼_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/中美海军青岛外海联演 我军出动022隐身导弹艇_高清图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/乌克兰政府军炮击化工厂 或引发生态灾难|炮击化工厂|乌克兰局势|生态灾难_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/乌鲁木齐网民翻墙发莎车暴恐案谣言被刑拘|谣言|刑拘_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/习仲勋治理广东越境逃港潮：曾被大队书记叫板|习仲勋|逃港潮_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/习近平“新常态”表述“新”在哪里？“常”在何处？|习近平|新常态_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/习近平提战略构想：一带一路打开筑梦空间|丝绸之路|习近平_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/买家嫌贵雇人抢1.6万元犀牛角 鉴定后值64万|犀牛角_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/云南昭通鲁甸县发生6.5级地震_新闻中心_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/云南确保应急救助资金和遇难抚慰金明日全发放|抚慰金|救灾物资|救助资金_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/云南鲁甸县地震灾情交互地图_新闻中心_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/云南鲁甸地震617名遇难者已全部安葬|云南地震_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/云南鲁甸抗震救灾纪实：坚强的中国力量|云南地震_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/五年十年：“艺术叛徒”刘海粟_高清图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/今年已有741人因空难殒命或杳无音讯|伊朗坠机|空难_新浪航空.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/今年已有741人因空难殒命或杳无音讯|伊朗科技坠毁_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/今评媒：“亲自拎包”让领导们恢复自理能力_新知_新闻中心_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/伊媒:美国制裁是伊朗空难频发重要原因|伊朗空难_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/伊拉克局势演进地图_新闻中心_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/伊拉克库尔德武装重新夺回两个被占城镇|库尔德武装_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/伊拉克政府内讧 总理动用安全部队抢占巴格达|伊拉克|安全部队|总理_新浪军事.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/伊朗客机坠毁39人遇难 制裁致其飞机老化|伊朗坠机|客机坠毁_新浪航空.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/伊朗政界人士将坠机归咎于国际制裁|伊朗客机坠毁_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/传媒频道_传媒人互动平台_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/俄媒:美俄企业将联手钻探北极大陆架油田|北极油田_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/俄罗斯在近海逼退美核潜艇 外媒疑斯诺登泄机密|核潜艇|美国|俄罗斯_新浪军事.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/全国道德模范何涛丈夫:妻子无法取保候审|何涛|全国道德模范_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/公交司机听鬼故事致女乘客受惊吓换座|公交车广播_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/公方彬：城管申报烈士极不恰当|烈士|城管_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/六旬夫妇勒死暴力儿子 800名村民请愿求轻判|家暴|父母杀死儿子_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/军事图集汇总_新浪图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/军事深度_新浪军事_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/军事论坛_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/军事频道_最多军迷首选的军事门户_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/净泽计划.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/刘雪松：利友香捐款，为何难点赞|环卫女工|捐款_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/刚果性暴力受害者说不出口的真相_高清图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/到了必须严惩汉奸和卖国贼的时候了_陆军版_三军论坛_军事论坛_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/前苏联里海怪物2号艇半成品在废旧船厂现身_新浪图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/前苏联里海怪物2号艇半成品在废旧船厂现身_高清图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/加拿大启动北极科考 欲为声索北极主权收集数据|北极主权_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/北京为迎APEC会议二环路铺降噪沥青|APEC会议|二环路_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/北京什刹海街道办发福利被中纪委点名曝光|违规发福利_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/北京医托团伙与诊所勾结诈骗 109人被刑拘|医托|看病_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/北京地区_新闻中心_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/北京环保局:全年污染物总量减排任务完成过半|污染物|环保局_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/北京空中小火车项目起争议 沿线居民称未得沟通|空中小火车|北京交通|跨座式单轨_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/北京美丽警花拍形象宣传海报 引起网友围观_高清图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/北京自住房弃购频现 想买的抢不到抢到的不想要|自住房|购房_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/北约15国军演有高招儿 假士兵设路边吓唬敌军_高清图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/十八大后全国近半省份调整组织部长|组织部长|人事变动_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/千名俄军参加中国和平使命军演 苏25战机将抵华|俄罗斯|和平使命|中国_新浪军事.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/南海局势最新动态_新浪军事_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/印度国产新型隐身护卫舰抵达越南访问_高清图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/即时通信工具管理规定发布_新闻中心_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/双性人21年的模糊人生_高清图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/叙利亚2名女子因通奸被极端分子用石头砸死|通奸_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/台“陆军司令部”爆丑闻 士兵偷拍女军官洗澡|台湾|丑闻|女军官_新浪军事.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/台军频曝丑闻接连发生士兵集体嫖妓等事件|军纪丑闻_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/台湾交通部门将制订雷雨台风天航班起降标准|台风天起降标准|台交通部门_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/台湾多名官员因高雄气爆请辞|高雄气爆|官员辞职_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/台湾自产机炮计划泡汤：打不穿轻装甲车的装甲|台湾|装甲车|机炮_新浪军事.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/台湾部分大妈扮气爆灾民领救灾款及物资|救灾款|气爆_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/台湾陆军司令部爆丑闻 士兵偷拍女军官洗澡(图)|台湾士兵偷拍女军官_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/台湾高雄发生气爆_新闻中心_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/合肥国际胸模大赛20强产生_高清图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/吉林城管征地被打死 能否申报烈士引发争议|烈士|城管|征地_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/吴英之父被刑拘_新闻中心_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/四川德阳河中打捞出黑色箱子 内藏小孩尸体(图)|尸体_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/四川暴雨成灾致遂宁城区内涝 9趟动车停运|四川暴雨|动车_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/团伙摘除23名供体肾脏贩卖 肾脏以海鲜名义空运|卖肾_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/国产食品备受APEC参会代表欢迎|APEC会议|国产食品_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/国信办:将大力推动政务微信应用|即时通信工具_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/国内-新闻中心图集汇总_新浪图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/国内_新闻专题汇总_新闻中心_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/国内新闻_新闻中心_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/国办:支持铁路建设实施土地综合开发|铁路建设|国办_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/国务院推进户籍改革_新闻中心_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/国际-新闻中心图集汇总_新浪图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/国际_新闻专题汇总_新闻中心_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/国际专稿_新闻中心_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/国际新闻_中国最大的24小时原创国际资讯平台_新闻中心_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/图解新闻_新闻中心_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/土耳其客车坠入水沟致52人受伤 司机行车中睡着|土耳其|客车事故_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/土耳其首次总统直选现任总理获胜成定局|土耳其总统直选_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/地下黑作坊用变质猪皮熬制食用猪油|黑作坊|猪皮_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/地区新闻_新闻中心_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/坦克国际大赛96A趴窝属正常现象，拼搏得赞！_原创版_三军论坛_军事论坛_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/埃及宣布解散穆兄会下属政党 终判不可上诉|穆兄会_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/外交部回应“南海问题倡议”：坚定捍卫海洋权益|南海|外交部|中国_新浪军事.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/外媒七日评：西方能与伊拉克反政府武装共存吗？_新知_新闻中心_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/大妈因打呼噜尿床穿三年尿不湿|尿不湿|打呼噜_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/大货车司机为逃避检查拖行交警10余米获刑|检查|交警_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/大陆学生在台参选学生会主席 反服贸领袖支持|大陆学生|学生会主席|反服贸_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/天气预报|国内国际城市,机场天气预报_新闻中心_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/天津落马公安局长拥35项发明 被查抄12皮卡物品|武长顺|违纪_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/失血的家庭_高清图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/奥巴马称中国搭30年便车：没人指望他们做事情|伊拉克问题|美空袭伊拉克_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/女子5千救命钱在医院大厅被偷 当场瘫倒几崩溃|盗窃|看病_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/女子为弟弟和情人挪用公款390多万|挪用公款_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/女子从省纪委捞丈夫被骗千万 资金来源引质疑|纪委|诈骗_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/女子因与丈夫意见不和带着孩子溺亡水库|溺亡_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/女子被男友调侃身材不好吃丰胸药腹泻不止|丰胸_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/女子被骗与已婚男相恋 男子称有癌症提分手|相亲|婚外恋_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/女子酒后从9楼坠下生还 砸坏3层楼外墙铝塑板|跳楼_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/女学生贪吃成瘾体重170多斤 医生称跟毒瘾相似|食物成瘾|肥胖_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/女童称遭12岁男孩摸下体 男孩家长赔千元被拒|猥亵_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/媒体大全.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/嫦娥五号将于2017年左右发射并带回月球样本|嫦娥|探月_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/安倍将于二战战败日向靖国神社捐赠“玉串料“|安倍|日本|靖国神社_新浪军事.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/安倍将于战败日向靖国神社捐赠祭祀费 不会参拜|靖国神社_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/安徽公安厅长暗访打110称暴徒砍人测试反恐工作|反恐|暴徒_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/安徽干部因个人喜好干预建筑设计将被追责|干预建筑设计|追责_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/官媒解读：中央纪念邓小平诞辰110周年政治深意|邓小平|改革开放_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/官媒解读：此次纪念邓小平诞辰有何看点|邓小平_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/客机在伊朗首都机场附近坠毁_新闻中心_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/客机在伊朗首都机场附近坠毁滚动全部新闻_新闻中心_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/客机起飞后未能迅速爬升随后坠毁|坠毁|客机_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/对报刊亭城市应存感激之心|报刊亭|强拆|影响市容_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/封面报道_新闻中心_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/少将：日机侦察中国防空识别区 做法具挑衅意味|中国|防空识别区|日机_新浪军事.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/山西太原现比基尼金发嫩模洗车服务_高清图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/山西太原酒店楼顶现“空中楼阁”_高清图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/崔永元：转基因论战我为什么要一条道走到黑|转基因|崔永元_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/市民携香蕉水乘公交误喝一口被发现 遭拘10天|公交_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/希拉里接受采访称奥巴马外交政策失败|希拉里|奥巴马_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/常江：“邓小平”新剧中的视觉政治学|邓小平|电视剧|政治学_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/广东纪委书记给官员提六警示:私人会所不能去 |私人会所|纪委_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/广东顺德警方称车主被骗开窗后遭割喉不实|割喉|抢劫_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/广州公交撞桥墩致乘客受伤 司机称不清楚原因|交通事故|公交_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/广西来宾政协主席被免8名副主席被处分|来宾政协_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/广西来宾政协半年10次公款旅游 9名领导被追责|公款旅游|反腐_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/德国要求各国使馆通报特工姓名 主要针对美俄|使馆|特工_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/总政要求抵制干扰军改错误言论 防政治自由主义|总政治部|国防_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/成都男国外救人身亡 官方称见义勇为只适用省内|见义勇为_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/我国今年将进行探月三期再入返回飞行试验|探月_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/我国民航系统1个月拦截老赖逾10万人次|老赖乘飞机被拦_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/我空军运输机部队向灾区急运200台发电机_高清图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/户籍改革后城乡户口含金量能否统一成焦点|户籍改革_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/扫盲好图：英国1066年-2014年单兵装备演变_高清图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/探访朝韩非军事隔离区:感受战争前线剑拔弩张_新知_新闻中心_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/揭秘四人帮被抓过程:王洪文大吼猛扑叶剑英|四人帮|文革_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/揭秘大学生海外实习：大多数入不敷出干体力活|海外实习|暑期实习_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/搞笑_新浪图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/数千伊拉克人逃出极端组织屠杀_高清图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/数读中国官员自杀|官员自杀|中国|科级干部_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/新华网：有序的网络空间才能保护真正的自由|即时通信工具_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/新浪军事图片_新浪军事_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/新浪直击鲁甸地震：繁忙又脆弱的生命线_新知_新闻中心_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/新浪网站导航_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/新疆“草根慈善家”为灾区民众做手抓饭_高清图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/新疆暴徒:杀人后感到恐惧受害人常现眼前|新疆|暴恐_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/新疆莎车县18名暴恐犯罪嫌疑人投案自首|新疆|暴恐案_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/新疆阿克苏万人围捕暴徒细节曝光_高清图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/新知_新闻中心_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/新闻中心滚动新闻_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/新闻中心首页_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/新闻评论_新闻中心_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/日媒:日本与中韩关系难改善 首脑会谈遥遥无期|首脑会谈|中日关系_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/日媒中伤朴槿惠惹怒韩总统府 驻韩记者遭传讯|朴槿惠|韩国|丑化_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/日媒：ISIS获胜对中国将是灾难 美空袭对华有利|伊拉克|中国|空袭_新浪军事.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/日媒：中国不想与尼泊尔关系恶化 对尼影响有限|尼泊尔|西藏|中国_新浪军事.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/日战犯蜂须贺重雄：曾率队抓捕爱国武装人员|战犯_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/日本也下饺子：海自两天内服役两艘秋月级战舰_高清图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/日本产经新闻丑化朴槿惠遭韩国外长强烈抗议|朴槿惠|日韩关系_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/日本外相称与王毅长时间会谈 从会场后门离开|王毅|中日关系_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/日本民众纪念核爆炸69周年 安倍晋三献花_高清图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/日本空手道美女艳丽登场 头碎15块瓦震撼网友_高清图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/日本长崎核爆受害者斥解禁自卫权践踏宪法|自卫权_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/明日凌晨最大最圆月亮现身|月亮_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/普京致电习近平就西藏致44死车祸表示慰问|普京|西藏交通事故|习近平_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/暴雨蓝色预警：重庆湖北等8省市有大到暴雨|暴雨|重庆|湖北_新浪天气预报.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/最新版签证领馆价格表出炉(图)|签证价格_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/朝鲜中央统计局局长逝世 金正恩送花圈表哀悼|金正恩|李胜好逝世_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/朝鲜前体育相消失一年后露面 变身军方中将|朝鲜前体育相_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/李克强足迹勾勒中国政府五大政策重心|李克强_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/李克强转赠船桨入驻海口东寨港博物馆(图)|李克强|海南_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/李肇星回忆外交往事:曾因参拜靖国神社训日大使|李肇星|外交部长_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/杜紫军接替张家祝出任台湾“经济部长”|杜紫军|张家祝_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/杭州萧山区公交车和工程车惨烈相撞_高清图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/武汉一业主携充气娃娃巡街抗议违建_高清图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/武汉一名女子抱孩子从15楼跳下当场死亡|跳楼_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/歼-20采用分布式光学孔径系统超越美军F-22？_高清图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/汤姆森航空一架航班因技术故障备降军事基地|汤姆森航空|飞机备降军事基地_新浪航空.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/河南人民医院党委书记蔡聚雨接受组织调查|河南人民医院党委书记_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/河南南阳18人因楼盘使用瘦身钢筋被批捕|瘦身钢筋_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/河南夫妻半夜被抛墓地 回家房屋成废墟_高清图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/河南济源花500万为猕猴在水库两岸建吊桥(图)|吊索桥_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/河南濮阳人大常委会主任雷凌霄接受组织调查|濮阳人大常委会主任_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/波多黎各一架飞往美国客机起飞前发动机起火|客机|发动机起火_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/泰国前总理英拉昨晚飞回曼谷打消逃亡谣言(图)|英拉_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/派出所户协员穿拖鞋上班与办证民众发生争吵|辞退|态度蛮横_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/派出所长制服精神失常男子被其咬掉耳垂|精神失常_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/浙江企业污泥埋地30年 村民曝土壤重金属超标|重金属超标|土壤污染_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/深圳检方：不存在官员退赃被返还30万|贪官|退赃_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/深度：浅析俄坦克世界大赛 我96A坦克受限于速度|坦克|马力|射击_新浪军事.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/深度：独家解析8月6日中日双方军机对峙的背后_军事深度_新浪军事_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/深度：详解俄罗斯冬季两项坦克大赛 已沦为商业秀|坦克|射击|火炮_新浪军事.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/深度：马航MH17乌克兰坠毁全解析 已无比接近真相|马航|MH17|坠机内幕_新浪军事.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/港媒:台部门首长走马灯式换人不利政策延续|张家祝辞职|台湾官场_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/港澳台新闻_新闻中心_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/湖北300名学生获万元个性奖学金|个性奖学金_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/湖北孝感一座寺庙为跑车开光(组图)|跑车|开光_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/湖北宜昌人防办副主任王宝生接受调查|湖北宜昌|人防办副主任_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/湖南官员遭举报包二奶 半月前被纪委提议双开|包二奶|反腐_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/湾湾在某些方面已经落后大陆了_原创版_三军论坛_军事论坛_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/潘洪其：花钱“捞人”被骗，坏事还是好事？|捞人|纪委_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/澳北部岛屿发现乾隆通宝或成为与华通商物证|乾隆通宝_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/热门新闻每日排行_新闻中心_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/牛津大学等开课训练网络安全硕士|牛津大学|间谍学_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/王毅:反对域外国家到南海指手画脚|王毅|东盟_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/王毅与日本外相岸田文雄进行非正式接触|王毅|岸田文雄|中日关系_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/王毅与朝鲜外相就中朝关系交换意见|王毅|朝鲜外相_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/王毅会见克里批其迟到半小时(图)|王毅|克里_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/王毅会见美国国务卿 望美尊重中国在亚太权益|王毅|美国国务卿_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/王毅：建设更为紧密的中国-东盟命运共同体|王毅|东盟_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/环卫女工在路中铲泥被公交车撞死(图)|环卫工人|交通事故_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/环球趣闻_新闻中心_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/珠宝店借中奖销售商品 标价数千元成本数十元|珠宝店|抽奖_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/甘肃政协人员醉驾公车撞豪车 无力赔钱判8个月|兰博基尼|醉驾|公车_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/男子为迎接女友点蜡烛玩浪漫烧毁住房(图)|点蜡烛|烧毁住房_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/男子乘公交时坚称包里有炸弹被拘留5天(图)|炸弹|疏散乘客_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/男子乘公交谎称包里有炸弹 司机报警乘客下车|公交|炸弹_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/男子伙同他人骗银行4600万 逃13年获刑15年|诈骗|潜逃_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/男子在高铁上吸烟致晚点被罚千元|高铁|吸烟_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/男子开公司谎称与人社部合作 办假证诈骗40万|诈骗_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/男子强奸女网友后写下保证书：你怀孕我负责|强奸|女网友_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/男子掰掉3岁儿子指甲欲将其扔河中被拦下|虐待儿童_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/男子租4辆车抵押套现11万获刑4年|租车|诈骗_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/男童坠7米深井 村民施救又坠井致1死1伤|坠井|男童_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/盗窃团伙专偷厅处级官员 1名官员被盗巨额财物|盗窃官员_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/盲人牵导盲犬坐公交车受到乘客阻拦|导盲犬_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/真细致：俄罗斯记者全方位实拍我军96A主战坦克_新浪图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/真细致：俄罗斯记者全方位实拍我军96A主战坦克_高清图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/社会-新闻中心图集汇总_新浪图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/社会_新闻专题汇总_新闻中心_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/社会_视频新闻_新浪视频.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/社会新闻_新闻中心_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/社会新闻心情排行榜_新闻中心_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/祁亮山是3年来郑煤集团第3名被调查高管|郑煤集团|官员落马_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/神最右：日本小女生热衷啥？_高清图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/神最右：最恶搞的毕业照_高清图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/神最右：比伯救了我的命_高清图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/神最右：胖子都是潜力股_高清图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/神最右：超帅消防硬汉救萌猫_高清图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/私家车主4年违章被扣865分收到近5万元罚单(图)|私家车主|罚单_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/纽约街头“哺乳快闪” 倡导母乳喂养_高清图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/综述分析_新闻中心_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/网友意见_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/美军空袭伊拉克反政府武装_新闻中心_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/美印防务合作面临考验 印度欲强化本土生产|印度|美国|防务_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/美国不后悔，日本不反悔，中国需要苍井空！_三军论坛_军事论坛_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/美国介入东盟外长会议提议冻结南海 遭各国冷遇|南海|东南亚|越南_新浪军事.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/美国所有航空公司客机禁飞伊拉克领空|美国航班|禁飞伊拉克_新浪航空.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/美国欲加强在澳洲军事存在 增加驻军及战机轮防|美国|军事存在_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/美国海军航母拉盟友联合军演“堵”黑海出口_高清图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/美国空袭ISIS幕后:奥巴马忧恐怖势力蔓延本土|空袭|ISIS|奥巴马_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/美国高位截瘫男子驯养卷尾猴照料起居(图)|高位截瘫|卷尾猴_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/美媒:奥巴马或迫于压力向伊拉克派遣地面部队|奥巴马|伊拉克_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/美媒:朝鲜因中国供油减少限制使用私人摩托车|朝鲜|原油出口_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/美方提议遭到东盟地区论坛忽视凸显背后中美紧张|南海|美国|中国_新浪军事.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/美称中国东风41告别最低威慑 有助中美核平衡|导弹|美国|中国_新浪军事.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/老人告赢村小组1年后未获补偿款|征地款|强制执行_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/航拍世界最大战机坟场：退役军机密密麻麻停放_新浪图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/航拍世界最大战机坟场：退役军机密密麻麻停放_高清图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/航空新闻_航班动态_航班查询_特价机票_新浪航空_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/苦练高原战：我军在4600米高地展示重火力攻击_新浪图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/苦练高原战：我军在4600米高地展示重火力攻击_高清图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/英国为净化网络环境屏蔽近两万网站|英国|净化网络环境|屏蔽网站_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/英国副首相府燃油被盗 小偷半年得手830万英镑|燃油|盗燃油_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/英国海军首位女舰长与男下属恋爱被免指挥权|女舰长_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/英官员称若伊局势恶化 愿与美国携手空袭伊拉克|伊拉克|英国|美军_新浪军事.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/菲越对华态度出现微妙温度差 菲方难掩失望|菲律宾|反华|遏华_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/蓟门决策_新浪评论_新闻中心_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/蓟门决策：回归司法理性――“辩审冲突”的根源与应对_新闻中心_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/蓟门决策：检察机关的职权与职能变迁与转轨_新闻中心_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/蓟门决策：民国政治的两难选择――《共和中的帝制》_新闻中心_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/被害新疆宗教领袖:古兰经无暴力传教主张|伊斯兰教|暴力恐怖_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/西藏旅游大巴撞上两车后坠崖 致44人遇难_高清图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/视频曝尼日利亚军人残酷对嫌犯割喉埋葬暴行_高清图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/解放军堰塞湖上遇余震 落石如炮火轰击_高清图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/调查汇总页.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/货车闯入高速路警戒区撞死5人包括4名警察|事故|撞死交警_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/贵州在建隧道坍塌约13人被困|隧道坍塌_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/走近海洋石油981钻井平台:可抗17级台风(组图)|石油钻井平台|海洋石油981_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/这个世界――美国人才敢扔“原子弹”！_三军论坛_军事论坛_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/连胜文竞选总部将移至初选地址 称与风水无关|连胜文|竞选_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/迪拜出土豪招数促肥胖儿童减肥:减1斤奖1克黄金|迪拜|减肥|黄金_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/退休英语教师:曾教学生毛主席万岁完成英语启蒙|英语|英语教育_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/重庆30岁娃娃鱼中暑病危 后半身无法下沉(图)|娃娃鱼_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/重庆驴友突遇山洪4人死亡1人失踪(图)|驴友|山洪_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/金正恩参观机械厂要求保质量 金正日曾多次视察|金正恩_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/钟新文：别让谣言污染“朋友圈”|朋友圈|谣言_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/阿富汗新军唯一女飞行员亮相 长得挺漂亮啊！_高清图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/阿尔及利亚飞机失联_新闻中心_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/陕西洛川涉强奸女下属城管局长被双开|陕西洛川城管局长|双开_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/震区鸡坚强在堰塞湖中漂流5天被救起|堰塞湖|云南地震_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/韩国向朝鲜提议19日举行韩朝高层会谈|朝韩会谈_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/韩国将设专门机构主动应对日本歪曲历史挑衅|日韩关系_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/韩教授播慰安妇影片宣传真相遭日本右翼攻击|慰安妇|日本右翼_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/颐和园现黑导游 讲解称慈禧出游用丝绸铺路(图)|黑导游|颐和园_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/风留痕：美国战略坑盟友以牵制中俄_原创版_三军论坛_军事论坛_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/风留痕：美国的伊拉克恶梦才刚刚开始_原创版_三军论坛_军事论坛_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/首架国产大客机C919机头部段下线 订单已400架_高清图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/香港一家鸡场3天两千只鸡死亡 初步排除禽流感|香港|鸡瘟_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/香港中元节上演葬礼时装秀_高清图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/香港元朗鸡场千只鸡离奇死亡 初步化验非禽流感|禽流感|鸡场_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/香港出现埃博拉疑似感染病例 为32岁来港男子|埃博拉疫情_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/香港出现疑似埃博拉感染病例_高清图集_新浪网.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/香港女子自称避流浪狗突刹车致8车连撞|流浪狗|车祸_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/香港度假村发现数百颗疑似弹头 警方调查|香港度假村|弹头_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/香港排除疑似埃博拉病例 疫苗明年初或投用|埃博拉|疫苗_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/香港社区协会促修改条例保障新移民免受歧视|歧视|移民_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/香港财政司司长：政局不稳或引发金融经济风暴|金融风暴_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/香港飞伦敦航班因乘客失控大叫返航|返航_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/马尼拉政府为人质事件香港死难者超度|马尼拉人质事件_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/骗子扮女婿称嫖娼被抓 老两口被骗走8千元|诈骗_新浪新闻.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/src/main/files/鲁甸地震头七祭：被地震改变的村庄和人们_新知_新闻中心_新浪网.htm" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.jdk/src/main/java/net/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.jdk/src/main/java/datetime/DateTimeTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.jdk/src/main/java/io/FileChannelTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.spring-aop/src/main/java/org/gver/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.jdk/src/main/java/net/Server.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/generator/_10_NewProductStep_FreeMarkerUtil.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/generator/_11_ProductOwner_FreeMarkerUtil.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/generator/_12_MWOldModuleInfo_FreeMarkerUtil.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/generator/_13_SupplierContact_FreeMarkerUtil.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/generator/_14_TQRDCManagerContact_FreeMarkerUtil.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/generator/_15_ComplaintChat_FreeMarkerUtil.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/generator/_15_SupplierModuleDetail_FreeMarkerUtil.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/generator/_16_Purifier_FreeMarkerUtil.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/generator/_17_CompanyVatInvoice_FreeMarkerUtil.java" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/generator/_18_groupon_logistics_infos_FreeMarkerUtil.java" afterPath="$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/generator/_23_groupon_agent_paid_orders.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/generator/_19_ecp_wechatpay_trans.java" afterPath="$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/generator/_0.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/generator/_20_groupon_summary_agents.java" afterPath="$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/generator/_22_groupon_agent_reg_users.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.pay/src/main/java/alipay/dto/AlipayRefundData.java" afterPath="$PROJECT_DIR$/test.pay/src/main/java/alipay/dto/AlipayRefundData.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.pay/src/main/java/alipay/dto/settlement/AlipaySettlementDto.java" afterPath="$PROJECT_DIR$/test.pay/src/main/java/alipay/dto/settlement/AlipaySettlementDto.java" />
@@ -428,13 +31,51 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.pay/src/main/java/alipay/dto/AlipaySettlementResponse.java" afterPath="$PROJECT_DIR$/test.pay/src/main/java/alipay/dto/AlipaySettlementResponse.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.pay/src/main/java/alipay/dto/settlement/AlipaySettlementResult.java" afterPath="$PROJECT_DIR$/test.pay/src/main/java/alipay/dto/settlement/AlipaySettlementResult.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.pay/src/main/java/alipay/AlipayTest.java" afterPath="$PROJECT_DIR$/test.pay/src/main/java/alipay/AlipayTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.pay/src/main/java/test/http/HttpRequest0.java" afterPath="$PROJECT_DIR$/test.pay/src/main/java/test/http/HttpRequest0.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.lucene/src/main/java/org/gver/lucene/Indexer.java" afterPath="$PROJECT_DIR$/test.lucene/src/main/java/org/gver/lucene/Indexer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.spring-aop/src/main/java/org/gver/LoggerAspect.java" afterPath="$PROJECT_DIR$/test.spring-aop/src/main/java/org/gver/LoggerAspect.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.jdk/src/main/java/compile/Main.java" afterPath="$PROJECT_DIR$/test.jdk/src/main/java/compile/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.jdk/src/main/java/genericity/MyWriter.java" afterPath="$PROJECT_DIR$/test.jdk/src/main/java/genericity/MyWriter.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.pay/src/main/java/alipay/dto/ParamDeserializer.java" afterPath="$PROJECT_DIR$/test.pay/src/main/java/alipay/dto/ParamDeserializer.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.lucene/src/main/java/org/gver/lucene/Searcher.java" afterPath="$PROJECT_DIR$/test.lucene/src/main/java/org/gver/lucene/Searcher.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.mybator/src/main/resources/templates/Service.flt" afterPath="$PROJECT_DIR$/test.mybator/src/main/resources/templates/Service.flt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.mybator/src/main/resources/templates/ServiceImpl.flt" afterPath="$PROJECT_DIR$/test.mybator/src/main/resources/templates/ServiceImpl.flt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.pay/src/main/java/test/http/SignUtil.java" afterPath="$PROJECT_DIR$/test.pay/src/main/java/test/http/SignUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/TableMetaDataHelper.java" afterPath="$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/TableMetaDataHelper.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.pay/src/main/java/TransFromO2O.java" afterPath="$PROJECT_DIR$/test.pay/src/main/java/TransFromO2O.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.jdk/src/main/resources/data" afterPath="$PROJECT_DIR$/test.jdk/src/main/resources/data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.mybator/src/main/resources/templates/mapper.flt" afterPath="$PROJECT_DIR$/test.mybator/src/main/resources/templates/mapper.flt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.lucene/pom.xml" afterPath="$PROJECT_DIR$/test.lucene/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.lucene.webapp/pom.xml" afterPath="$PROJECT_DIR$/test.lucene.webapp/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.pay/test.pay.iml" afterPath="$PROJECT_DIR$/test.pay/test.pay.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.spring/pom.xml" afterPath="$PROJECT_DIR$/test.spring/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <list id="160dea00-9799-4c58-9c65-ec322790fb1a" name="ignore" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene.webapp/test.lucene.webapp.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test.lucene/test.lucene.iml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.Jython/test.Jython.iml" afterPath="$PROJECT_DIR$/test.Jython/test.Jython.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.designmodel/test.designmodel.iml" afterPath="$PROJECT_DIR$/test.designmodel/test.designmodel.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.dubbo/test.dubbo.iml" afterPath="$PROJECT_DIR$/test.dubbo/test.dubbo.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.dubbo.server/test.dubbo.server.iml" afterPath="$PROJECT_DIR$/test.dubbo.server/test.dubbo.server.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.groovy/test.groovy.iml" afterPath="$PROJECT_DIR$/test.groovy/test.groovy.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.guava/test.guava.iml" afterPath="$PROJECT_DIR$/test.guava/test.guava.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.iml" afterPath="$PROJECT_DIR$/test.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.io/test.io.iml" afterPath="$PROJECT_DIR$/test.io/test.io.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.jdk/test.jdk.iml" afterPath="$PROJECT_DIR$/test.jdk/test.jdk.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.maven/test.maven.iml" afterPath="$PROJECT_DIR$/test.maven/test.maven.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.mockito/test.mockito.iml" afterPath="$PROJECT_DIR$/test.mockito/test.mockito.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.mybator/test.mybator.iml" afterPath="$PROJECT_DIR$/test.mybator/test.mybator.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.net/test.net.iml" afterPath="$PROJECT_DIR$/test.net/test.net.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.netty/test.netty.iml" afterPath="$PROJECT_DIR$/test.netty/test.netty.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.nutch/test.nutch.iml" afterPath="$PROJECT_DIR$/test.nutch/test.nutch.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.pay/test.pay.iml" afterPath="$PROJECT_DIR$/test.pay/test.pay.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.poi/test.poi.iml" afterPath="$PROJECT_DIR$/test.poi/test.poi.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.redis/test.redis.iml" afterPath="$PROJECT_DIR$/test.redis/test.redis.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.ruby/test.ruby.iml" afterPath="$PROJECT_DIR$/test.ruby/test.ruby.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.sonar/test.sonar.iml" afterPath="$PROJECT_DIR$/test.sonar/test.sonar.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.spring/test.spring.iml" afterPath="$PROJECT_DIR$/test.spring/test.spring.iml" />
     </list>
     <ignored path="test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -563,7 +204,119 @@
     <favorites_list name="test" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="_0.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/generator/_0.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InstallmentChannel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.mybator/target/InstallmentChannel/InstallmentChannel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#1256#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="conf" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.mybator/target/InstallmentChannel/conf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HttpRequest0.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.pay/src/main/java/test/http/HttpRequest0.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="153" column="14" selection-start-line="153" selection-start-column="14" selection-end-line="153" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AlipayTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.pay/src/main/java/alipay/AlipayTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="60" column="434" selection-start-line="60" selection-start-column="434" selection-end-line="60" selection-end-column="434" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.71153843">
+              <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InstallmentConfigDaoTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.mybator/target/InstallmentConfig/InstallmentConfigDaoTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="22" column="37" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#4886#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InstallmentConfigMapper.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.mybator/target/InstallmentConfig/InstallmentConfigMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="95" column="35" selection-start-line="95" selection-start-column="35" selection-end-line="95" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InstallmentConfigService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.mybator/target/InstallmentConfig/InstallmentConfigService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+              <folding>
+                <element signature="e#0#3551#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="conf" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.mybator/target/InstallmentConfig/conf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="14" column="26" selection-start-line="14" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -591,28 +344,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test.mybator/pom.xml" />
-        <option value="$PROJECT_DIR$/test.mybator/src/test/java/io/terminus/snz/user/dao/BaseDaoTest.java" />
-        <option value="$PROJECT_DIR$/test.mybator/target/appassembler/bin/mybator3" />
-        <option value="$PROJECT_DIR$/git.ingore" />
-        <option value="$PROJECT_DIR$/test.Jython/pom.xml" />
-        <option value="$PROJECT_DIR$/test.designmodel/pom.xml" />
-        <option value="$PROJECT_DIR$/test.dubbo.client/pom.xml" />
-        <option value="$PROJECT_DIR$/test.dubbo.server/pom.xml" />
-        <option value="$PROJECT_DIR$/test.dubbo/pom.xml" />
-        <option value="$PROJECT_DIR$/test.groovy/pom.xml" />
-        <option value="$PROJECT_DIR$/test.mybator/src/main/resources/conf.properties" />
-        <option value="$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/generator/_19_groupon_summary_agents.java" />
-        <option value="$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/TableMetaDataHelper.java" />
-        <option value="$PROJECT_DIR$/test.mybator/target/AgentSummary/AgentSummaryServiceImpl.java" />
-        <option value="$PROJECT_DIR$/test.mybator/target/AgentSummary/AgentSummaryMapper.xml" />
-        <option value="$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/FreeMarkerUtil.java" />
-        <option value="$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/generator/_20_groupon_summary_agents.java" />
-        <option value="$PROJECT_DIR$/test.groovy/src/main/java/org/gver/groovy/Hello.groovy" />
-        <option value="$PROJECT_DIR$/test.groovy/src/main/hello.groovy" />
-        <option value="$PROJECT_DIR$/test.guava/src/main/java/test/guava/event/WorkerMsg.java" />
-        <option value="$PROJECT_DIR$/test.jdk/src/main/java/dozermapper/SignUtil.java" />
-        <option value="$PROJECT_DIR$/test.jdk/src/main/java/dozermapper/Test2.java" />
         <option value="$PROJECT_DIR$/test.jdk/src/main/java/reflection/InvocationTest.java" />
         <option value="$PROJECT_DIR$/test.mybator/src/main/resources/templates/Dao.flt" />
         <option value="$PROJECT_DIR$/test.mybator/src/main/resources/templates/Dao.flt.java" />
@@ -620,28 +351,50 @@
         <option value="$PROJECT_DIR$/test.mybator/src/main/resources/templates/DaoTest.flt.java" />
         <option value="$PROJECT_DIR$/test.mybator/src/main/resources/templates/Model.flt" />
         <option value="$PROJECT_DIR$/test.mybator/src/main/resources/templates/Model.flt.java" />
-        <option value="$PROJECT_DIR$/test.mybator/src/main/resources/templates/Service.flt" />
         <option value="$PROJECT_DIR$/test.mybator/src/main/resources/templates/Service.flt.java" />
-        <option value="$PROJECT_DIR$/test.mybator/src/main/resources/templates/ServiceImpl.flt" />
         <option value="$PROJECT_DIR$/test.mybator/src/main/resources/templates/ServiceImpl.flt.java" />
         <option value="$PROJECT_DIR$/test.mybator/src/main/resources/templates/ServiceImplTest.flt" />
         <option value="$PROJECT_DIR$/test.mybator/src/main/resources/templates/ServiceImplTest.flt.java" />
-        <option value="$PROJECT_DIR$/test.mybator/src/main/resources/templates/mapper.flt" />
         <option value="$PROJECT_DIR$/test.mybator/src/test/resources/mapper/ProductOwnerMapper.xml" />
         <option value="$PROJECT_DIR$/test.mybator/target/AgentSummary/AgentSummary.java" />
         <option value="$PROJECT_DIR$/test.mybator/target/AgentSummary/AgentSummaryDao.java" />
         <option value="$PROJECT_DIR$/test.guava/src/main/java/com/guava/common/reflect/ReflectionTest.java" />
-        <option value="$PROJECT_DIR$/test.lucene/src/main/java/org/gver/lucene/Indexer.java" />
-        <option value="$PROJECT_DIR$/test.lucene/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/test.spring/pom.xml" />
         <option value="$PROJECT_DIR$/test.spring-aop/pom.xml" />
-        <option value="$PROJECT_DIR$/test.spring-aop/src/main/java/org/gver/LoggerAspect.java" />
-        <option value="$PROJECT_DIR$/test.jdk/src/main/java/compile/Main.java" />
         <option value="$PROJECT_DIR$/test.guava/src/main/java/test/guava/event/StudentMsg.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/test.lucene.webapp/pom.xml" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/files/Test.java" />
+        <option value="$PROJECT_DIR$/files/Test2.java" />
+        <option value="$PROJECT_DIR$/test.jdk/src/main/java/compile/Main.java" />
+        <option value="$PROJECT_DIR$/test.jdk/src/main/java/genericity/MyWriter.java" />
+        <option value="$PROJECT_DIR$/test.spring-aop/src/main/java/org/gver/Main.java" />
+        <option value="$PROJECT_DIR$/test.spring-aop/src/main/java/org/gver/LoggerAspect.java" />
+        <option value="$PROJECT_DIR$/test.spring/pom.xml" />
+        <option value="$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/generator/_20_groupon_agent_bonuses.java" />
+        <option value="$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/generator/_21_groupon_agent_bonuses.java" />
+        <option value="$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/TableMetaDataHelper.java" />
+        <option value="$PROJECT_DIR$/test.mybator/target/AgentBonus/AgentBonusMapper.xml" />
+        <option value="$PROJECT_DIR$/test.mybator/target/AgentBonus/AgentBonus.java" />
+        <option value="$PROJECT_DIR$/test.mybator/src/main/resources/templates/ServiceImpl.flt" />
+        <option value="$PROJECT_DIR$/test.mybator/src/main/resources/templates/Service.flt" />
+        <option value="$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/generator/_22_groupon_agent_reg_users.java" />
+        <option value="$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/generator/_23_groupon_agent_paid_orders.java" />
+        <option value="$PROJECT_DIR$/test.mybator/target/AgentRegUser/AgentRegUserDao.java" />
+        <option value="$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/FreeMarkerUtil.java" />
+        <option value="$PROJECT_DIR$/test.lucene.webapp/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/test.lucene/pom.xml" />
+        <option value="$PROJECT_DIR$/test.lucene/src/main/java/org/gver/lucene/Indexer.java" />
+        <option value="$PROJECT_DIR$/test.lucene/src/main/java/org/gver/lucene/Searcher.java" />
+        <option value="$PROJECT_DIR$/test.mybator/target/CompanyTradeSummary/CompanyTradeSummary.java" />
+        <option value="$PROJECT_DIR$/test.jdk/src/main/java/datetime/DateTimeTest.java" />
+        <option value="$PROJECT_DIR$/test.jdk/src/main/java/io/FileChannelTest.java" />
+        <option value="$PROJECT_DIR$/test.jdk/src/main/java/net/Client.java" />
+        <option value="$PROJECT_DIR$/test.jdk/src/main/java/net/Server.java" />
+        <option value="$PROJECT_DIR$/test.mybator/src/main/resources/templates/mapper.flt" />
+        <option value="$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/generator/_0.java" />
+        <option value="$PROJECT_DIR$/test.pay/src/main/java/test/http/HttpRequest0.java" />
+        <option value="$PROJECT_DIR$/test.pay/src/main/java/alipay/AlipayTest.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -709,7 +462,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="720" />
+    <option name="height" value="727" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -723,6 +476,9 @@
           </State>
           <State>
             <id>Code maturity issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesJava</id>
           </State>
           <State>
             <id>General</id>
@@ -763,7 +519,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>Ant inspections</id>
+            <id>InfiniteLoopStatement</id>
           </State>
         </selected-state>
       </profile-state>
@@ -797,8 +553,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -827,7 +581,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="test.lucene" />
+              <option name="myItemId" value="test.mybator" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -841,7 +595,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="test.lucene" />
+              <option name="myItemId" value="test.mybator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="target" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test.mybator" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -859,7 +631,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="test.lucene" />
+              <option name="myItemId" value="test.mybator" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -870,10 +642,110 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test.mybator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test.mybator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mybator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test.mybator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mybator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="generator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -888,14 +760,14 @@
     <property name="options.splitter.details.proportions" value="0.3543578" />
     <property name="options.searchVisible" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.412082" />
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="/usr/dev/workspace/kafka" />
     <property name="FullScreen" value="false" />
     <property name="GenerateAntBuildDialog.generateSingleFile" value="false" />
     <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
@@ -904,7 +776,7 @@
     <property name="GenerateAntBuildDialog.inclineRuntiemClasspath" value="false" />
     <property name="GenerateAntBuildDialog.generateIdeaHomeProperty" value="false" />
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="test" />
-    <property name="SearchEverywhereHistoryKey" value="SimpleJava&#9;PSI&#9;JAVA://javax.tools.SimpleJavaFileObject&#10;Resources&#9;PSI&#9;JAVA://org.apache.ibatis.io.Resources&#10;Requ0&#9;FILE&#9;file:///usr/dev/workspace-luna/test/test.net/src/main/java/test/http/HttpRequest0.java&#10;AliTe&#9;FILE&#9;file:///usr/dev/workspace-luna/test/test.pay/src/main/java/alipay/AlipayTest.java&#10;Http0&#9;PSI&#9;JAVA://test.http.HttpRequest0&#10;HandleBar&#9;PSI&#9;JAVA://org.gver.web.handlebars.HandlebarsEngine&#10;StringT&#9;FILE&#9;file:///usr/dev/workspace-luna/test/test.jdk/src/main/java/string/StringTest.java&#10;ComponentScanDefini&#9;FILE&#9;jar:///Users/wanggen/.m2/repository/org/springframework/spring-context/3.2.6.RELEASE/spring-context-3.2.6.RELEASE-sources.jar!/org/springframework/context/annotation/ComponentScanBeanDefinitionParser.java&#10;ImmuMap&#9;PSI&#9;JAVA://com.google.common.collect.ImmutableMap&#10;ImmuList&#9;PSI&#9;JAVA://com.google.common.collect.ImmutableList&#10;TransformingRan&#9;PSI&#9;JAVA://com.google.common.collect.Lists.TransformingRandomAccessList&#10;UnmodifiableRandomAcc&#9;PSI&#9;JAVA://java.util.Collections.UnmodifiableRandomAccessList&#10;XmlBeanDefinitionReader&#9;PSI&#9;JAVA://org.springframework.beans.factory.xml.XmlBeanDefinitionReader&#10;SQL&#9;PSI&#9;JAVA://org.apache.ibatis.jdbc.SQL&#10;SqlBuild&#9;PSI&#9;JAVA://ch.qos.logback.classic.db.SQLBuilder&#10;ImMap&#9;PSI&#9;JAVA://com.google.common.collect.ImmutableMap&#10;ReflectiveAspectJAdvisorFactory&#9;PSI&#9;JAVA://org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory&#10;AbstractAutowireCapableBeanFactory&#9;PSI&#9;JAVA://org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory&#10;AbstractBeanFactory&#9;PSI&#9;JAVA://org.springframework.beans.factory.support.AbstractBeanFactory&#10;AutowiredAnnotationBeanPostProcessor&#9;PSI&#9;JAVA://org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor&#10;Request&#9;FILE&#9;jar:///Users/wanggen/.m2/repository/org/mortbay/jetty/jetty/6.1.25/jetty-6.1.25-sources.jar!/org/mortbay/jetty/Request.java&#10;JdbcTempl&#9;PSI&#9;JAVA://org.springframework.jdbc.core.JdbcTemplate&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList&#10;CellStyle&#9;PSI&#9;JAVA://org.apache.poi.ss.usermodel.CellStyle&#10;Strings&#9;PSI&#9;JAVA://com.google.common.base.Strings&#10;nte&#9;FILE&#9;file:///usr/dev/workspace-luna/test/.idea/libraries/Maven__org_springframework_spring_context_3_2_6_RELEASE.xml&#10;Modelf&#9;FILE&#9;file:///usr/dev/workspace-luna/test/test.mybator/src/main/resources/templates/Model.flt.java&#10;Mapper&#9;FILE&#9;file:///usr/dev/workspace-luna/test/test.mybator/src/main/resources/templates/mapper.flt.xml" />
+    <property name="SearchEverywhereHistoryKey" value="XmlBeanDefinitionReader&#9;PSI&#9;JAVA://org.springframework.beans.factory.xml.XmlBeanDefinitionReader&#10;SimpleJava&#9;PSI&#9;JAVA://javax.tools.SimpleJavaFileObject&#10;Resources&#9;PSI&#9;JAVA://org.apache.ibatis.io.Resources&#10;Requ0&#9;FILE&#9;file:///usr/dev/workspace-luna/test/test.net/src/main/java/test/http/HttpRequest0.java&#10;AliTe&#9;FILE&#9;file:///usr/dev/workspace-luna/test/test.pay/src/main/java/alipay/AlipayTest.java&#10;Http0&#9;PSI&#9;JAVA://test.http.HttpRequest0&#10;HandleBar&#9;PSI&#9;JAVA://org.gver.web.handlebars.HandlebarsEngine&#10;StringT&#9;FILE&#9;file:///usr/dev/workspace-luna/test/test.jdk/src/main/java/string/StringTest.java&#10;ComponentScanDefini&#9;FILE&#9;jar:///Users/wanggen/.m2/repository/org/springframework/spring-context/3.2.6.RELEASE/spring-context-3.2.6.RELEASE-sources.jar!/org/springframework/context/annotation/ComponentScanBeanDefinitionParser.java&#10;ImmuMap&#9;PSI&#9;JAVA://com.google.common.collect.ImmutableMap&#10;ImmuList&#9;PSI&#9;JAVA://com.google.common.collect.ImmutableList&#10;TransformingRan&#9;PSI&#9;JAVA://com.google.common.collect.Lists.TransformingRandomAccessList&#10;UnmodifiableRandomAcc&#9;PSI&#9;JAVA://java.util.Collections.UnmodifiableRandomAccessList&#10;SQL&#9;PSI&#9;JAVA://org.apache.ibatis.jdbc.SQL&#10;SqlBuild&#9;PSI&#9;JAVA://ch.qos.logback.classic.db.SQLBuilder&#10;ImMap&#9;PSI&#9;JAVA://com.google.common.collect.ImmutableMap&#10;ReflectiveAspectJAdvisorFactory&#9;PSI&#9;JAVA://org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory&#10;AbstractAutowireCapableBeanFactory&#9;PSI&#9;JAVA://org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory&#10;AbstractBeanFactory&#9;PSI&#9;JAVA://org.springframework.beans.factory.support.AbstractBeanFactory&#10;AutowiredAnnotationBeanPostProcessor&#9;PSI&#9;JAVA://org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor&#10;Request&#9;FILE&#9;jar:///Users/wanggen/.m2/repository/org/mortbay/jetty/jetty/6.1.25/jetty-6.1.25-sources.jar!/org/mortbay/jetty/Request.java&#10;JdbcTempl&#9;PSI&#9;JAVA://org.springframework.jdbc.core.JdbcTemplate&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList&#10;CellStyle&#9;PSI&#9;JAVA://org.apache.poi.ss.usermodel.CellStyle&#10;Strings&#9;PSI&#9;JAVA://com.google.common.base.Strings&#10;nte&#9;FILE&#9;file:///usr/dev/workspace-luna/test/.idea/libraries/Maven__org_springframework_spring_context_3_2_6_RELEASE.xml&#10;Modelf&#9;FILE&#9;file:///usr/dev/workspace-luna/test/test.mybator/src/main/resources/templates/Model.flt.java&#10;Mapper&#9;FILE&#9;file:///usr/dev/workspace-luna/test/test.mybator/src/main/resources/templates/mapper.flt.xml" />
     <property name="LayoutCode.rearrangeEntriesJava" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="project.patched.for.dcevm" value="true" />
@@ -914,7 +786,7 @@
     <property name="LayoutCode.rearrangeEntriesGroovy" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="84" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
@@ -932,6 +804,8 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="895" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="ToolWindowTypeScript Compiler.ShowToolbar" value="false" />
+    <property name="typescript-compiler-editor-notification" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -942,11 +816,11 @@
       <recent name="test.mybator" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/files" />
       <recent name="$PROJECT_DIR$/test.mybator/src/main/resources/templates" />
       <recent name="$PROJECT_DIR$/test.pay/src/main/java/alipay" />
       <recent name="$PROJECT_DIR$/test.pay/src/main/java" />
       <recent name="$PROJECT_DIR$/test.dubbo.server/src/main/resources" />
-      <recent name="$PROJECT_DIR$/test.spring-aop/src/test/java" />
     </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="org.gver" />
@@ -957,6 +831,9 @@
       <recent name="io.terminus.snz.user.service" />
       <recent name="io.terminus.snz.user.dao" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/test.dubbo.server/src/main/resources" />
       <recent name="$PROJECT_DIR$/test.dubbo.server/src/main/java" />
@@ -964,41 +841,16 @@
       <recent name="$PROJECT_DIR$/test.count-plugin/src/main/java" />
       <recent name="$PROJECT_DIR$/test.spring-aop/src/main/resources/spring" />
     </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration default="false" name="_19_ecp_wechatpay_trans" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.HttpRequest0.退款订单状态复查">
+    <configuration default="false" name="_0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="test.mybator.generator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="test.mybator.generator._19_ecp_wechatpay_trans" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" value="$APPLICATION_PLUGINS_DIR$/DCEVM_JRE" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="test.mybator" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="_20_groupon_summary_agents" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="test.mybator.generator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="test.mybator.generator._20_groupon_summary_agents" />
+      <option name="MAIN_CLASS_NAME" value="test.mybator.generator._0" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1011,14 +863,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="compile.*" />
+          <option name="PATTERN" value="net.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="compile.Main" />
+      <option name="MAIN_CLASS_NAME" value="net.Server" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1031,26 +883,82 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="mybator3" type="BashConfigurationType" factoryName="Bash" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="INTERPRETER_PATH" value="/bin/bash" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test.mybator/target/appassembler/bin" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.mybator/target/appassembler/bin/mybator3" />
-      <option name="PARAMETERS" value="" />
-      <module name="test.mybator" />
+    <configuration default="false" name="HttpRequest0.支付订单查询" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="test.http.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="test.pay" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="test.http" />
+      <option name="MAIN_CLASS_NAME" value="test.http.HttpRequest0" />
+      <option name="METHOD_NAME" value="支付订单查询" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
       <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="hello" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
-      <module name="test.groovy" />
-      <setting name="path" value="file://$PROJECT_DIR$/test.groovy/src/main/hello.groovy" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$/test.groovy/src/main" />
-      <setting name="debug" value="false" />
+    <configuration default="false" name="HttpRequest0.退款订单查询" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="test.http.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="test.pay" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="test.http" />
+      <option name="MAIN_CLASS_NAME" value="test.http.HttpRequest0" />
+      <option name="METHOD_NAME" value="退款订单查询" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="HttpRequest0.退款订单状态复查" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="test.http.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="test.pay" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="test.http" />
+      <option name="MAIN_CLASS_NAME" value="test.http.HttpRequest0" />
+      <option name="METHOD_NAME" value="退款订单状态复查" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
       <method />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -1670,23 +1578,23 @@
     </configuration>
     <list size="10">
       <item index="0" class="java.lang.String" itemvalue="Application.Unnamed" />
-      <item index="1" class="java.lang.String" itemvalue="Application._19_ecp_wechatpay_trans" />
-      <item index="2" class="java.lang.String" itemvalue="Application._20_groupon_summary_agents" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="4" class="java.lang.String" itemvalue="Bash.mybator3" />
-      <item index="5" class="java.lang.String" itemvalue="Groovy.Hello" />
-      <item index="6" class="java.lang.String" itemvalue="Groovy.hello" />
-      <item index="7" class="java.lang.String" itemvalue="Jetty Server.search-jetty" />
-      <item index="8" class="java.lang.String" itemvalue="Maven.lucene-jetty:run" />
-      <item index="9" class="java.lang.String" itemvalue="Remote.Unnamed" />
+      <item index="1" class="java.lang.String" itemvalue="Groovy.Hello" />
+      <item index="2" class="java.lang.String" itemvalue="Jetty Server.search-jetty" />
+      <item index="3" class="java.lang.String" itemvalue="Maven.lucene-jetty:run" />
+      <item index="4" class="java.lang.String" itemvalue="Remote.Unnamed" />
+      <item index="5" class="java.lang.String" itemvalue="Application._0" />
+      <item index="6" class="java.lang.String" itemvalue="Application.Server" />
+      <item index="7" class="java.lang.String" itemvalue="JUnit.HttpRequest0.支付订单查询" />
+      <item index="8" class="java.lang.String" itemvalue="JUnit.HttpRequest0.退款订单查询" />
+      <item index="9" class="java.lang.String" itemvalue="JUnit.HttpRequest0.退款订单状态复查" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="1" class="java.lang.String" itemvalue="Groovy.hello" />
-        <item index="2" class="java.lang.String" itemvalue="Application._20_groupon_summary_agents" />
-        <item index="3" class="java.lang.String" itemvalue="Bash.mybator3" />
-        <item index="4" class="java.lang.String" itemvalue="Application._19_ecp_wechatpay_trans" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.HttpRequest0.退款订单状态复查" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.HttpRequest0.退款订单查询" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.HttpRequest0.支付订单查询" />
+        <item index="3" class="java.lang.String" itemvalue="Application._0" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Server" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -1706,6 +1614,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="7ff36cf7-d168-499b-abd8-a79a89c37c93" name="Default" comment="" />
+      <changelist id="160dea00-9799-4c58-9c65-ec322790fb1a" name="ignore" comment="" />
       <created>1404218654226</created>
       <option name="number" value="Default" />
       <updated>1404218654226</updated>
@@ -1908,6 +1817,25 @@
       <workItem from="1421247924887" duration="1471000" />
       <workItem from="1421249678464" duration="410000" />
       <workItem from="1433325536338" duration="14098000" />
+      <workItem from="1433468492196" duration="17607000" />
+      <workItem from="1433750184872" duration="1230000" />
+      <workItem from="1433770965210" duration="652000" />
+      <workItem from="1433822129217" duration="10684000" />
+      <workItem from="1434005862974" duration="11219000" />
+      <workItem from="1434435544292" duration="677000" />
+      <workItem from="1434504259641" duration="595000" />
+      <workItem from="1434506823351" duration="5246000" />
+      <workItem from="1434599895061" duration="10173000" />
+      <workItem from="1434681979328" duration="8830000" />
+      <workItem from="1434950106265" duration="4009000" />
+      <workItem from="1434989731684" duration="4189000" />
+      <workItem from="1435076346584" duration="1086000" />
+      <workItem from="1435195964189" duration="57000" />
+      <workItem from="1435196026661" duration="4860000" />
+      <workItem from="1435390257577" duration="466000" />
+      <workItem from="1435650452921" duration="4904000" />
+      <workItem from="1436623176436" duration="2984000" />
+      <workItem from="1436626360972" duration="928000" />
     </task>
     <task id="LOCAL-00001" summary="提交记录">
       <created>1421249750940</created>
@@ -1945,11 +1873,17 @@
       <option name="project" value="LOCAL" />
       <updated>1433408467282</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="ignore some files">
+      <created>1433410157676</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1433410157676</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="795280000" />
+    <option name="totallyTimeSpent" value="888958000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1972,51 +1906,55 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="720" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="727" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3057325" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3566879" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37952757" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3559055" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18174475" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
       <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32649842" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32626426" sideWeight="0.5" order="18" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29228243" sideWeight="0.49859154" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39490446" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34394905" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.54330707" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34061489" sideWeight="0.49918434" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998326" sideWeight="0.5" order="19" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33495146" sideWeight="0.49859154" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3901274" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32038835" sideWeight="0.49859154" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" x="120" y="122" width="1060" height="505" />
       <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35191083" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5291181" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32922825" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cloverage" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32440946" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Test Runs" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32996634" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven-2 Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven-2 Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle View" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="UML Diagrams" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37952757" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="UML Diagrams" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34330708" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript Compiler" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31847134" sideWeight="0.5" order="21" side_tool="false" content_ui="combo" x="22" y="282" width="1236" height="201" />
       <window_info id="SonarQube" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998326" sideWeight="0.5" order="20" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Graphical Navigator" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Graphical Navigator" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3989899" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.gitignore" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -2038,696 +1976,454 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/3.2.6.RELEASE/spring-aop-3.2.6.RELEASE-sources.jar!/org/springframework/aop/aspectj/annotation/ReflectiveAspectJAdvisorFactory.java</url>
-          <line>196</line>
+          <url>file://$PROJECT_DIR$/test.spring-aop/src/main/java/org/gver/LoggerAspect.java</url>
+          <line>18</line>
           <properties />
-          <option name="timeStamp" value="61" />
+          <option name="timeStamp" value="141" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test.spring-aop/src/main/java/org/gver/AccountManager.java</url>
-          <line>19</line>
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.1.6.RELEASE/spring-aop-4.1.6.RELEASE-sources.jar!/org/springframework/aop/framework/CglibAopProxy.java</url>
+          <line>652</line>
           <properties />
-          <option name="timeStamp" value="62" />
+          <option name="timeStamp" value="142" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/3.2.6.RELEASE/spring-aop-3.2.6.RELEASE-sources.jar!/org/springframework/aop/framework/CglibAopProxy.java</url>
-          <line>633</line>
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/3.2.6.RELEASE/spring-beans-3.2.6.RELEASE-sources.jar!/org/springframework/beans/factory/xml/AbstractBeanDefinitionParser.java</url>
+          <line>61</line>
           <properties />
-          <option name="timeStamp" value="63" />
+          <option name="timeStamp" value="145" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test.jdk/src/main/java/encoding/_64Encoding.java</url>
-          <line>42</line>
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.1.6.RELEASE/spring-beans-4.1.6.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java</url>
+          <line>452</line>
           <properties />
-          <option name="timeStamp" value="66" />
+          <option name="timeStamp" value="147" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test.poi/src/main/java/org/gver/poi/FileLoader.java</url>
-          <line>105</line>
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.1.6.RELEASE/spring-beans-4.1.6.RELEASE-sources.jar!/org/springframework/beans/factory/xml/XmlBeanDefinitionReader.java</url>
+          <line>314</line>
           <properties />
-          <option name="timeStamp" value="79" />
+          <option name="timeStamp" value="148" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/TableMetaDataHelper.java</url>
-          <line>36</line>
-          <properties />
-          <option name="timeStamp" value="85" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test.poi/src/main/java/org/gver/poi/XLSWriter.java</url>
-          <line>31</line>
-          <properties />
-          <option name="timeStamp" value="86" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test.poi/src/main/java/org/gver/poi/FileLoader.java</url>
-          <line>78</line>
-          <properties />
-          <option name="timeStamp" value="88" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test.guava/src/main/java/test/guava/base/SuppliersTest.java</url>
-          <line>30</line>
-          <properties />
-          <option name="timeStamp" value="90" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test.guava/src/main/java/test/guava/base/SuppliersTest.java</url>
-          <line>27</line>
-          <properties />
-          <option name="timeStamp" value="91" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test.guava/src/main/java/test/guava/base/SuppliersTest.java</url>
-          <line>34</line>
-          <properties />
-          <option name="timeStamp" value="92" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test.guava/src/main/java/test/guava/cache/CacheTest.java</url>
-          <line>26</line>
-          <properties />
-          <option name="timeStamp" value="93" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test.guava/src/main/java/test/guava/cache/CacheTest.java</url>
-          <line>27</line>
-          <properties />
-          <option name="timeStamp" value="94" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test.guava/src/main/java/test/guava/cache/CacheTest.java</url>
-          <line>28</line>
-          <properties />
-          <option name="timeStamp" value="95" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test.guava/src/main/java/test/guava/cache/CacheTest.java</url>
-          <line>41</line>
-          <properties />
-          <option name="timeStamp" value="97" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test.guava/src/main/java/test/guava/cache/CacheTest.java</url>
-          <line>47</line>
-          <properties />
-          <option name="timeStamp" value="98" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/3.2.6.RELEASE/spring-beans-3.2.6.RELEASE-sources.jar!/org/springframework/beans/factory/xml/XmlBeanDefinitionReader.java</url>
-          <line>312</line>
-          <properties />
-          <option name="timeStamp" value="100" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/3.2.6.RELEASE/spring-beans-3.2.6.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractBeanDefinitionReader.java</url>
-          <line>242</line>
-          <properties />
-          <option name="timeStamp" value="102" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/3.2.6.RELEASE/spring-beans-3.2.6.RELEASE-sources.jar!/org/springframework/beans/factory/xml/XmlBeanDefinitionReader.java</url>
-          <line>492</line>
-          <properties />
-          <option name="timeStamp" value="103" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/3.2.6.RELEASE/spring-core-3.2.6.RELEASE-sources.jar!/org/springframework/core/io/support/PathMatchingResourcePatternResolver.java</url>
-          <line>426</line>
-          <properties />
-          <option name="timeStamp" value="107" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/3.2.6.RELEASE/spring-context-3.2.6.RELEASE-sources.jar!/org/springframework/context/annotation/ClassPathScanningCandidateComponentProvider.java</url>
-          <line>266</line>
-          <properties />
-          <option name="timeStamp" value="108" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test.io/src/main/java/test/io/TestSer.java</url>
-          <line>35</line>
-          <properties />
-          <option name="timeStamp" value="109" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test.spring-aop/src/main/java/org/gver/AccountManager.java</url>
-          <line>15</line>
-          <properties />
-          <option name="timeStamp" value="110" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test.jdk/src/main/java/string/StringTest.java</url>
-          <line>24</line>
-          <properties />
-          <option name="timeStamp" value="111" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/3.2.6.RELEASE/spring-beans-3.2.6.RELEASE-sources.jar!/org/springframework/beans/factory/xml/BeanDefinitionParserDelegate.java</url>
-          <line>1437</line>
-          <properties />
-          <option name="timeStamp" value="112" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test.io/src/main/java/test/io/StringTest.java</url>
-          <line>35</line>
-          <properties />
-          <option name="timeStamp" value="113" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/3.2.6.RELEASE/spring-beans-3.2.6.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractBeanDefinitionReader.java</url>
           <line>79</line>
           <properties />
-          <option name="timeStamp" value="114" />
+          <option name="timeStamp" value="149" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/3.2.6.RELEASE/spring-test-3.2.6.RELEASE-sources.jar!/org/springframework/test/context/support/AbstractGenericContextLoader.java</url>
-          <line>107</line>
+          <url>file://$PROJECT_DIR$/test.jdk/src/main/java/net/Server.java</url>
+          <line>80</line>
           <properties />
-          <option name="timeStamp" value="115" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/TableMetaDataHelper.java</url>
-          <line>59</line>
-          <properties />
-          <option name="timeStamp" value="116" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test.guava/src/main/java/test/guava/event/NewsCenter.java</url>
-          <line>19</line>
-          <properties />
-          <option name="timeStamp" value="124" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test.guava/src/main/java/test/guava/event/NewsCenter.java</url>
-          <line>27</line>
-          <properties />
-          <option name="timeStamp" value="125" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0-sources.jar!/com/google/common/eventbus/AnnotatedSubscriberFinder.java</url>
-          <line>58</line>
-          <properties />
-          <option name="timeStamp" value="126" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0-sources.jar!/com/google/common/eventbus/EventSubscriber.java</url>
-          <line>73</line>
-          <properties />
-          <option name="timeStamp" value="127" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test.net/src/test/java/test/http/SignUtilTest.java</url>
-          <line>52</line>
-          <properties />
-          <option name="timeStamp" value="129" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test.jdk/src/main/java/json/FasterJson.java</url>
-          <line>26</line>
-          <properties />
-          <option name="timeStamp" value="130" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test.net/src/main/java/test/http/HttpRequest0.java</url>
-          <line>221</line>
-          <properties />
-          <option name="timeStamp" value="131" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test.pay/src/main/java/alipay/dto/ParamDeserializer.java</url>
-          <line>26</line>
-          <properties />
-          <option name="timeStamp" value="136" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test.pay/src/main/java/alipay/dto/ParamDeserializer.java</url>
-          <line>28</line>
-          <properties />
-          <option name="timeStamp" value="137" />
+          <option name="timeStamp" value="151" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="138" />
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="153" />
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="JUnit">
-        <watch expression="treeNode.toString()" language="JAVA" custom="" />
-      </configuration>
-    </watches-manager>
+    <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
-    <buildFile url="file://$PROJECT_DIR$/test.maven/ant-test.xml">
-      <targetFilters>
-        <filter targetName="test" isVisible="false" />
-        <filter targetName="cp" isVisible="false" />
-      </targetFilters>
-      <expanded value="true" />
-    </buildFile>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test.Jython/src/main/java/org/gver/python/JythonHello.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-core/4.6.1/lucene-core-4.6.1-sources.jar!/org/apache/lucene/store/FSDirectory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.59490085">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding />
+        <state vertical-scroll-proportion="0.19732441">
+          <caret line="499" column="56" selection-start-line="499" selection-start-column="56" selection-end-line="499" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.guava/src/main/java/test/guava/event/WorkerMsg.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-analyzers-common/4.6.1/lucene-analyzers-common-4.6.1-sources.jar!/org/apache/lucene/analysis/cn/ChineseAnalyzer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-          <folding />
+        <state vertical-scroll-proportion="0.5735786">
+          <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.jdk/src/main/java/dozermapper/SignUtil.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-core/4.6.1/lucene-core-4.6.1-sources.jar!/org/apache/lucene/analysis/Analyzer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-          <folding />
+        <state vertical-scroll-proportion="-8.983277">
+          <caret line="66" column="40" selection-start-line="66" selection-start-column="40" selection-end-line="66" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.jdk/src/main/java/dozermapper/Test2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.mybator/src/main/resources/templates/Model.flt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.625">
-          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.mybator/src/main/resources/templates/Model.flt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.mybator/src/main/resources/templates/Service.flt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.625">
-          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.mybator/src/main/resources/templates/Service.flt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.mybator/src/main/resources/templates/ServiceImpl.flt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.625">
-          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.mybator/src/main/resources/templates/ServiceImpl.flt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.mybator/src/main/resources/templates/ServiceImplTest.flt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.625">
-          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.mybator/src/main/resources/templates/ServiceImplTest.flt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.mybator/target/AgentSummary/AgentSummary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.mybator/target/AgentSummary/AgentSummaryDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.mybator/src/test/resources/mapper/ProductOwnerMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27591974">
-          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.mybator/src/main/resources/templates/mapper.flt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.25">
-          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/lang/reflect/Method.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="7.173913">
-          <caret line="320" column="21" selection-start-line="320" selection-start-column="21" selection-end-line="320" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.jdk/src/main/java/reflection/InvocationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.72742474">
-          <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#765#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/javax/tools/SimpleJavaFileObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.013378">
-          <caret line="62" column="14" selection-start-line="62" selection-start-column="14" selection-end-line="62" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/generator/_20_groupon_summary_agents.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.3294314">
-          <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.mybator/src/main/resources/templates/DaoTest.flt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3478261">
-          <caret line="115" column="10" selection-start-line="115" selection-start-column="10" selection-end-line="115" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#5067#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.mybator/src/main/resources/templates/DaoTest.flt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5261324">
-          <caret line="77" column="18" selection-start-line="77" selection-start-column="18" selection-end-line="77" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.mybator/src/main/resources/templates/Dao.flt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.3066202">
-          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.mybator/src/main/resources/templates/Dao.flt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.guava/src/main/java/com/guava/common/reflect/ReflectionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5986622">
-          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#401#805#0" expanded="false" />
-            <element signature="e#804#805#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.jdk/src/main/java/reflection/FieldTest.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-core/4.6.1/lucene-core-4.6.1-sources.jar!/org/apache/lucene/index/DirectoryReader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.35117057">
-          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
-          <folding />
+          <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/TableMetaDataHelper.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-core/4.6.1/lucene-core-4.6.1-sources.jar!/org/apache/lucene/util/Version.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32608697">
-          <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
-          <folding>
-            <marker date="1433326110000" expanded="true" signature="-1:-1" placeholder="SELECT COLUM..COLUMNS..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/nio/file/Path.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33277592">
-          <caret line="97" column="17" selection-start-line="97" selection-start-column="17" selection-end-line="97" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.lucene.webapp/src/main/java/org/gver/web/Searcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36096257">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.jdk/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41099477">
-          <caret line="56" column="35" selection-start-line="56" selection-start-column="35" selection-end-line="56" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36260623">
-          <caret line="176" column="44" selection-start-line="176" selection-start-column="44" selection-end-line="176" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.spring-aop/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6373938">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.spring-aop/src/main/resources/spring/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.509915">
-          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.spring-aop/src/main/java/org/gver/AccountManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44759208">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="143" column="14" selection-start-line="143" selection-start-column="14" selection-end-line="143" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test.lucene/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33994335">
-          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
-          <folding />
+        <state vertical-scroll-proportion="0.44816053">
+          <caret line="59" column="24" selection-start-line="59" selection-start-column="24" selection-end-line="59" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.lucene/src/main/java/org/gver/lucene/Searcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21246459">
+          <caret line="105" column="0" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.mybator/target/SellerDealSummary/conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5504087">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.mybator/target/CompanyTradeSummary/CompanyTradeSummary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.021798365">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.mybator/target/CompanyTradeSummary/CompanyTradeSummaryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.4959128">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.mybator/target/SellerDealSummary/SellerDealSummary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.mybator/target/CompanyTradeSummary/conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3678474">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.mybator/target/DealSummary/conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5722071">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.mybator/target/BuyerDealSummary/conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.530303">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test.lucene/src/main/java/org/gver/lucene/Indexer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29745042">
-          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="83" column="19" selection-start-line="83" selection-start-column="19" selection-end-line="83" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.jdk/src/main/java/datetime/DateTimeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30100334">
+          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0-sources.jar!/com/google/common/io/Resources.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.039267015">
+          <caret line="191" column="20" selection-start-line="191" selection-start-column="20" selection-end-line="191" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.mybator/target/CompanyExtra/CompanyExtra.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="125" column="29" selection-start-line="125" selection-start-column="29" selection-end-line="125" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/util/stream/StreamSupport.java">
+    <entry file="file://$PROJECT_DIR$/test.mybator/target/CompanyExtra/conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.1571906">
-          <caret line="44" column="7" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.mybator/target/CompanyDailySummary/CompanyDailySummary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.mybator/target/CompanyDailySummary/conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.jdk/src/main/resources/data">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.jdk/src/main/resources/dest">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.jdk/src/main/java/io/FileChannelTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30578512">
+          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/nio/channels/SelectionKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="240" column="28" selection-start-line="240" selection-start-column="28" selection-end-line="240" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.jdk/src/main/java/net/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4478022">
+          <caret line="48" column="20" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar!/sun/nio/ch/SelectionKeyImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.331307">
+          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/nio/Buffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="355" column="24" selection-start-line="355" selection-start-column="24" selection-end-line="355" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.jdk/src/main/java/net/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="82" column="51" selection-start-line="82" selection-start-column="51" selection-end-line="82" selection-end-column="51" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/util/Collection.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar!/sun/nio/ch/SocketChannelImpl.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3478261">
-          <caret line="584" column="32" selection-start-line="584" selection-start-column="32" selection-end-line="584" selection-end-column="32" />
+        <state vertical-scroll-proportion="0.3305785">
+          <caret line="1200" column="40" selection-start-line="1200" selection-start-column="40" selection-end-line="1200" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/nio/channels/SocketChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="128" column="5" selection-start-line="128" selection-start-column="5" selection-end-line="128" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.mybator/src/main/resources/templates/mapper.flt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="117" column="19" selection-start-line="117" selection-start-column="19" selection-end-line="117" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.mybator/target/HaiercashConfig/conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.mybator/target/HaiercashConfig/HaiercashConfigMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="100" column="23" selection-start-line="100" selection-start-column="23" selection-end-line="100" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0-sources.jar!/com/google/common/base/Strings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34710744">
+          <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.mybator/target/HaiercashConfig/HaiercashConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2962963">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.mybator/src/main/resources/templates/Service.flt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.2916665">
+          <caret line="56" column="67" selection-start-line="56" selection-start-column="66" selection-end-line="56" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/TableMetaDataHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44444445">
+          <caret line="22" column="59" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="59" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.pay/src/main/java/alipay/dto/ParamDeserializer.java">
+    <entry file="file://$PROJECT_DIR$/test.mybator/target/InstallmentConfig/InstallmentConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27142859">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="44" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="44" />
           <folding>
-            <element signature="e#0#777#0" expanded="true" />
+            <element signature="e#0#1901#0" expanded="false" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.pay/src/main/java/alipay/dto/settlement/AlipaySettlementParam.java">
+    <entry file="file://$PROJECT_DIR$/test.mybator/target/InstallmentConfig/InstallmentConfigDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.014285714">
-          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#726#0" expanded="false" />
+            <element signature="e#0#1538#0" expanded="false" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.guava/src/main/java/test/guava/event/StudentMsg.java">
+    <entry file="file://$PROJECT_DIR$/test.mybator/target/InstallmentConfig/InstallmentConfigDaoTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6">
-          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="37" />
           <folding>
-            <element signature="e#0#320#0" expanded="true" />
+            <element signature="e#0#4886#0" expanded="false" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.pay/src/main/java/test/http/SignUtil.java">
+    <entry file="file://$PROJECT_DIR$/test.mybator/target/InstallmentConfig/InstallmentConfigMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.042857144">
-          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="95" column="35" selection-start-line="95" selection-start-column="35" selection-end-line="95" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.pay/src/main/java/alipay/dto/settlement/AlipaySettlementPaging.java">
+    <entry file="file://$PROJECT_DIR$/test.mybator/target/InstallmentConfig/InstallmentConfigService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6571429">
-          <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
           <folding>
-            <element signature="e#0#590#0" expanded="true" />
+            <element signature="e#0#3551#0" expanded="false" />
+            <element signature="imports" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.mybator/target/InstallmentConfig/conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.mybator/src/main/java/test/mybator/generator/_0.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.mybator/target/InstallmentChannel/InstallmentChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#1256#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.mybator/target/InstallmentChannel/conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.pay/src/main/java/test/http/HttpRequest0.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="153" column="14" selection-start-line="153" selection-start-column="14" selection-end-line="153" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.pay/src/main/java/alipay/AlipayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="60" column="434" selection-start-line="60" selection-start-column="434" selection-end-line="60" selection-end-column="434" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36923078">
-          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        <state vertical-scroll-proportion="0.71153843">
+          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.spring-aop/src/main/java/org/gver/LoggerAspect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32608697">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.spring/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25083613">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.jdk/src/main/java/compile/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3979933">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.lucene/src/main/java/org/gver/lucene/BaiduZhidaoIndexer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32608697">
-          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.jdk/src/main/java/collection/ListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35117057">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.lucene.webapp/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35714287">
-          <caret line="127" column="0" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12">
-          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
       </provider>
     </entry>
   </component>

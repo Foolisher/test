@@ -5,6 +5,7 @@ import com.google.common.collect.Maps;
 import lombok.Data;
 import org.junit.Test;
 
+import java.io.IOException;
 import java.util.Map;
 
 import static io.terminus.common.utils.JsonMapper.JSON_NON_DEFAULT_MAPPER;
@@ -43,15 +44,13 @@ public class HttpRequest0 {
 
 
     @Test
-    public void testGetRefundByOrderItemIds() {
-
+    public void 退款订单状态复查() {
         Map params = Maps.newHashMap();
         params.put("sellerId", "2");
-        params.put("orderItemIds", "356,357,1,2,3,4,5,6");
+        params.put("orderItemIds", "10283,1,2,3,4,5,6");
         params.put("sign", SignUtil.sign(params, key));
-        String resp = HttpRequest.get("http://daqihui.ngrok.com/api/order/outer/refund/statusInfos", params, true).body();
+        String resp = HttpRequest.get("http://daqihui.tunnel.mobi/api/order/outer/refund/statusInfos", params, true).body();
         System.out.println(resp);
-
     }
 
 
@@ -167,23 +166,35 @@ public class HttpRequest0 {
 
 
     @Test
-    public void test3() {
-
-        String url = "http://daqihui.ngrok.com/api/order/outer/paid";
-
+    public void 支付订单查询() throws IOException {
+        String key = "bUo8rvGoPDcetkBRXwJCQsQLqnZ2GKnf";
+        String url = "http://daqihui.tunnel.mobi/api/order/outer/paid";
         Map params = Maps.newHashMap();
         params.put("sellerId", "2");
-        params.put("paidAtStart", "2014-12-19 12:14:50");
-        params.put("paidAtEnd", "2014-12-19 12:30:29");
+        params.put("paidAtStart", "2015-06-01 12:14:50");
+        params.put("paidAtEnd", "2015-06-20 12:30:29");
         params.put("sign", SignUtil.sign(params, key));
-
         System.out.println(params.get("sign"));
-
         String resp = HttpRequest.get(url, params, true).body();
-
         System.out.println(resp);
-
     }
+
+    @Test
+    public void 退款订单查询() throws IOException {
+        String key = "bUo8rvGoPDcetkBRXwJCQsQLqnZ2GKnf";
+        String url = "http://daqihui.tunnel.mobi/api/order/outer/refund";
+        Map params = Maps.newHashMap();
+        params.put("sellerId", "2");
+        params.put("refundReqAtStart", "2015-05-01 12:14:50");
+        params.put("refundReqAtEnd", "2015-06-20 12:30:29");
+        params.put("sign", SignUtil.sign(params, key));
+        System.out.println(params.get("sign"));
+        String resp = HttpRequest.get(url, params, true).body();
+        System.out.println(resp);
+    }
+
+
+
 
     @Test
     public void test5() {

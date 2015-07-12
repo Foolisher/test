@@ -1,7 +1,6 @@
 package test.mybator.generator;
 
 import com.google.common.base.Strings;
-import com.google.common.collect.ImmutableList;
 import com.google.common.collect.Lists;
 import com.google.common.io.Files;
 import freemarker.ext.beans.BeansWrapper;
@@ -23,7 +22,9 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class _18_groupon_logistics_infos_FreeMarkerUtil {
+import static com.google.common.collect.ImmutableList.of;
+
+public class _22_groupon_agent_reg_users {
 
     private static Configuration cfg;
 
@@ -32,7 +33,6 @@ public class _18_groupon_logistics_infos_FreeMarkerUtil {
     static {
         cfg = new Configuration();
         try {
-            System.out.println(classpath);
             cfg.setDirectoryForTemplateLoading(new File(classpath+"templates"));
         } catch (IOException e) {
             e.printStackTrace();
@@ -53,19 +53,19 @@ public class _18_groupon_logistics_infos_FreeMarkerUtil {
         Map<String, Object> root = new HashMap<String, Object>();
 
         // TODO 表名称、实体名称、描述信息、包路径、数据库schema
-        String tableName = "groupon_logistics_infos";
-        String model = "LogisticsInfo";
-        String desc = "团购平台订单物流";
-        root.put("package", "io.terminus.groupon.trade");
-        root.put("schema", "groupon");
+        String tableName    = "groupon_agent_reg_users";
+        String model        = "AgentRegUser";
+        String desc         = "代理商引入注册用户";
+        root.put("package",   "io.terminus.groupon.user");
+        root.put("schema",    "daqihui_new");
 
-        root.put("propertyWidth", 25);
-        root.put("typeWidth", 20);
-        root.put("propertyDeclareWidth", 16 + 30);
+        root.put("propertyWidth", 20);
+        root.put("typeWidth", 17);
+        root.put("propertyDeclareWidth", 35);
 
         // TODO 查询字段
         List<List<String>> addQueryFields = Lists.newArrayList();
-        addQueryFields.add(ImmutableList.of("order_id"));
+        addQueryFields.add(of("agent_id", "company_id", "created_at"));
 
 
         root.put("tableName", tableName);

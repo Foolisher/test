@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2014 杭州端点网络科技有限公司
+ * Copyright (c) 2014
  */
 
 package alipay;
@@ -27,15 +27,10 @@ public class AlipayTest {
 
 
 
-//    String pid = "2088901984379736";
-//    String key = "yf9beggspym0bsqtwlb8znz2990s61au";
-//    String email = "zhenguan.yang@gmail.com";
-//    String gateway = "https://www.alipay.com/cooperate/gateway.do";
-
-    String pid = "2088011718922324";
-    String key = "hru1olclg54jz9ikqe0t6da2446zujn2";
-    String email = "rrs.jiaju@goodaysh.com";
-    String gateway = "https://www.alipay.com/cooperate/gateway.do";
+    String pid = "*";
+    String key = "*";
+    String email = "*";
+    String gateway = "*";
 
 //    buyer_email	["15168334488"]
 //    buyer_id	["2088202871353074"]

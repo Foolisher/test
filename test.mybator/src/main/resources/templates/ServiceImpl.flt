@@ -42,7 +42,7 @@ public class ${model}ServiceImpl implements ${model}Service {
             return Response.ok(${ali}Dao.create(${ali}));
         }catch (Exception e){
             log.error("Failed to insert into `${tableName}` with param:{}", ${ali} , e);
-            return fail("${tableName}.insert.failed");
+            return Response.fail("${tableName}.insert.failed");
         }
     }
 
@@ -59,7 +59,7 @@ public class ${model}ServiceImpl implements ${model}Service {
                 log.warn("No records found from `${tableName}` with id:{}", id);
                 return Response.fail("${tableName}.select.failed");
             }
-            return ok(${ali});
+            return Response.ok(${ali});
         }catch (Exception e){
             log.error("Failed to findById from `${tableName}` with id:{}", id , e);
             return Response.fail("${tableName}.select.failed");

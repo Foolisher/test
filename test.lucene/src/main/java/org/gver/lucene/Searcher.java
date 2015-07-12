@@ -12,7 +12,6 @@ import org.apache.lucene.search.highlight.*;
 import org.apache.lucene.search.highlight.Scorer;
 import org.apache.lucene.store.FSDirectory;
 import org.apache.lucene.util.Version;
-import org.junit.Test;
 
 import java.io.File;
 
@@ -24,7 +23,7 @@ public class Searcher {
 
     private static final String indexDir = "/usr/dev/workspace-luna/test/test.lucene/src/main/resources/indexes/";
 
-    @Test
+    
     public void query() throws Exception {
 
         IndexReader indexReader = DirectoryReader.open(FSDirectory.open(new File(indexDir)));
@@ -48,7 +47,6 @@ public class Searcher {
 
     }
 
-    @Test
     public void testHighlighter() throws  Exception{
 
         IndexReader indexReader = DirectoryReader.open(FSDirectory.open(new File(indexDir)));
@@ -104,7 +102,6 @@ public class Searcher {
     }
 
 
-    @Test
     public void queryNews() throws  Exception{
 
         IndexReader indexReader = DirectoryReader.open(FSDirectory.open(new File(indexDir+"news/")));

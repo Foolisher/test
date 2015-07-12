@@ -29,7 +29,7 @@ public interface ${model}Service {
      * @return 新增后的自增序列号
      */
     @Export(paramNames = {"${ali}"})
-    public Response<Boolean> create(@NotNull(message = "param.null.error") ${model} ${ali});
+    Response<Boolean> create(@NotNull(message = "param.null.error") ${model} ${ali});
 
 
     /**
@@ -38,7 +38,7 @@ public interface ${model}Service {
      * @return 返回的 ${ali}
      */
     @Export(paramNames = {"id"})
-    public Response<${model}> findById(@NotNull(message = "param.null.error") Long id);
+    Response<${model}> findById(@NotNull(message = "param.null.error") Long id);
 
 
     /**
@@ -47,7 +47,7 @@ public interface ${model}Service {
      * @return ${model} 列表
      */
     @Export(paramNames = {"ids"})
-    public Response<List<${model}>> findByIds(@NotNull(message = "param.null.error") List<Long> ids);
+    Response<List<${model}>> findByIds(@NotNull(message = "param.null.error") List<Long> ids);
 
 
     /**
@@ -91,7 +91,7 @@ public interface ${model}Service {
      * @return 影响行数
      */
     @Export(paramNames = {"${ali}"})
-    public Response<Boolean> update(@NotNull(message = "param.null.error") ${model} ${ali});
+    Response<Boolean> update(@NotNull(message = "param.null.error") ${model} ${ali});
 
 
     /**
@@ -101,7 +101,7 @@ public interface ${model}Service {
      * @return 删除行数
      */
     @Export(paramNames = {"ids"})
-    public Response<Integer> deleteByIds(@NotNull(message = "param.null.error") List<Long> ids);
+    Response<Integer> deleteByIds(@NotNull(message = "param.null.error") List<Long> ids);
 
 
 }

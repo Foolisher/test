@@ -99,6 +99,8 @@ public class TableMetaDataHelper {
 
     public static Map<String, String> typeMapping = new HashMap<String, String>() {
         {
+            put("BIT", "Boolean");
+            put("TINYINT", "Boolean");
             put("SMALLINT", "Integer");
             put("INT", "Integer");
             put("BIGINT", "Long");

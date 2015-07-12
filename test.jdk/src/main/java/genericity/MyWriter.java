@@ -17,14 +17,13 @@ public class MyWriter<T> {
 
 
     public static <T> MyWriter<T> build(T obj) {
-        return new MyWriter<T>();
+        return new MyWriter();
     }
 
 
     public static void main(String[] args){
 
         MyWriter<HashMap> myWriter = MyWriter.build(new HashMap());
-
 
     }
 
